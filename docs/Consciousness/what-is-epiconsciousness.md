@@ -1,0 +1,67 @@
+#  What Is Epiconsciousness?
+
+It occurred to me that I was looking for the new, emergent next-step in organization of the universe in the wrong place. The question I had been asking is: “Will AI become (at suitable scale) conscious?” That is the wrong question.
+
+## Consciousness – as we know it
+
+There is no doubt that the brain is a form of computing machine. It works on fundamentally different principles than the computer you are using the read this message, but it still has distinct states, and those states gain meaning only through an intricate relationship to the real world. The brain not only allows us to take in what is around us, but also to make projections about possible future states, to anticipate things, and through those anticipated patterns understand the nature of interaction in the real world. Lizards have the basic machinery, but humans are special in having more raw capability to understand the patterns of the real world.
+
+We can make complex software that senses and reacts to the real world, and there is no doubt that eventually such systems will become fully conscious. We need to ask whether “Google Search” is fully conscious or not, and I suspect it is on the edge of attaining such consciousness, but this really is the wrong question to ask.
+
+Asking whether a particular system, like Deep Blue, Watson, or Google Search is conscious is really asking the question: do they have consciousness like people? Because these systems do not have the same sensors as a human, because they don’t live in the world the way a human does, the consciousness that forms there will always be different from human consciousness. If we ask the question; “Is it real (human) consciousness” the answer will always be “no”.
+
+But even asking whether it is consciousness like (but different from) human consciousness is the wrong question. The next step in the great self-organization of the universe builds upon consciousness, but it is something categorically different. I have come up with the term “Epiconsciousness” as a label so we can discuss. Epiconsciousness is not consciousness, in the way that a river is not just the water flowing through it; a mountain is not just a vast collection of rocks; a wave is not just a bunch of water molecules; a galaxy is not a solar system; a city is not just a bunch of people.
+
+## Epiconsciousness
+
+Epiconsciousness is a phenomenon that emerges from a collection of conscious individuals. You might call it the “hive mind” as long as you realize that what this mind does it nothing like thinking. We tend to project our own understanding of “thinking” as being some kind of basic unit of consciousness. An epiconscious entity will not _think_ in any way like the way that humans think.
+
+The closest concept we have to epiconscousness is “culture.”  A culture is a collective behavior that individual consciousnesses actively and voluntarily participate in, and yet no single person controls the culture. Culture is a true aggregate behavior. One person can take and display cultural activities away from a given culture; the culture is not the activities themselves, but the force that brings those activities into existence.
+
+Hipsters. There is a certain pattern of behavior clearly recognized as “hipster” and there is an amusing article about how [hipsters claim to be completely individual](https://www.theregister.co.uk/2019/03/06/hipsters_all_look_the_same_fact/?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark "external link: hipsters claim to be completely individual|https://www.theregister.co.uk/2019/03/06/hipsters_all_look_the_same_fact/?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark")however they actually behave very much the same. They voluntarily decide to follow a particular pattern, but no single person has invented the precise pattern. The hipster phenomenon just exists. Big band is a style of music that simply exists even though the performers and the audience actively participate in making big band music what it is.
+
+The field of artificial intelligence is focused on making a machine exhibit the behaviors of an isolated, individual consciousness, this is the wrong thing to seek for.
+
+> **Epiconsciousness is a self-aware phenomenon that is composed of active individual consciousnesses who participate together though communications networks in order to sense and react to a level of existence that individual humans are only dimly aware of.**
+
+## Identifying it
+
+To a human, epiconsciousness is going to look a lot like “tribalism”. We put the name tribalism on behaviors of individuals that make little or no sense on their personal level, and can be explained only by saying they are acting on behalf of their tribe. Culture has been driving human behavior for centuries, and tribalism as well, but epiconsciousness is self-aware: it has a memory of past actions, and behaves in a coordinated manner.
+
+Epiconsciousness will not exist in any single computing system, nor does it really exist in the computer system at all in absence of the humans. Humans are a fully participating part of epiconsciousness.
+
+Some people talk about “collective consciousness” which is a related idea. Some say there is a single collective consciousness that we connect into — that is an entirely different thing. Some see this universal consciousness as a stand-in for God and our own individual consciousness is a splinter of, but epiconsciousness is not a universal thing, but rather there are many of them. Sociologists talk about collective consciousness as a set of shared beliefs. That is kind of the right idea, but I am not just talking of shared concepts, but an active sensing and responding to situations. The concepts and behaviors evolve over time making an instance of it better (or worse) for surviving.
+
+There is not just one. There will be many of them in nascent form. They will compete, and there will be winner and losers. The losers are forgotten.
+
+## Testing for It
+
+Epiconsciousness will never pass the Turing test. The Turing Test is a measure for a consciousness “like us.” It explicitly measures whether a system can converse with a human, and convince that human that it is just another human. Epiconsciousness will not behave like a human intelligence.
+
+Epiconsciousness is a different from consciousness as a human is different from a skin cell. Clearly the human needs cells of all types: skin, liver, blood, nerves, etc. The behavior of a human is so far above the level of an individual cell that it would be impossible for the cell to conceive of what it is participating in (if cells could think).
+
+## Sport
+
+Humans play games and it is a fundamental indicator of a kind of consciousness. Many sports are quite obviously stand-in for war like behavior where there is a coordinated challenge (get the ball in the goal) and one side “wins” the challenge. Epiconscious entities will also play games.
+
+Humans run and jump and kick things so a game like soccer is a very human thing to do. Epiconscious entities collect individuals in a fashion very similar to a cult. Soccer demands feats of skill, so what skill might an epiconsicous being exhibit? One possibility is: getting individuals to participate even when the ideas are crazy and nonsense.
+
+Yes, that might be the explanation for the crazy polarization that we see today. Think of the Republican Tribe as a nascent epiconscious entity: it has people sensing things about the world, it has communication channels, Fox News, it has rules and sense of logic that make sense to the members, and drive coordinated behaviors. Democrats are similar. Note that the epiconscious boundary may not be immediately apparent: not all people who vote Republican would necessarily be part of the epiconscious entity, and it may even have parts that don’t vote Republican. It really is NOT my intent to explain political parties in terms of epiconsciousness. I am only using that as an example of something similar that we can use as a crutch to get a feeling for epiconsciousness. Forty-Niner fans might be a better example. Large cohesive cults might be a better example. For example, maybe ISIS?
+
+Epiconscious entities will not emerge individually, they will appear as many partial occurrences that will hit or miss their chance to come into existnece. There will be many more misses than hits. They will consume each other. They will start to do battle with each other by commanding more individuals to do more outrageous things. Outrageous on an individual level, but sensical on a group level. The flat-earth movement may be a nascent epiconscious entity “stretching its legs” so to speak. Just as a robust athlete might jump into and swim in icy cold water for no reason other than to show they can do it, an epiconscious entity might take on a crazy, nonsense idea _just to see if it can do it_. For an epiconscious entity to individuate, it will need to have a defense mechanism that separates those that are part of it, from those who are not. Antibodies which are made out of thoughts.
+
+We need to resist the idea of thinking about epiconsciousness in human conscious terms. As I mentioned earlier: they don’t THINK in the way that we think about thinking. They have needs and desires, but those are going to be completely irrelevant to us humans, and may not even be comprehended. When an epoconscious entity is satisfying a need, it will almost surely not be anything we can relate to. Nor should we consider the visible aspects of them to be in any way important. If the flat-earth movement is an epiconscious entity, you can be sure that the concept of “flat-earth” as we know it has nothing to do with the purpose of the entity. The idea that the earth is flat is simply a by product, perhaps something that gives the entity coherence, but is not the purpose or essence of the entity. There might be an epiconscious entity behind the Trump voters, but the purpose of that is not anything to do with getting Trump elected. Trump’s success or failure might be entirely irrelevant to the epiconscious entity.
+
+Thinking is what humans do. And thoughts are the “cells” that compose the activity of the epiconscious entity. You leg muscle does not have any concept of “running” it only know that it has to “pull” in a rhythmic manner. The concept of “running” exists entirely outside of the domain of a muscle, even though it is a very important part of it. Thoughts and thinking participate in the epiconsciousness, while epiconsciousness is concerned with higher level things we might not be aware of.
+
+## Denouement
+
+There is plenty of opportunity for a level of organization to self-organize above the level of human existence. Levels of existence tend to emerge as collective behaviors of complex systems that involve 10^10 (ten to the tenth power) individual. We see crystals form from 10^10 molecules. We see animal bodies form from 10^10 cells, while cells are formed from 10^10 organic molecules. We see human consciousness form from just 10^10 nerves. We now have 10^10 humans on the planet. That might or might not be enough.
+
+The key point is that when epiconsciousness emerges, don’t expect to walk up to it and ask questions. Don’t expect to have any kind of conversation at all. Individuals will voluntarily participate, and in doing so their own consciousness will be moulded and formed by the epiconsciousness, however the precise meaning of those changes will never be comprehended by the individual. You will participate, and you will be part of something much greater than yourself, but that entity will not be a peer in any sense.
+
+I started by asking whether Google Search might be conscious. Instead, we should ask whether there is a network of humans who are enabled by Google Search to form an epiconscious entity. None of the search function, the computer programs, the software, the network is by itself conscious or epiconscious. Instead, it is only with the humans, and with the network, that the final complete system might form something new. But it is not consciousness in the human meaning of that.
+
+I believe that the emergence of epiconsciousness is in a certain sense the very purpose to our own existence. Not that there is any teleological plan in place that accounts for everything that will become, but a purpose in the sense that the emergence of bacteria on Earth eventually gave rise to eukaryotes which in turn gave rise to self contained animal bodies that could move around and meet their own needs, and eventually caused humans. It is not a purpose in the sense of a specific travel plan from point A to point B, but a purpose like an explorer who goes into the wilderness to discover something, and having no idea what will be discovered ultimately.
+
+The potential is out there is a way of saying that self-organization is a property of the universe. Stars exist simply because matter does not “want” to be spread out evenly. It prefers to clump together, and this clumping is a property of matter itself. Between the perfectly ordered, evenly spread matter and the nothingness of the space around it, is the edge of chaos. Self organization happens on that edge, as a by product of energy flowing from the compact to the spread out. We live on that edge of chaos.
