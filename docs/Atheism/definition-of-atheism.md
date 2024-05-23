@@ -1,4 +1,4 @@
-#  What Does ‘Atheism’ Mean?
+#  Definition of Atheism
 
 From the etymology, atheism mean the opposite of theism. While theism is about a belief in gods, the opposite might be either “no belief in gods” or the “belief in no gods”.  The population is split across these two meanings in a curious way, and this has implications if you want to be understood.
 

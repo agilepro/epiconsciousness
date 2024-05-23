@@ -5,17 +5,9 @@
 
 “_atheism is the religious belief in spontaneous, causeless, sourceless, purposeless, meaningless existence._”   That was the comment that was made to me.  I don’t agree.  Here is my response.
 
-## Is atheism a religion?
+## Is Atheism a Religion?
 
-“_atheism is a religious belief_” — well sort of. There are two main types of atheism, gnostic and agnostic.
-
-**Gnostic** is the actual belief that no gods exist.  I am on the fence as to whether this counts as a religion or not.  It is a belief about god something like a religious belief; it is a positive statement about the universe and could be used as a guiding principle.   Yet as a religion, it is completely different from any other religion because all religions involve a god of some type. About 50% of atheists fall in this category.
-
-**Agnostic** is simply the rejection of existing religions. There is no belief per se. This person is saying “I don’t know what the truth is, but I am convinced that that, that, and that are false.” This is a position of critique of existing religions, would proffering any beliefs of their own. This is certainly NOT a religion. The other 50% of atheists fall in this category.
-
-I don’t think that atheism qualifies as a religion, but I don’t push back on people who insist that it is.  It doesn’t really matter, and it depends on what specifically you mean by religion.  If they want to say it is a religion, it is not worth fighting over.
-
-See: [https://meta.purplehillsbooks.com/2020/05/14/what-does-atheism-mean/](https://meta.purplehillsbooks.com/2020/05/14/what-does-atheism-mean/)
+Atheism can not be considered a religion by any measure of what a religion is.  See [Is Atheism a Religion?](is-atheism-religion)
 
 ## Is Atheist Existence Meaningless?
 
