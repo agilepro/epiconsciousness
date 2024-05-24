@@ -2,6 +2,12 @@
 
 From the etymology, atheism mean the opposite of theism. While theism is about a belief in gods, the opposite might be either “no belief in gods” or the “belief in no gods”.  The population is split across these two meanings in a curious way, and this has implications if you want to be understood.
 
+:::tip[Kernel]
+
+There are two meanings of atheism.  Some audiences actively undermine the meanings to political advantage.  Just use the term "non-believer" instead.
+
+:::
+
 ## Two Different Meanings
 
 The first meaning — **no belief in gods** — is a simple rejection of existing religions:  a rejection of the myths, a rejection of supernatural stories.  An atheist might deny that Jesus resurrected himself after 3 days, that Mohammad flew to heaven on a winged horse, that Thor throws lightning bolts, that Odin holds court in Valhalla, that Shiva gathered the world from dust, that all religions are based on stories that should not be _believed_ at face value.  In this meaning, atheism is not a positive claim about any aspect of reality, only a rejection of all such ancient religion-forming myths.
@@ -42,14 +48,16 @@ I held a casual poll in an atheist Facebook group:
 
 The result of this poll is that about 50% of the atheists in that group identified with the gnostic definition as their own position, and about 50% identified with the agnostic definition.  In conversations, it seems like most atheists agree that the agnostic position is still included under the definition of atheism.  It is also true that there are theist-agnostics who believe there is a God but don’t claim to know it.  There certainly are no arguments in atheist groups with one side insisting that it has to be the strong definition.
 
+![](definition-of-atheism.png)
+
 ## The Religious View it Very Differently
 
 Traditional Christian and Muslim religious groups overwhelmingly use the second, stronger definition.  A cynic might suggest this is because the stronger definition is easier to argue against.  If you claim to have a belief based on evidence, then how can you have sufficient evidence that no god exists anywhere in the universe?  It is well known that in general you can’t prove that something does not exist, so any atheist must be believing there are no gods do so without sufficient evidence.  It makes atheism into a kind of religion with _faith_ that no gods exist.
 
 I ran another polls on Facebook:
 
-*   94% – I am Christian, and an atheist claims there is no God
-*   3% – I am Christian, and an atheist does not believe in God, but makes no claim on whether God exists or not.
+*   96% – I am Christian, and an atheist claims there is no God
+*   4% – I am Christian, and an atheist does not believe in God, but makes no claim on whether God exists or not.
 
 Here, the responses were stark.  **94% of the responses** say that atheism means the positive claim that there are no gods.  This was not a scientific survey by any means, with errors as high as 10%, however there is no mistaking how consistently the Christians attributed the meaning to the word.  This also corresponds to my own experience in talking with Christians:  they virtually always understand atheism to mean the claim that there are no gods.  In fact, they view the agnostic explanation as a sneaky attempt to make the word friendlier in order to gain more converts.  Most atheist and Christians simply talk past each other by using different definitions of the same word, and utterly fail to communicate.
 

@@ -1,3 +1,7 @@
+---
+  title: Meaning of Life
+  sidebar_position: 2
+---
 #  Meaning of Life
 
 Why are we here?

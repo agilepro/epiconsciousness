@@ -6,11 +6,11 @@ const path = require('path');
 
 const config: Config = {
   title: 'Epiconsciousness',
-  tagline: 'Philosophy of existence and poetic naturalism.',
+  tagline: 'Philosophy of existence and Material Positivism.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://epic.purplehillsbooks.com',
+  url: 'https://meta.purplehillsbooks.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -70,7 +70,8 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Reference',
+          label: 'Knowledge Base',
+          to: '/docs/intro',
         }
       ],
     },
@@ -81,7 +82,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Reference',
+              label: 'Knowledge Base',
               to: '/docs/intro',
             },
           ],
@@ -91,15 +92,15 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://meta.purplehillsbooks.com',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://meta.purplehillsbooks.com',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://meta.purplehillsbooks.com',
             },
           ],
         },
@@ -112,12 +113,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://meta.purplehillsbooks.com',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Purple Hills Books.`,
+      copyright: `Copyright ©2011-${new Date().getFullYear()} Chet Anderson.`,
     },
     prism: {
       theme: prismThemes.github,
@@ -294,7 +295,7 @@ const config: Config = {
           },
           {
             from: '/2020/12/23/banishing-zombies/',
-            to: '/docs/Consciousness/banishing-zombies',
+            to: '/docs/Consciousness/zombies-nonsense',
           },
           {
             from: '/2020/11/28/material-positivism/',

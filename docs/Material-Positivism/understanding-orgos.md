@@ -1,3 +1,7 @@
+---
+  title: Understanding Orgos
+  sidebar_position: 4
+---
 #  Understanding Orgos
 
 Self organization produces increased organization, but what do we mean by organization?  Here I introduce the term “**orgos**” and explain what it means.  

@@ -1,3 +1,7 @@
+---
+  title: Metaethics - Rule Sets
+  sidebar_position: 5
+---
 #  Metaethics: Rule Sets
 
 When talking about morals, there are a lot of moving parts and different people use the same words different ways.  This post is an attempt to lay out some terminology that might be useful in discussing morals and ethics.This is the beginning of trying to describe morals and related to my earlier post Material Positivism which was clearly not well enough explained.  It will probably take a few more posts to get a clear picture of this understandably complex topic.

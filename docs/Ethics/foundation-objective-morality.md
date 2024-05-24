@@ -1,4 +1,8 @@
-#  A Foundation for Objective Morality
+---
+  id: foundation-objective-morality
+  sidebar_position: 1
+---
+#  Objective Morality - Foudation
 
 This is a defense of the idea that morality which guides what we should and should not do, can be based on objective measurements of well-being.  A subjective standard for morality does not work as well.
 

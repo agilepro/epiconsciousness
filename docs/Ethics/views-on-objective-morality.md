@@ -1,4 +1,8 @@
-#  Views on Objective Morality
+---
+  id: views-on-objective-morality
+  sidebar_position: 3
+---
+#  Objective Morality - Views
 
 After writing “[A Foundation for Objective Morality](https://meta.purplehillsbooks.com/2020/07/13/a-foundation-for-objective-morality/)” I received a lot of comments that concerned a lot of detail on the approach.   This post is to respond to a small collections of posts by those who have written about subjective and objective morality.
 

@@ -1,3 +1,7 @@
+---
+  title: Enlightenment is a Journey
+  sidebar_position: 1
+---
 #  Enlightenment is a Journey
 
 It proceeds in what you can call levels: at each level you gain a new a different view of the universe, and more becomes apparent to you.  This is limited to your lifetime, but there is another aspect: the written record we leave behind for others.

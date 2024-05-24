@@ -1,5 +1,6 @@
 ---
   title: Morality Lies in Wholeness
+  sidebar_position: 4
 ---
 #  Morality, Like Beauty, Lies in Wholeness
 

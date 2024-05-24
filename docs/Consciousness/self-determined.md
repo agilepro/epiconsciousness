@@ -16,11 +16,13 @@ I originally wrote this post using the term “free will” but I have changed m
 *   **Moral responsibility** – the idea that a particular outcome was primarily caused by actions that one person did based on their internal needs and desires (self will).
 *   **Punishment** – a disagreeable action taken against a person in response to an action they took; negative reinforcement of an action.
 
-## Philosophical Self Will
+## Self Will vs. Free Will
 
-Free will is normally defined as the ability to make choices that have no dependency on anything in the universe. Literally not anything: not your past, not your experience, not your knowledge, not your upbringing, not the people who are around you, not your culture: freedom depends on nothing.  No fact about any existence would constrain your choice in any way. That is how the problem has traditionally been framed. We think we desire this, but in fact most people are very confused about what it means to make a choice that has _no dependency on anything in the universe_.
+Free will is defined as the ability to make choices that have no dependency on anything in the universe. Literally not anything: not your past, not your experience, not your knowledge, not your upbringing, not the people who are around you, not your culture: freedom depends on nothing.  No fact about any existence would constrain your choice in any way. The way this is usually described is that you could go back to some point in time, when the universe was exactly as it was the first time around, and make a different decision.  If the will depends in any way on the state of the universe, you would never be able to do this.
 
-Instead, we desire _self will_.  That is, our will should be determined by ourselves, by what we have learned, what we desire, and what our culture has taught us.  We don’t want undetermined choices, but instead we want choices determined by _ourselves_.
+We think we have and desire free will, but in fact free will would be pretty horrible.   It would mean that your choices might have no dependence at all on whether the choice was good or bad.  It is quite important to make choices that in fact depend on the way things are.  A choice that has _no dependency on anything in the universe_ is essentially random.
+
+Instead, we have and desire _self will_.  That is, our will should be determined by ourselves, by what we have learned, what we desire, and what our culture has taught us.  We don’t want undetermined choices, but instead we want choices determined by _ourselves_.
 
 **Here is a choice:** do you put butter or arsenic on your toast? If your choice is not constrained by any dependency on anything, then (assuming you have equal access to both ingredients) half the time you would choose butter, half the time arsenic. The standard way to make a choice that has no dependency on anything in the universe is to use a random number generator which can choose one option or the other without any dependency on anything in the universe. 
 
@@ -124,7 +126,7 @@ It is not that swatting a fly is more complex than a beating heart. Swatting a f
 
 > Self will is simply a name for a capability to choose one action from alternate courses of action where the reasons for choosing one course over others was from our own internal needs and desires, and not imposed by anyone else.
 
-## Self Will is an Illusion
+## Self Will as Illusion
 
 Some people still believe self will is an illusion.  This is usually from very intelligent people who have considered carefully their lives.  We go to work every day: is that determined?  Or self will?   We visit a friend at the local happy hour and drink a beer together.  Is that determined?  Or self will?
 

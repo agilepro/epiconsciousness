@@ -1,3 +1,7 @@
+---
+  title: Structure of Reality
+  sidebar_position: 3
+---
 #  Structure of Reality
 
 Here I’d like to explain a little bit about how to structure reality to help make sense of all the things that are around us. The way you structure you metaphysics either permits or impedes all discussion of the universe. It effects what you can and can not know. This is one of many posts to attempt to set out a clear and complete metaphysics of reality.
@@ -76,4 +80,4 @@ Is there a level 6? The more important question: if there were higher levels, wo
 
 This is a very quick overview of metaphysics is kept succinct on purpose, but I hope to expand on all these layers in the near future.  The higher levels _build on_ and _extend_ the lower levels, but do not exist without the lower levels. Culture is built of thoughts, which _are_ at the same time processes, which _are_ at the same time patterns, which _are_ at the same time material.  There is such a strong tendency to separate the different aspects of reality, that it is quite a challenge to see the real integrated nature of everything.
 
-If you need a label, I am calling all this “**Material Positivism**“
+If you need a label, I am calling all this “**[Material Positivism](../Material-Positivism/)**“

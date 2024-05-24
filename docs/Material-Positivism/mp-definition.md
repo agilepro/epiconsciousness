@@ -1,8 +1,9 @@
 ---
   id: mp-definition
-  title: MP Definition
+  title: Ethics and MP
+  sidebar_position: 5
 ---
-#  MP Definition
+#  Ethics and Material Positivism
 
 The question at hand is how to determine if an action is good, or bad. We speak of moral good and moral bad, the latter often called evil. Do we like it because it is good?  Is it good just because we like it?  Can we pick and choose good things because we like them, or is there an absolute measure of whether something is, from a universe perspective good or not?
 

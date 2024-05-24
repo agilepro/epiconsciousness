@@ -4,7 +4,11 @@ By knowing one tiny technique, a technique the size of a mustard seed, you can c
 
 What is this _mustard seed_?   It is simply:
 
-> Only believe in those things that can be demonstrated with evidence.
+:::tip[Kernel of Truth]
+
+Only believe in those things that can be demonstrated with evidence.
+
+:::
 
 This one kernel of behavior will build, grow, and compound to allow those that follow this method to come to know everything in the universe.  This technique separates the true from the false.  Facts selected by this means can be trusted, and added to a trusted collection of knowledge.
 

@@ -1,4 +1,4 @@
-#  Banishing Zombies
+#  Zombies are Preposterous
 
 David Chalmers in his book on consciousness, as well as a long tradition of philosophers,  makes copious use of an intuitive argument about **zombies**. Remember that philosophical zombies are not like the Haitian ones you know about from Hollywood. Philosophical zombies are just like us. They look like us, act like us, and are different from us in only one way: they don’t actually _experience_ anything. Zombies don’t experience the phenomenological _feeling_ that is associated with experience. They have eyes, and they see things, but they don’t experience the _quale_ that we know as “red.”  They might eat, but they don’t experience any pleasure at a particular taste or texture.  Or they might sense these, but they don’t _know_ that they sense them.  It is consciousness that they lack.
 

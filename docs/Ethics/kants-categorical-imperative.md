@@ -1,5 +1,6 @@
 ---
   title: Kant’s Categorical Imperative
+  sidebar_position: 7
 ---
 #  Kant’s Categorical Imperative is Arbitrary
 

@@ -1,3 +1,7 @@
+---
+  title: Three Great Responsibilities
+  sidebar_position: 6
+---
 #  Three Great Responsibilities
 
 You have three great responsibilities.  Not everyone can do all three.  You should at least do one.  If you are fine, do two.  And if you are great, do all three.This occurred to me three years ago, and I have told many people.  They always respond positive.

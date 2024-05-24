@@ -1,4 +1,8 @@
-#  Criticism of FOM
+---
+  id: criticism-of-fom
+  sidebar_position: 2
+---
+#  Objective Morality - Criticism
 
 In this post, I am going to surface the sharpest criticism that I can think of to the [Foundation for Objective Morality](https://meta.purplehillsbooks.com/2020/07/13/a-foundation-for-objective-morality/), and respond as best I can.  Before reading this, you should be very familiar with the original [Foundation for Objective Morality](https://meta.purplehillsbooks.com/2020/07/13/a-foundation-for-objective-morality/).  So read that first and see if you can come up with some criticism on your own.  Then read the second post [Views on Objective Morality](https://meta.purplehillsbooks.com/2020/09/11/views-on-objective-morality/) to see how this approach might be compared to other posts about objective morality.
 

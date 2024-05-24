@@ -1,6 +1,11 @@
+---
+sidebar_position: 1
+---
 #  Why Are We Here?
 
 That is indeed the eternal question.
+
+![](hello-world-img1.jpg)
 
 I am convinced there is no easy answer, and doubtless the question will remain unanswered within my lifetime. It is not my goal to arrive at an answer, but instead to take the journey toward that answer.
 
@@ -13,7 +18,5 @@ How sad it would be for humans, indeed any species, to be destined to descend to
 ## To become something better.
 
 And that, though it sound contrite, and possibly trivial, is why we are here. Join me on this journey. We owe it to the future generations.
-
-![](hello-world-img1.jpg)
 
 This is a set of collecting writings on philosophy and other topics.  Enjoy.
