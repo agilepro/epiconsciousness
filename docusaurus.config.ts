@@ -147,7 +147,7 @@ const config: Config = {
           },
           {
             from: '/2023/10/07/self-organization-rayleigh-benard-convection/',
-            to: '/docs/Self-Organization/rayleigh-benard-convection',
+            to: '/docs/Self-Organization/Examples/rayleigh-benard-convection',
           },
           {
             from: '/2023/10/05/denial-of-continuous-creation/',

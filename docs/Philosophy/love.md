@@ -107,3 +107,15 @@ We all will die some day and the sum of our actions considered.  There are thin
 > The most loving thing we can do for future generations is to discover whatever we can about how the world works, so that all people can use that knowledge to avoid harm.
 
 The only way to live beyond your years, is to commit acts of love while you are alive.  Start with where you are right now, and whatever is around you.  Whether for those around you, or for all of humanity, monumental acts of love are what distinguishes humans from every other species on the planet.
+
+## How did Love Evolve?
+
+Mammals often live in groups that cooperate on some level. Horses and cows live in herds, deer, annd antelope the same. Lions and wolves hunt in groups to do things that would be impossible for them to accomplish on their own. Prairie dogs live in villages where they work too stand lookout to guard each other for danger. The point is that the social behaviors evolved because animals with those behaviors competed and were more successful than animals that didn’t have those behaviors.  It’s simply natural selection.
+
+Humans have a particularly strong need to live and work together. It’s almost impossible for a human to live on its own in the wilderness. The only reason humans survive is because we work well as groups. For that to work, social behaviors had to evolve within humans. Those humans, that could cooperate better would survive better quite simply. 
+
+As anybody who has ever cooperated with somebody else will know, it’s hard to evaluate how much work you have to do, versus how much work the other has to do. You’re more aware of your own work so so always seems like you’re doing more love is that willingness to go beyond What is equitable and what is transaction. Love is the propensity to do more for that person than you can ever expect in return. By loving the other, you do more than half, assuring success.  Love is the glue that holds human tribes together. 
+
+Love is also the emotion that inspires us towards something greater than ourselves. Generous with our own efforts when we can to help others when they need help we aspire be part of the greater unit: the family or the community. Love then really is the superpower that humans, possess in order to get along better, to cooperate better, and to outcompete the other tribes or communities.
+
+Simply put, those tribes made out of people who could love each other, are more successful.  Those successful people are our ancestors.

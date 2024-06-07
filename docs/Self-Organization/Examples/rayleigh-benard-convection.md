@@ -10,6 +10,8 @@ As the fluid is heated from below in a gravitational field, the warmer fluid exp
 
 The organized pattern, once established, can persist for a long time and is easily observed.  This organization is spontaneous in the sense that no external factor designates where the border between the cells will be.  The cell boundaries are simply determined by interaction  within the fluid itself.
 
+![](rayleigh-benard-convection-img1.jpg)
+
 ## Simple
 
 Some may scoff at how these patterns are so simple: a hexagonal column with fluid flowing up, with a hexagonal column of fluid flowing down, might not seem the paramount of organization.  The advantage of a simple example is that it can be readily demonstrated.  There is no question that the cells are more organized than not having cells.  It is equally obvious that the details of the cells, their size and shape, it not determined by anything outside the fluid.
