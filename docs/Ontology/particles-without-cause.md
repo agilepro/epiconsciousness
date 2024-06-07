@@ -1,8 +1,15 @@
 ---
-  title: Particles Without Cause
+  title: Particles Without Causation
 ---
-#  The scientific consensus is that virtual particles come into existence without any efficient cause. | Epiconsciousness
+#  Particle Creation without Causation
+
 Many theological debates involve the claim that things simply don’t just pop into existence all on their own. Seems very common sense, but it is wrong. There is ample evidence, both theoretical and experimental that some things really do pop into existence all on their own.
+
+:::tip[Key Takeaway]
+
+The scientific consensus is that virtual particles come into existence without any efficient cause.
+
+:::
 
 ## Claims About Causing Existence
 

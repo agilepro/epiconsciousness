@@ -110,7 +110,7 @@ The only way to live beyond your years, is to commit acts of love while you are 
 
 ## How did Love Evolve?
 
-Mammals often live in groups that cooperate on some level. Horses and cows live in herds, deer, annd antelope the same. Lions and wolves hunt in groups to do things that would be impossible for them to accomplish on their own. Prairie dogs live in villages where they work too stand lookout to guard each other for danger. The point is that the social behaviors evolved because animals with those behaviors competed and were more successful than animals that didn’t have those behaviors.  It’s simply natural selection.
+Mammals often live in groups that cooperate on some level. Horses and cows live in herds, deer, and antelope the same. Lions and wolves hunt in groups to do things that would be impossible for them to accomplish on their own. Prairie dogs live in villages where they work too stand lookout to guard each other for danger. The point is that the social behaviors evolved because animals with those behaviors competed and were more successful than animals that didn’t have those behaviors.  It’s simply natural selection.
 
 Humans have a particularly strong need to live and work together. It’s almost impossible for a human to live on its own in the wilderness. The only reason humans survive is because we work well as groups. For that to work, social behaviors had to evolve within humans. Those humans, that could cooperate better would survive better quite simply. 
 

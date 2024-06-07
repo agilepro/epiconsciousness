@@ -6,7 +6,7 @@
 >
 > Person 1: Science is not a popularity contest.  If science works by simply voting for the most popular choice, that would be a band-wagon fallacy.  Scientific consensus of a field is a complete fallacy.
 
-This argument is promoted by apologists as a way to undermine the authority of the scientific consensus.  sometimes they will point out that there was a time when most scientists thought the earth was the middle of the universe.  That is true, science has learned over time and replaced old theories with new ones, but the scientific consensus remains the most trusted source of knowledge of the world.
+This argument is promoted by apologists as a way to undermine the authority of the scientific consensus.  Sometimes they will point out that there was a time when most scientists thought the earth was the middle of the universe.  That is true, science has learned over time and replaced old theories with new ones, but the scientific consensus remains the most trusted source of knowledge of the world.
 
 :::tip[Key Takeaway]
 The collective opinion of a group of experts is valid if the topic is one they are experts in.  This is the best opinion available.
@@ -38,7 +38,7 @@ _The apolgist would like you to believe there are no experts._
 
 A scientist who has been working exclusively in a field for 20 to 30 years, and an environment where they will be allowed to say something only if it is backed by careful research and evidence.  Reputation is everything in science, and to maintain that, the scientist needs to be diligent and accurate in everything that is done.  When you spend that amount of time on a topic, you naturally get to know quite a bit about what is and is not in the realm of possible.  They are real experts in the field.
 
-The apologist does not want their audience to believe that anyone is particularly expert in anything at all, becuase that allows their crack-pot ideas to appear more reasonable. Persuasive leaders will always work to undermine the credibility of the experts that exist who oppose their positions.  This way, they can bring in their radical opinions, and allow them to stand head-to-head with opinions of experts.
+The apologist does not want their audience to believe that anyone is particularly expert in anything at all, because that allows their crack-pot ideas to appear more reasonable. Persuasive leaders will always work to undermine the credibility of the experts that exist who oppose their positions.  This way, they can bring in their radical opinions, and allow them to stand head-to-head with opinions of experts.
 
 ## Scientific Consensus Changes
 
