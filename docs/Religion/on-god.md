@@ -81,3 +81,20 @@ Whether or not there is a God, it is a fact that the universe exists.  If there
 To me, this indicates that there are larger scales of organization yet to come.  The universe is not over.  It is not done.   There is still more to create.  Things which we are just a small, tiny part of it.  We are talking about organization 10 billion times more complex the entire global compute network.
 
 How it will operate is beyond our comprehension.
+
+## God is NOT . . .
+
+Above is a discussion of what attributes god might or might not have.  What we can do though is to address and eliminate some common misconceptions of god:
+
+* micromanage - it seems ridiculous to think that a creator of a huge universe would be concerned about the daily gossip in a group of humans and tweaking elements on a scale that matters to humans.  If god wanted an improved universe it would restart the whole thing from the beginning in the better form, and not make tiny tweaks.
+* prayers - it seems ridiculous to think that a god would micromanage the universe to a level that matters to individual humans.
+* perfection - claiming that god is the most perfect thing that exists seems arbitrary in that god could never make a creation better than itself.  What if god made a creation better than itself?  It would not be considered perfect.  It seems that perfect is a description that depends heavily on the person saying it: perfect for me might not be perfect for you.
+* human form - with a universe on the scale, coming to earth and appearing as a half-human half-god seems like something a human would very much like to see, but makes no sense from god's perspective.
+* walk on water - many of the miracles of the bible seem to be more like parlor tricks that would be persuasive from a human point of view, but silly from the god's perspective.
+* has a message - if god had a message it would be distributed in a way equally available to everyone, and certainly would not select a few unreliable prophets to dole out the privileged information
+* bible - using a book to record the critical message, flawed by language translations, like the bible is something that a real god would never do because it is too easy to create hoaxes.  God would communicate in a way that could be clearly seen and understood by the weakest of humans.
+* twelve apostles - if god has a message, then 12 apostles will not be needed to follow around a half-man half-god.  Such a pattern reflects a human pattern for organizing a message, but not a god's.
+* natural disasters - god does not affect natural disasters like floods, tornados, hurricanes, earthquakes either positive or negative.  From the perspective of the universe these kinds of disasters are a challenge to humans, but no reason to think that god would want to micromanage the conditions on earth to that degree of granularity.
+
+Any religion based on a god with these qualities seems more like a human-centric religion than one really about god.
+

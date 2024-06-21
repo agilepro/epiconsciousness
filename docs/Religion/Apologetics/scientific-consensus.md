@@ -1,10 +1,10 @@
-# Scientific Consensus is Fallacy
+# Scientific Consensus a Fallacy?
 
 > Person 1: This scientist says (some crazy thing). . . 
 >
 > Person 2: But that is not what the consensus is in that field.
 >
-> Person 1: Science is not a popularity contest.  If science works by simply voting for the most popular choice, that would be a band-wagon fallacy.  Scientific consensus of a field is a complete fallacy.
+> Person 1: _Science is not a popularity contest.  If science works by simply voting for the most popular choice, that would be a band-wagon fallacy.  Scientific consensus of a field is a complete fallacy._
 
 This argument is promoted by apologists as a way to undermine the authority of the scientific consensus.  Sometimes they will point out that there was a time when most scientists thought the earth was the middle of the universe.  That is true, science has learned over time and replaced old theories with new ones, but the scientific consensus remains the most trusted source of knowledge of the world.
 
@@ -71,3 +71,22 @@ The only way to assure that the person you’re quoting is not a rogue commentat
 It’s strange how the Christian apologists don’t seem to understand this idea of expertise. When you talk about a generally accepted theory, they will attempt to discredit it by claiming it is a bandwagon fallacy. I’ve even heard people say science doesn’t work by consensus. Right it doesn’t, however, in Facebook discussions, there is no better opinion than the consensus of the experts. Otherwise you’re simply quoting crackpots. 
 
 In reality, science works by being very very skeptical of what anyone claims.  The process is to try and tear down every claim, but you can't tear down something with evidence.  The evidence speaks louder than the strongest claims.  That is why, when you have a field of study, the very best possible opinion you can get, is the consensus of the scientists in that field.
+
+## Questions
+
+> Q: Is there ever such a thing as scientific consensus?  Get two scientists together they always disagree.
+
+Joking aside, scientists are always debating the details on leading edge theories, that is how science works, and the one with the most _actual evidence_ in the end will win the debate.  Science is not resolved in every area, and the details of the truth often takes many people to work out.
+
+There are a great many scientific results that are generally accepted and not debated.  The Earth goes around the Sun is never debated.  Atoms are made of a collection of protons, neutrons, and electrons is never debated.  A vast body of knowledge is agreed and accepted.  Then, on the leading edge of what is known, there is rather vigorous debate: e.g. is String Theory real?  
+
+> Q: Scientific consensus is whatever the few guys who control all the research and grant money say it is.
+
+This is the conspiracy theory that science in somehow "owned" by some organization with a motive.  For example, the oil industry is rich and known to hire scientists to make particular desired claims.
+
+But nobody owns all the scientists in the world.  If for instance the NSF decided to fund only papers supporting a theory "A", even though evidence points to theory "B".  What we would find is American papers publishing results saying "A", while papers from Europe, China, and the rest of the world say "B".  The NSF is not dominant enough to control the entire scientific field.  More important is that following research trying to build on "A" will fail, while research built on "B" succeeds.  There is absolutely no way that any conspiracy could control all scientists in a field.  
+
+Even the oil industry -- the richest industry in history -- can not control all the climate scientists.  Even Christians -- the most powerful religion in history -- can not control all of the biology papers.
+
+The grand conspiracy theory that science is controlled by a secret cabal of liberal politicians just does not stand up to casual investigation.  Furthermore, in such a grand conspiracy we certainly would fine some letters, memos, emails, or some other evidence asking people to falsify results if performed on such a grand scale.  It is just not credible.
+

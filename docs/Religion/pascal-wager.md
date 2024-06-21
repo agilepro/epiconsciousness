@@ -1,6 +1,6 @@
 # Pascal's Wager
 
-Pascal is famous for considering the way you spend you life is like a bet.  You don't know whether god exists or nog.   But you have two choices:  you can choose to believe in god or not.   And there are two possible realities:  god exists or it doesn't.  From Pascal's point of view, the _cost_ of believing in god is small, and the payoff if true is large, so it should make sense then to just believe because the return on investment is so large.
+Pascal is famous for considering the way you spend you life is like a bet.  You don't know whether god exists or not.   But you have two choices:  you can choose to believe in god or not.   And there are two possible realities:  god exists or it doesn't.  From Pascal's point of view, the _cost_ of believing in god is small, and the _payoff_ if true is large, so it should make sense then to just believe because the return on investment is so large.
 
 :::tip[Key Takeaway]
 
@@ -10,9 +10,9 @@ Pascal's Wager depends on there being one and only one religion.  When you consi
 
 ## It Assumes One Religion
 
-The wager fails because it assumes that there is one and only one religion.  Thus choosing to believe in god is a binary choice.  Either you do or you do not.  And either that one religion is true, or not.
+The wager fails because it assumes that there is one and only one religion.  To Pascal, a French European in the mid 1600's when Catholic church was dominant, it might appear so.  Thus choosing to believe in god is a binary choice.  Either you do or you do not.  And either that one religion is true, or not.
 
-But we have over 4000 religions in the world today.  How do you know if you are praying to the right one.  Worshipping the wrong god is as bad as worshiping no god -- in fact it might be worse in some cases.  You only get the afterlife if you believe in the right god.   The truth table looks like the following.
+But we actually have over 4000 religions in the world today.  How do you know if you are praying to the right one.  Worshipping the wrong god is as bad as worshiping no god -- in fact it might be worse in some cases.  You only get the afterlife if you believe in the right god.   The truth table looks like the following.
 
 ![](pascal-wager-img1.jpg)
 

@@ -1,4 +1,4 @@
-# Mechanism of Evolution
+# Mechanism of Evolution?
 
 We know from the fossil record that there has over time been a steady stream of differently shaped animals that evolved over time.  When you point out a specific case of a species that transitioned into another, the intelligent design proponent says that this could not have happened naturally without a guiding intelligence:
 
