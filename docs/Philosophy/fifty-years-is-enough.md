@@ -8,7 +8,7 @@ This has to do with people and ownership and responsibility. The things you have
 
 I think it is the same with land. A person own an acre and build a cabin on it but then they abandon it. They can rightfully return for some amount of time. Certainly after a few years. But what about 10 years? What about 100 years? At some point the claim for ownership simply does not apply.
 
-![](https://meta.purplehillsbooks.com/wp-content/uploads/2021/06/316210318_533436118795418_8625221563510993467_n-300x300.jpg?189db0&189db0)
+![](fifty-years-is-enough-img2.jpg)
 
 ## Term Limit
 
@@ -24,7 +24,9 @@ What I am suggesting that 50 years is the maximum term limit on any unobserved r
 
 Arguments that we should do something today, because of something from history, are a waste of time. Mostly the details are lost to history. Most of the crimes of the past have had attempts to compensate the crime. People have claimed the need for compensation and some have gotten, many have not. After 50 years it is impossible to really sort out who owes what to whom. Most of the actual actors are dead.  Nobody who was actually harmed is around to be paid back.
 
-## Ancestral Rights
+![](fifty-years-is-enough-img1.jpg)
+
+## Ancestral Rights 
 
 The claim that person X owns something, or is owed something, because their ancestor owned or was owed it is pure bogosity. A generation is 25 years, and ten generations brings you 1000 great-great-whatevers. People cherry pick one ancestor and say: “_that person was owed something and I now I want to collect it_.” How many other thousands of people can make the same claim to the same thing?
 

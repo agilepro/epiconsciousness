@@ -12,7 +12,7 @@ We start by understanding that there is a spectrum of light that enters the eye,
 
 Understand first that there are more colors than exist in the rainbow.  The color 'magenta' does not appear in the rainbow.  How can this be?  The colors we experience are in a roughly three dimensional space defined by the frequencies of the three different cone photoreceptors in the retina of the eye.  I say roughly three dimensional because these are not entirely independent -- light at any given frequency will trigger more than one cone.  But it is still the ratios of the intensity at the three different kinds of cones that define the basic sense, however there is more to it to see a color.
 
-The spectrum draws a roughly linear line through the three d space of color.  The sprectrum traces through most of the main colors, it is appears that all colors are on the spectrum, but if you really look closely there are lots and lots of colors that can not actually be found on the spectrum.  Take any color tab from the paint store, and the carefully walk through the spectrum and try to find the exact color, and most likely won't, because the pure colors of the spectrum are quite limited.
+The spectrum draws a roughly linear line through the three d space of color.  The spectrum traces through most of the main colors, it is appears that all colors are on the spectrum, but if you really look closely there are lots and lots of colors that can not actually be found on the spectrum.  Take any color tab from the paint store, and the carefully walk through the spectrum and try to find the exact color, and most likely won't, because the pure colors of the spectrum are quite limited.
 
 The main message here is that color is certainly not a point on the spectrum.  The points on the spectrum to map into colors, but there are many many more colors than that.  So something more than a spectrum is going on.
 
@@ -38,11 +38,11 @@ Since we learned from our culture environment, if we grow up in the same culture
 
 ## Memories
 
-Nmemory is a way of actually re-experiencing the event that you remember. If you have a memory of stubbing your toe, then, remembering that is a bit like re-experiencing the toe being stubbed.  When you recognize something, it is a kind of remembering. When you recognize it person's face you do, in some important ways, relive experiences that you had had with that person.
+Memory is a way of actually re-experiencing the event that you remember. If you have a memory of stubbing your toe, then, remembering that is a bit like re-experiencing the toe being stubbed.  When you recognize something, it is a kind of remembering. When you recognize it person's face you do, in some important ways, relive experiences that you had had with that person.
 
 All of this is true of the perception of color. When you recognize the color red, you are in a very real way re-experiencing red things from your past.  The color red might allow you to re-experience a sunset, a campfire, blood, and other red things.  Your experience of read, as a property is simply the memory of a large number of red things mixed together.
 
-If you and I grow up in the same culture, and in the same region, then our experience of red things will be largely the same.  Sunsets are red.  Fire is red.  Tomatos and other fruit can be red.  Blood is red.  And so on: we all come into contact with a certain variety of objects that are red, and our experience with those objects are what we associate with red.
+If you and I grow up in the same culture, and in the same region, then our experience of red things will be largely the same.  Sunsets are red.  Fire is red.  Tomatoes and other fruit can be red.  Blood is red.  And so on: we all come into contact with a certain variety of objects that are red, and our experience with those objects are what we associate with red.
 
 Thus, the sight of anything red, I am actually reliving the sight of a sunset, and blood, and a glowing heating element.  Everything associated with red come flooding back in when we see something red.  We are not confused about this;  it is not the case that every time I see something red I think it is a tomato.  But when I see something red, it is somehow associated with a tomato.  And everything else that I have every seen that is red.
 
@@ -50,11 +50,11 @@ Thus, the sight of anything red, I am actually reliving the sight of a sunset, a
 
 That is how I can say with confidence that people in the same culture of the same reason generally experience a color of the same way. People who grow up in an entirely different culture in a different part of the world may in fact have a different perception of the color.
 
-It is very unlikely (probably impossible) for your experience of green to be identical to my experience of the red. for that to happen, you would have had to have seen green sunsets, green fire, green blood, and green ripe tomatos.  (Ok there are green tomatos but you know what I mean, right?)  Your qualia is tied directly to the memories of things that have been red, and it is nothing more than that.  Because of differences in our experiences we might have small differences in how we perceive red, but it is flat out impossible for your experience of green to match up will my experience of red.
+It is very unlikely (probably impossible) for your experience of green to be identical to my experience of the red. for that to happen, you would have had to have seen green sunsets, green fire, green blood, and green ripe tomatoes.  (Ok there are green tomatoes but you know what I mean, right?)  Your qualia is tied directly to the memories of things that have been red, and it is nothing more than that.  Because of differences in our experiences we might have small differences in how we perceive red, but it is flat out impossible for your experience of green to match up will my experience of red.
 
 ## Inverted World
 
-As long as we’re speculating, we might envision a color in an inverted world.   Alex in world, one sees things color the way they are on earth. Bernard lives on the planet, where blood is green, sunsets are green, and fire is green.   Similarly on Bernards planet leafy plants have bright red leaves. Everything that is red on earth is green for Bernard and everything that is green on earth is red for Bernard. In this situation it’s entirely possible for Bernard to experience green in exactly the way that Alex experience is red. 
+As long as we’re speculating, we might envision a color in an inverted world.   Alex in world, one sees things color the way they are on earth. Bernard lives on the planet, where blood is green, sunsets are green, and fire is green.   Similarly on Bernard's planet leafy plants have bright red leaves. Everything that is red on earth is green for Bernard and everything that is green on earth is red for Bernard. In this situation it’s entirely possible for Bernard to experience green in exactly the way that Alex experience is red. 
 
 But inverted worlds simply can't happen.  This is one of those hypothetical situations which doesn’t happen in reality. Sunsets are red because of the way atmosphere works. Plants are green because of the way photosynthesis works.
 
