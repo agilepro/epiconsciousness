@@ -55,8 +55,7 @@ Mike O’Neill
 
 ## Episode 001 -A Tale of Two Riddles
 
-Very Different Riddles
-----------------------
+### Very Different Riddles
 
 This is a true story  
 about two very old  
@@ -296,8 +295,7 @@ to write it up for all.
 
 ## Episode 002 -A Tale of Two Riddles
 
-Very Related Riddles
---------------------
+### Very Related Riddles
 
 The trivial riddle is:
 
@@ -473,8 +471,7 @@ is in development here.
 
 ## Episode 003 -A Tale of Two Riddles
 
-Determinism?
-------------
+### Determinism?
 
 So, what the heck is determinism?
 
@@ -855,8 +852,7 @@ is where I’m headed.
 
 ## Episode 004 -A Tale of Two Riddles
 
-Free Will
----------
+### Free Will
 
 Free will advocates bog down  
 by asking for too much…  
@@ -1067,8 +1063,7 @@ our thoughts are our own.
 
 ## Episode 005 – A Tale of Two Riddles
 
-Mirror Solution
----------------
+### Mirror Solution
 
 We’re at the threshold  
 of the solutions.  
@@ -1433,8 +1428,7 @@ your arm down now. 🙂
 
 ## Episode 006 – A Tale of Two Riddles
 
-Free Will Solution
-------------------
+### Free Will Solution
 
 Did you ever think you’d be pondering  
 some of the most complicated ideas  

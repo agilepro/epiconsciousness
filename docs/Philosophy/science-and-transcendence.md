@@ -8,7 +8,13 @@
 ---
 #  Science allows Humans to Experience the Transcendent
 
-No other system constructed by humans has had a greater effect than science on improving the lives of the people we love.   Science is the ultimate expression of love for our fellow humans and for our descendants.  It is normally not expressed in this poetic way, but there is a lot of supporting evidence. 
+No other system constructed by humans has had a greater effect than science on improving the lives of the people we love.  It is normally not expressed in this poetic way, but there is a lot of supporting evidence. 
+
+:::tip[Key Takeaway]
+
+Science is the ultimate expression of love for our fellow humans and for our descendants.
+
+:::
 
 ## Definition of Transcendent
 

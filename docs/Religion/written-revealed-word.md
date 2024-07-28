@@ -3,7 +3,15 @@
 ---
 #  Written Revealed Word can’t possibly be True
 
-The title makes a dangerously strong claim, but it is not just attention getting:  I believe if you look carefully at the universe, and the properties that such a creator would need, one can conclude that such **written revealed word** of this sort — like the Bible — are so flawed that no God would use it.  If it makes no sense for a God to ever use written revealed word, then I have to conclude the bible is false.
+The title makes a dangerously strong claim, but it is not just attention getting:  I believe if you look carefully at the universe, and the properties that such a creator would need, one can conclude the following:
+
+:::tip[Key Takeaway]
+
+The flaws with **written revealed word** — like the Bible — are so great and so inherent that no super-intelligent being would ever use it.  Beyond being unclear, it opens the door for fraud and false revealings.
+
+:::
+
+If it makes no sense for a God to ever use written revealed word, then I have to conclude the bible is false.
 
 To make my case, I will start with these assumptions
 
@@ -52,7 +60,7 @@ Error correcting mechanisms could have been employed.  In fact, the mechanism t
 
 We are told that the bible is the written revealed truth, but there is no way to know:
 
-*   if the message receive is authentic, or whether it was a simply made up
+*   if the message received is authentic, or whether it was a simply made up
 *   if the concepts are accurately described in written language
 *   if the message was not changed over time by accumulation of mistakes
 *   if the translations to other languages are accurate

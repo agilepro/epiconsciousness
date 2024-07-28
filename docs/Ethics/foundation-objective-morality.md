@@ -2,7 +2,7 @@
   id: foundation-objective-morality
   sidebar_position: 1
 ---
-#  Objective Morality - Foudation
+#  Objective Morality - Foundation
 
 This is a defense of the idea that morality which guides what we should and should not do, can be based on objective measurements of well-being.  A subjective standard for morality does not work as well.
 
@@ -154,8 +154,8 @@ So do people actually use such a system?  I don’t know.  Some do, some don�
 
 * * *
 
-Q&A
----
+## Q&A
+
 
 **Objective morality does not exist because what we see as moral guidelines are changing all the time.**   – The rules and guidelines do not need to be fixed and they are not static.  Objective refers only to the quality that independent people can measure the moral goodness of an action and come to the same conclusion.  Done accurately, all people will get the same answer.  But that answer can change over time as the situation changes.
 
