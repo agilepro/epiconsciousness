@@ -1,5 +1,7 @@
 #  Fifty Years Is Enough
 
+> "Confine yourself to the present," - Marcus Aurelius
+
 Simple concept: “_any claim for ownership for something you do not have in possession is meaningless after 50 years_.” This is the same for territory or for objects: if you claim to own it, but you don’t actually have it, then after 50 years you can forget about it.
 
 Similarly: “_The people running the world today bear no responsibility for anything more than 50 years earlier._” Acts were done long ago in history, and the perpetrators either paid the price or they didn’t. The winners either gave back their unfair gains, or they didn’t. The loser either got compensation or they didn’t. It is all water under the bridge now.

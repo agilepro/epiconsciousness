@@ -1,10 +1,10 @@
 # Meaning of Life for an Atheist
 
-Some Christian have this odd believe that athies have no meaning in their lives.  I don't really understand the source of this belief, except of course the Christians tell each other this over and over until they believe it.  I was wonding, well is that true?
+Some Christian have this odd belief that atheists have no meaning in their lives.  I don't really understand the source of this belief, except of course the Christians tell each other this over and over until they believe it.  I was wondering, well is that true?
 
 So I asked some atheists:  What gives you life meaning?
 
-Did I get a bunch of responses saying that life has no meaning, that it is empty, devoid of joiy.  No I most certainly didn't.  Here is a list of different responses I got from people who self proclaimed to be atheists:
+Did I get a bunch of responses saying that life has no meaning, that it is empty, devoid of joy.  No I most certainly didn't.  Here is a list of different responses I got from people who self proclaimed to be atheists:
 
 **Fellow atheists: what would you say gives your life meaning?**
 
@@ -33,7 +33,7 @@ Did I get a bunch of responses saying that life has no meaning, that it is empty
 * Music (again)
 * Religious/spiritual people search for meanings. I don't. I just enjoy and try to be kind.  On my grave shall be written: "Game over, but it was awesome!"
 * Whatever I decide . . 
-* Knowing that Im trying to make a difference
+* Knowing that I'm trying to make a difference
 * Making sure I pay attention to what's going on in the world means I can try and not leave it worse than I found it
 * I am an Atheist, Secular Humanist and Scientist. I find meaning in environmental activism, helping the homeless and tutoring kids. I'm a passionate amateur astronomer and one of the most meaningful and satisfying things I do is show kids their first looks at Saturn's rings or Jupiter's cloud bands.  It's one of the most offensive things I hear when people assume the life of an atheist is devoid of any meaning. Look around you!
 * Waking up every morning.
@@ -101,7 +101,7 @@ This being Facebook there were some number of joke responses.   Some of the resp
 
 ## Christians Lack Meaning beyond God
 
-The most surprising or maybe shocking claim, is when a Christian says "Without God my life would have no meaning."  I always think: what?  You you get absolutely no meaning from your family, your frinds, you community.  You get nothing out of helping others.  Your only meaning is the very selfish thought that you will go to heaven when you die.  I can't help think that it is so sad that these Christians can't see life for what it is, and need to instead pin all their hopes on an afterlife.
+The most surprising or maybe shocking claim, is when a Christian says "Without God my life would have no meaning."  I always think: what?  You you get absolutely no meaning from your family, your friends, you community.  You get nothing out of helping others.  Your only meaning is the very selfish thought that you will go to heaven when you die.  I can't help think that it is so sad that these Christians can't see life for what it is, and need to instead pin all their hopes on an afterlife.
 
 ### 7 reasons that life would be meaningless without God
 
@@ -110,12 +110,12 @@ Consider this Christian site which gives [7 reasons that life would be meaningle
 * We wouldn’t know the true meaning of love.  Several atheists mentioned love and specifically love for their family as being meaningful. One has to wonder why this is not meaningful for Christians.  From observations, I have found that a mother loves her children in a way that has no peer.  I have never seen a Christians acting in a more loving way than a mother for her child.
 * We wouldn’t witness miracles.  Yes this one is true.  There is no evidence that Christians witness miracles anyway.  None of the atheists mentioned miracles as adding meaning to their lives.
 * God wouldn’t be able to carry us through the storms of life.  But other people would.  I didn't see atheists claiming that storms in their life was any particular problem.
-* There would be no perfect plan for our lives. No evidence of a perfect plan in any case.  Atheists don't seem to need a perfect plan, and seem happywith the imperfect one they are able to find on their own.  
+* There would be no perfect plan for our lives. No evidence of a perfect plan in any case.  Atheists don't seem to need a perfect plan, and seem happy with the imperfect one they are able to find on their own.  
 * There wouldn’t be someone always there by our side.  Maybe, maybe not.  The atheists seem to find joy and satisfaction from the people around them. Maybe Christians lack this ability?
 * God wouldn’t be there to heal our wounds.  But there might be a person.  I didn't see atheists mentioning that their wounds were causing them trouble.
 * There wouldn’t be someone there to hear our every need.  But there might be a person.  In general atheists pointed to their personal relationships as being particularly meaningful.
 
-What this list tells us is that Christians feel the need to eliminate their dependence on other people.  As far as I can tell, atheists do this without need to pretend there is a God.  It is almost as if in becoming Christian, you lose the ability to enjoy personal relationships, and instead gain some kind of depenedence on an internal feeling provided by the belief.  It is almost as if Christianity was a drug that they become addicted to.
+What this list tells us is that Christians feel the need to eliminate their dependence on other people.  As far as I can tell, atheists do this without need to pretend there is a God.  It is almost as if in becoming Christian, you lose the ability to enjoy personal relationships, and instead gain some kind of dependence on an internal feeling provided by the belief.  It is almost as if Christianity was a drug that they become addicted to.
 
 ### Meaningless Life Without God
 

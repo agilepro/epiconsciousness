@@ -152,7 +152,7 @@ What makes you ask a question about humans being other animals. Do you believe t
 
 ALSO, you didn't answer the question: is there an apologist site that suggests that other animals species *should* become human?
 
-## Creatinism is Simpler
+## Creationism is Simpler
 
 Kinds are simpler to understand. Creationism is easier to understand
 

@@ -1,8 +1,8 @@
-#  Numbers aren’t Real
+#  Numbers were Invented
 
 Here I will deal with the metaphysical disposition of abstract objects using numbers as an example, and I will show that numbers do not exist for any meaning of existence. What does happen is a little trickier, but perfectly logical.
 
-Consider the number 2. What is it? The number two is simply one more than one. It is defined as 1 + 1. Every number is defined as one more than the number that precedes it. Starting with 1, we can then define every number by repeatedly adding one to whatever we got before.
+Consider the number 2. What is it? The number two is simply one more than one. It is defined as `1 + 1`. Every number is defined as one more than the number that precedes it. Starting with 1, we can then define every number by repeatedly adding one to whatever we got before.
 
 The number does not actually exist. The numeral “2” and the word “two” are symbols that represent and refer to the number, but the number does not exist in any way. The only thing that exists is the _definition of the number_. The definition is a rule that tells you how it differs from the other numbers. Two is a number that is one more than one. Three is a number that is one more than two. And so on.
 

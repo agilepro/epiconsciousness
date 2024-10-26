@@ -1,4 +1,4 @@
-# Why Does World Look Old?
+# World Looks Old
 
 _Why do young earth creationists (YEC) think that god goes to such lengths to make the world look old._
 
@@ -43,6 +43,40 @@ There are many way to measure the age of a mineral. These are based one well kno
 There are several dozen of these "clocks" that can be used to measure the age of minerals. We see minerals piled into layers at well defined ages. If the layers were made all at once, (in a flood for instance) they would all have the same age. That is not what we see.
 
 It would be an extremely elaborate ruse for God to create all this at one point. Possible, but it would be fundamentally mendacious.
+
+## Nile Delta to Formation
+
+To estimate the fastest possible formation time for the Nile Delta, we need to consider the following key factors:
+
+* __Sediment Load:__ The Nile River’s ability to deposit sand and silt, which is the main material for delta formation. The river would need to carry an extremely high sediment load for rapid delta formation. A very high flow rate could carry the sand further into the Mediterranean Sea rather than depositing it at the delta.
+* __Flow Rate and Velocity:__ If the flow of the river is too fast, the turbulence and energy would prevent sediments from settling. Sediments only settle in slower, calmer waters, which means the delta formation process is dependent on periods of lower velocity. A river needs to slow down significantly as it enters a broader area (like a delta fan) or during seasonal low flows for the sand to accumulate.
+* __Erosion and Transport Dynamics:__ Higher water flow increases the river’s capacity to erode and transport materials, but as the flow velocity crosses a certain threshold, it reduces the deposition rate. The point where the river slows down enough to form a delta is essential.
+* __Natural Limits on Sediment Load:__ Rivers can only carry so much sediment based on their flow velocity and the geology of the basin. Even under optimal conditions, there is a limit to how much material can be carried and deposited in any given period.
+
+Estimating the Fastest Possible Delta Formation:
+
+In modern times, the Nile River deposits around 120 million tons of sediment annually into the delta region. This occurs over thousands of years, resulting in the large, fertile delta we see today, which covers approximately 22,000 square kilometers.
+
+To speed up this process, you would need to significantly increase the sediment load. However, realistic geological and physical limits come into play.
+* __Sediment-Carrying Capacity:__ If we increase the sediment load by a factor of 10 or more, we must also account for how the water would interact with the load. Increasing the sediment load means increasing the water volume and flow velocity, which paradoxically could decrease deposition because faster water tends to carry the sediment out to sea.
+* __Water Flow:__ Assuming an extremely high discharge rate (possibly up to 10 times the modern flow), you would still need periods of slow flow to allow the sand to settle and accumulate. Even under extreme conditions, it’s unlikely that more than a fraction of the sediment would remain in the delta due to the energy of the water flow.
+* __Sediment Retention:__ Studies of river systems show that depositional processes require calm periods where sediment can settle out of suspension. Rivers like the Mississippi and Nile show that during high flood periods, much of the sediment is carried far downstream into the ocean.
+
+Given these factors, the __fastest physically possible formation__ of the Nile Delta would still take __thousands of years__, likely on the order of 5,000 to 10,000 years. This assumes extremely favorable conditions such as higher sediment loads, optimal flow dynamics, and periods of low water energy for deposition. Any shorter timescale would result in most sediment being flushed into the Mediterranean, making delta formation inefficient.
+
+In summary, while you could imagine scenarios of higher sediment flow, the formation of a delta of this size would still take thousands of years, and certainly much longer than 6,000 years due to the delicate balance of sediment deposition and water flow dynamics.
+
+## Why would God make it Look Old?
+
+> It was created to look old. Perfectly feasible for an all powerful God. Why did he go to so much trouble to make it look old? He wanted us to have a solid model of how nature works. From the philosophical point of view you have no conflict between a young earth and a 4.2 billion year old earth with respect to evolution. God has let us divine this wonderful geological and evolutionary model of the world let us use it to the betterment of all.
+
+Excellent! God makes a fake history to show us the real power of nature, what nature would have done, but didn't. The real power of what nature might have done but didn't actually do.
+
+Meanwhile the real (creationist) history was something that is not possible by nature.  This would mean that God designed and created nature to work in a way that would not make creation possible.  What would be the purpose of creating a nature that is NOT what actually happens in the world?  The only conclusion is that god is trying to fool us, and the bible says god does not do that.
+
+What then is nature?   If the universe actually created according to non-natural means, then why do we have a nature?
+
+The ancient men who wrote the bible had no concept of nature.  The idea that nature exists as a system was not invented until the 1700's (see Alexander von Humboldt).  Being completely oblivious of nature as a system, they postulated creation by magic wand. According to their story, the world was one way a long time about, and then was changed to be the way it is today.  _A better explanation_ is that the ancient writers just really had no clue about the world around them.  The sophistry to attempt to explain geologic layers and fossils is an emmense amount of motivated reasoning.
 
 ## References
 

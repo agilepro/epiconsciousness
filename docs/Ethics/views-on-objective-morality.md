@@ -149,8 +149,45 @@ I found a discussion page debating “[Is morality subjective?](https://www.deba
 
 **Things, such as murder, viewed as repulsive by 99.9% of people are written in our laws as objectively wrong, but there will always be the human who does not conform to that or view the actions as negative.** –  An objectively wrong action is wrong whether or not there is consensus to the fact.  This person is making the mistake of thinking that objective is about consensus.  Also, having individuals that disagree similarly does not rule out objective morality at any level.  Objective morality does not mean that everyone will agree.
 
-**Without a deity, how can morality be objective? Humans simply make up what is “good” and what is “bad” based on living preferences gained over generations.**– Because morally bad actions actually cause harm to the individuals and societies.  Societies that engage in bad actions tend to die out.  What is left is societies that do not at least make those mistakes.
+**Without a deity, how can morality be objective? Humans simply make up what is “good” and what is “bad” based on living preferences gained over generations.** – Because morally bad actions actually cause harm to the individuals and societies.  Societies that engage in bad actions tend to die out.  What is left is societies that do not at least make those mistakes.
 
 **People can have different morals which tells me that it’s a completely subjective thought process.** – once again this strange idea that the existence of objective moral would require that everyone know and follow them.
 
 **To claim that morality is objective is a denial of all things logic, It’s obvious that it’s a social construct and that if morality WAS objective this discussion would not exist.** – again the very strange idea that the existence of objective morals would necessitate that all people know, understand, and follow them.   A bad action is bad whether or not anybody knows that it is bad — and also no matter how much you think it is good.
+
+## Discussions from other social media
+
+**Leaving out flourishing will give you a rather truncated morality. Is it wrong to cause someone pain? If existence is the only metric, that would be amoral.** - Good question. Pain is almost always an indication of something harmful. You need to dig into what pain is: pain is the sensation of the difference between the way the world is, and the way it should be. In most real situations pain is harmful, and would be bad for that reason.
+If you could induce a painful feeling without ANY physical harm, without any emotional harm, and without detrimentally effecting the behaviors of anyone involve, would not by itself be "bad" -- but realize there are a lot of caveats there.
+Also keep in mind that you must take a universal view: it will be moral to cause some people pain, if it greatly relieves pain of a great number more people. The trolly problem is clear: it is better to save the five while sacrificing the one.
+Pain itself is not a morally valent, but causing pain ALMOST ALWAYS causes a decrease in existence and will almost always be bad.
+
+**Who says that existence is good?** - We realize that it is good. That is all we need to say about it. We certainly demonstrate that it is true in extremes: no existence at all would be bad. Any existence is better than no existence.
+It stands the test in that in most moral situations, increasing the amount of existence is almost always concordant with what we normally think of as good. Don't murder. Don't do antisocial things. Don't rape. Don't pilage. Don't poison people. Do build a shelter. Do plant for a harvest. Do help someone in need. Do be polite. etc.
+I will caution you that if you search carefully, you will find some apparent contradictions with traditional morality. Is it moral to kill a cow? That might seems like a decrease in existence, but killing for food is actually INCREASING the amount of existence in the big picture.
+How would I go about PROVING that existence is good? Obviously, I can't because good must be defined, and everyone might come up with their own definition, and it would merely be a debate about definitions. But you must admit that:
+
+1. it is ENTIRELY objective
+2. it fits pretty well with traditional moral notions
+
+**I just don't buy that the universe can be absolutely good by itself. How do we know this** - It is, because it is logically necessary that it be good.  Without a universe there can be no meaning at all.  Without a universe there can be no possibilities.  Everything is relative, so by "good" we mean it is better that something else.  Without a universe there can be no differences.   Oblivion (the state of no universe) can not in any circumstances be better than an existing universe, because an existing universe gives you possibilities.  And differences. There is absolutely no opinion in here.  This is a straight logical necessity. This is probably the strongest part of my thesis.
+
+**We cannot justify this claim by saying that morally good things happen in the universe, as that would be a composition fallacy** - I agree, and I am not arguing that.  An act that is good is good because it increases the amount of existence in the universe, the amount of forms or processes.  The good act would not be good without the universe, and the relationship between how the universe was before and after the act.
+
+**When you say the universe is good for the things in it, youre using the non moral and functional sense of good-for.** - That is right, I am not arguing that the universe is good _for_ the things in it.  I am arguing that the creation / existence of things in the universe are good for the same reason that the universe is good.  That is: anything created is better than not being created: it produces more possibilities and more value.
+
+**this all violates the is/ought distinction** - Tell me more about how this distinction has been proven.  David Hume starts with an assumption that ought should be something special distinct from what is, but I don't see any justification for that.  You certainly have to admit that if moral good was simply creation in any form (that is, the most right thing to do is that action which involves the greatest amount of creation) then there would be no such divide. So how is it that you know there is an is/ought divide?
+
+**Facts themselves dont imply values. Valuea gotta get their way in somehow. How so? By mind independent moral facts? By agents insidr doing acts of valuing?** - Yes, I am saying that actions are good or bad independent of any conscious agent.  That is, certain fact inherently imply value by the effect they have on the universe as a whole.  Actions that create will always be better than actions that destroy.  Actions that create more are better than actions that create less.  Why not?  We have been told that this can't be the case, but what is the proof of that?  That could just be a silly misunderstanding, like thinking that the sun goes around the Earth.  I am looking for justification of this claim.
+
+**Morality requires a certain kind of rational endorsement.** - I am not sure that it does.  Why?  It seems that some people would claim that the formation of a star can't be a morally good thing because there was no consciousness involved in the formation of a star.  No decider, no good/bad.  I chalenge that notion.  things that happen on a purely mechanical basis can be rated as morally good or bad.  For example, a hurrican might in fact be morally bad because of all the destruction.  (Destruction )
+
+**I dont agree with your moral foundation, and that makes your moral foundation subjective** - No, objective means that in the assessment of the moral valence is specified in a way that you and I can not disagree about. This is important, and there is no slop here. If the culture with a particular set of guidelines survives, it survives. That is a cold hard fact. You and I can't differ in opinion on whether someone is dead or not. Survival is an objectively measurable quantity.
+
+Even if you disagree that acts that bring about survival are good, that disagreement does not make the measurement of whether someone survives subjective. You might disagree with the moral theory, but the theory is quite clearly objective.
+
+To expand a bit on the subjective/objective thing. You say Yahweh set all the moral rules. I will agree with you that a God, because of the special nature of godliness, and that God created the universe, that whatever a God says on the matter can be considered objective.
+However, if I disagree that Yahweh did this, does not make deistic moral law subjective. My disagreement with your theory about God setting the moral laws does not make the theory about morals laws subjective.
+Similarly, your disagreement about my moral theory, does not make my moral theory subjective either. The theory does not rely on any person's subjective opinion, and that makes the theory objective.
+It is important to understand what we mean by objective and subjective.
+

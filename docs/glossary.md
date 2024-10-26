@@ -20,5 +20,11 @@ I am however a non-dualist, and I believe that every aspect of consciousness can
 
 when speaking about spirit as an object, I mean exactly the same thing as soul.  Spirit and soul are interchangeable in my writing.
 
+## subjective
 
+## objective
+
+## morality
+
+## goodness
 
