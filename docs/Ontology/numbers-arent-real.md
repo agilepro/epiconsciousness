@@ -40,7 +40,10 @@ Of course, there can be multiple definitions, for example: two is the first even
 
 What if every human died, and every recorded instance of “2” and “two” were erased, would this cause the number two to disappear? No, because it never existed in the first place, it can’t disappear. A number is just the definition of that number. All the instances of a definition can be deleted, but there is always the possibility for that definition, and the number that it represents is a necessary abstract object even though it does not exist.
 
-If two different people on two different planets make a symbol that represents “one more than one” how can we know that they are referring to the same abstract object 2?  Because the definitions are the same.   1+1.   Two independent people who hit upon the same definition for any reason are necessarily referring to the same necessary abstract object (which does not exist).  If the definition is the same, then the universal abstract object is the same, because there is nothing more to an abstract object than the definition.
+If two different people on two different planets make a symbol that represents “one more than one” how can we know that they are referring to the same abstract object 2?  Because the definitions are the same.   
+`1 + 1`
+
+Two independent people who hit upon the same definition for any reason are necessarily referring to the same necessary abstract object (which does not exist).  If the definition is the same, then the universal abstract object is the same, because there is nothing more to an abstract object than the definition.
 
 The perfect circle does not exist, but we have a definition of it. I can explain the definition to you, and you can relate this to the word “circle.” Then we can talk about circles. We can learn what circular things look like, and how to recognize them. But the abstract circle object does not exist. Not anywhere. Not anytime. We simply associate the word with a definition, and the definition — as a relationship of symbols — exists as that: a relationship between other combinations of symbols.
 
@@ -52,57 +55,80 @@ Given this understand of how we think, how we talk, I just can’t understand wh
 
 Christians have long claimed that universals exist because God exists. (slightly circular there)  William of Ockham — a very pious Christian I might add —  was credited with creating nominalism.  Theistic philosophers have pilloried him for centuries. Some Christians call nominalism the _worst idea in all history_.\[[1](http://medievalmind.blogspot.com/2017/05/nominalism-worst-idea-ever.html),[2](https://www.patheos.com/blogs/rogereolson/2017/05/worst-idea-ever/),[3](https://en.wikipedia.org/wiki/Ideas_Have_Consequences)\] This is apparently a very emotional issue. I am hoping to find someone who can explain the reason they believe in realism without getting emotional.  Since the explanation that symbols are associated with definitions is enough to explain all of human behavior, there is no reason to propose that there is a magic realm (i.e. God’s mind) where abstract objects exist.  Using Occam’s Razor: there is no need to propose that universal are real since the world is perfectly well explained by a simpler explanation.
 
+
 ## Summary
 
-So, numbers do not exist.  Symbols exist.  Definitions exist; they are a set of symbols related by their associations.  This map of symbols and their associations are realized in the brain.  Some symbols represent real objects, and some represent abstract objects that do not exist.  One person can teach another about an abstract object by explaining its definition.  The association of a symbol with the definition is all you need in order to discuss the abstract object that does not exist.  This explains all human behavior.
+I remain convinced that numbers were invented.  Symbols exist.  Definitions exist; they are a set of symbols related by their associations.  This map of symbols and their associations are realized in the brain.  Some symbols represent real objects, and some represent abstract objects that do not exist.  One person can teach another about an abstract object by explaining its definition.  The association of a symbol with the definition is all you need in order to discuss the abstract object that does not exist.  This explains some important human behavior.
 
-\=========================================================
+------------------------------------------
 
 ## Resources
 
 *   [What do you mean numbers don’t exist?!](https://blogs.glowscotland.org.uk/glowblogs/cznewtonuodep/2018/10/08/what-do-you-mean-numbers-dont-exist/) – Blog post from Chloe Newton – Apparently, numbers do not exist. My mind is still trying to process how such a concept could even be possible after believing all my life that numbers are the fundamental basis of mathematics. After much time pondering and challenging this, it appears to be true…
-    
 *   Collins, A.W. (1998) [On the Question ‘Do Numbers Exist?’](https://www.jstor.org/stable/2660370?seq=1#page_scan_tab_contents), The Philosophical Quarterly, 48 (190), pp. 23-36
 *   Fine, K (2009) The question of ontology, Metametaphysics: New Essays on the Foundations of Ontology, pp. 157-177.
 *   [Do Numbers Exist?](https://www.welovephilosophy.com/2012/12/17/do-numbers-exist/) – Blog post by Alec – If you’re a nominalist, you’d probably answer “no, numbers do not exist”. However, now you have the unenviable job of explaining why mathematics seems so indispensable to science, while science is perhaps our best tool for saying which things exist. The two best nominalist answers to this conundrum seem untenable.
 
+## Counterpoint: Mathematical Platonists
+
+Famous mathematical Platonists—those who believe that mathematical entities exist independently of human minds and are discovered rather than invented—include:
+
+ 1. Plato: The ancient Greek philosopher who first articulated the idea that abstract forms, including mathematical objects, exist in a timeless realm of Forms or Ideas.
+
+ 2. René Descartes: Though not exclusively a mathematical Platonist, Descartes held views that supported the existence of mathematical truths independent of human thought.
+
+ 3. Gottlob Frege: A pioneer in logic and the philosophy of mathematics, Frege believed numbers and other mathematical entities had an objective, abstract existence.
+
+ 4. Kurt Gödel: Known for his incompleteness theorems, Gödel was a strong advocate of Platonism, suggesting that mathematical truths are discovered in an objective reality beyond physical space.
+
+ 5. Roger Penrose: A contemporary mathematical physicist, Penrose argues for the objective existence of mathematical objects and suggests that mathematics exists in a Platonic realm that we can access through intuition and reasoning.
+
+ 6. W. V. O. Quine: Although his views evolved, Quine defended a kind of Platonism for mathematical entities, suggesting that they must exist objectively because of their indispensability to scientific theories.
+
+ 7. Alonzo Church: Known for his work in logic and the lambda calculus, Church held views consistent with Platonism, especially regarding abstract logical and mathematical structures.
+
+ 8. Ian Hacking: A philosopher of science, Hacking supported a form of Platonism concerning mathematical structures and their role in explaining the physical world.
+
+These figures contributed significantly to the development and defense of mathematical Platonism, each with their own nuances and reasons for believing in the independent existence of mathematical entities.  I include them here for reference, however their arguments have not convinced me.
+
+
 ## Questions
 
-*   Who cares whether numbers are real or not?
+> Who cares whether numbers are real or not?
 
 The reason I think this is important is because it changes the way we think about it.  We know we can think about imaginary things, somehow we do this without any real examples.  We can talk about Spiderman.  We have seen pictures of Spiderman, but there is no real existing Spiderman.  How do we accomplish this?  Because associated with the symbol-tokens we keep facts about that token that both allow for identifying other copies of the symbol-token and also for important properties about them.  This says something important about the way the brain works.
 
-*   Do symbols really exist in the brain?
+> Do symbols really exist in the brain?
 
 There is plenty of evidence that real-world objects are symbolized as specific location in the brain:  [http://cbcl.mit.edu/news/files/nytimes-brain-cells.htm](http://cbcl.mit.edu/news/files/nytimes-brain-cells.htm)
 
 Another experiment has been done is activating specific neurons, and the people report having specific memories occur to them.  (During brain surgery the patient is awake and you can talk to them.)  This was 15 years ago, and more brain research happened in the last 15 years than all of history before that.
 
-*   Can we see these symbols in the brain?  Can we look and know what they mean?
+> Can we see these symbols in the brain?  Can we look and know what they mean?
 
 Nobody has equipment to “extract” this semantics of the symbols because you would have to be sensitive to the individual neuron level.   One neuron might symbolize Brad Pitt, and the next neuron over might symbolize Tsar Peter the Great, or the Spanish Revolution.  Because it is a network.  The location does not matter at all, only the connections matter.  All FMRI equipment so far is sensitive only to regions of the brain, and indeed there is no semantics at that level.  (I find it frustrating when people talk about “brain states” and then somehow equate this to FMRI scans — FMRI does not actually show any meaningful states of your current thinking.)
 
-*   Say that Bob has a symbol: CSGFS.   Sam has a symbol: HFHHG.   Do they refer to the same or different things? How would you ever begin to answer without going beyond the symbols themselves to that which they represent?
+> Say that Bob has a symbol: CSGFS.   Sam has a symbol: HFHHG.   Do they refer to the same or different things? How would you ever begin to answer without going beyond the symbols themselves to that which they represent?
 
 If they are symbols for something real, then we see if they both point to the same real thing.
 
 If the symbols are for something abstract, then there is a definition. The definition for “five” is “one more than four”. if the definitions are the same, then the symbol is representing the same abstract thing. We can do this because we don’t need to consider context: they are universal. Thus my “one more than four” has to be the same abstract object as your “one more than four”. Note that we don’t need any instance of 5 to make this happen.
 
-*   Bob has 3 symbols: SSDSD, FFGDD, HDTHF and Bob thinks that all 3 of these belong to type BGFDY. What is it that makes it true or false that this is the case?
+> Bob has 3 symbols: SSDSD, FFGDD, HDTHF and Bob thinks that all 3 of these belong to type BGFDY. What is it that makes it true or false that this is the case?
 
 Again, we look at the definition. An abstract objects MUST have a definition. (Can anyone think of one that does not?)
 
-*   It’s not even in principle possible to simply take a symbol and understand its meaning without introducing a mind to bridge the gap.  I’ll refer you to: https://en.wikipedia.org/wiki/Indeterminacy\_of\_translation
+> It’s not even in principle possible to simply take a symbol and understand its meaning without introducing a mind to bridge the gap.  I’ll refer you to: https://en.wikipedia.org/wiki/Indeterminacy\_of\_translation
 
 I am sure I need to read more on “Indeterminacy of translation”, but on quick glance it looks compatible to what I am suggesting.
 
 I tend to get confused between Tom Selleck and Burt Reynolds, and I suspect the same neurons are used in remembering them, although there is some slight difference.  They both have mustaches.  There is another nerve pattern that represents “mustacheness”.  For the outside, we can NEVER KNOW what a particular nerve means!  The individual nerve could mean anything, but it is connected into a network of nerves that gets activated when I see a mustache.  This is the same with words.   There is no definite preassigned meaning to a nerve, however meaning does fall out of the entire network.  The nerve pattern that represents having a mustache is normal nerves just like any other.  What is special about it, is that pattern is connected to sensory circuitry that happens to pick out mustacheness.  And that network happens also to be connected to the nerves that symbolize Tom Selleck and Burt Reynolds.  The meaning only comes from the connections, and you would have to follow the complete operational patterns to figure that out.
 
-However, your meanings ARE the pattern of connections.   Think of it as “repeatibility”.   I have no idea what nerves motivate me to feed the dog, but I don’t need to.  When the dog starts whining, there are nerves that recognize that, which are connected to nerves that track dog feeding (when I last fed, where the food is, etc), that ultimately connect to nerves that move the muscles that make it happen.  Look at the nerves, and there is no encoding of meaning other than these connections.
+However, your meanings ARE the pattern of connections.   Think of it as “repeatability”.   I have no idea what nerves motivate me to feed the dog, but I don’t need to.  When the dog starts whining, there are nerves that recognize that, which are connected to nerves that track dog feeding (when I last fed, where the food is, etc), that ultimately connect to nerves that move the muscles that make it happen.  Look at the nerves, and there is no encoding of meaning other than these connections.
 
 There are no absolute meanings of any nerve (or word) only associations.  But again, the purpose of the brain is to produce appropriate responses to sensory input, and these are learned by trial and error.  The brain only has to repeat successful patterns, and “meaning” emerges.
 
-*   Also, when you say “pattern of neurons” – what makes it a pattern? If there is a pattern for Dog and a pattern for Cat, they are different patterns, but what makes it the case that both the patterns are patterns? Why isn’t one a pattern and the other a not-pattern, whatever that is?
+> Also, when you say “pattern of neurons” – what makes it a pattern? If there is a pattern for Dog and a pattern for Cat, they are different patterns, but what makes it the case that both the patterns are patterns? Why isn’t one a pattern and the other a not-pattern, whatever that is?
 
 The only thing that matters is if the pattern is connected to something else. Let’s say that Tom Selleck is represented by the mustache pattern at 90% and the thin person pattern at 50%. Bert Reynolds on the other hand is 90% mustache and only 40% thin. Obviously in reality there is a lot more, but just for discussion. The follow on circuitry that calls up the name can be sensitive to these partial patterns. Thus the Bert Reynolds response is not triggered by 50% thin, but it is for 40% thin. The only meaning is the input routes that activate the pattern, and the output routes that are triggered by the pattern. I am just trying to say that there is no binary “Bert Reynolds” neuron and there need not be since triggering can be sensitive to partial activation of groups. I get confused between them because the patterns are not quite distinct enough to always get it right. I am not a big fan of either, so that is “good enough” but if I did, say, work with one of them, the pattern of neurons would adjust to be distinct enough so I would not make any mistakes.
 
@@ -110,7 +136,7 @@ Think about how you learn this. The first movie with one of them you just see a 
 
 Patterns of neurons solve two problems. The first is that you would not have enough neurons to represent everything. The second is that “learning” can be incremental. If you had exactly one neuron for all mustached men, and then later separate neurons for Tom and Burt, there is a quantum change that has to happen to spread from one neuron into two. That quantum leap can not be done incrementally. But neuron patterns allow for gradual, incremental learning.
 
-*   We are just arguing about definitions anyway, which is a waste of time if you are interested in philosophy.
+> We are just arguing about definitions anyway, which is a waste of time if you are interested in philosophy.
 
 It is important to know the common meanings of a word if we are going to communicate, so definitions is certainly not a waste of time. But I have a deeper purpose to this line of discussion. There is a funny idea out there that suggests that in order for us to understand each other, there has to be a singleton object somewhere, otherwise we can’t be talking about the same thing. That is, there has to be a singleton “thing” of which we are speaking.
 
@@ -132,7 +158,7 @@ We can still talk about abstract objects, because symbols must be ABOUT somethin
 
 I carry this same idea to numbers. There is no number 2. Anywhere. I have a symbol for 2, and you have a symbol for 2, and there is the numeral 2, and the spoken and written word “two” however there is no real object that gives these meanings. My symbol for two MIGHT represent a different meaning from your symbol two. There is no realistic concern that we have different meanings for two, because the concept is simple and extremely well defined, so our meanings will be the same. Because they have a formal definition and that definition causes them to be the same meaning. But there is nothing that forces the symbol that I have to have the same meaning and the symbol you have.
 
-*   Exchange on Symbols
+> Exchange on Symbols
 
 We agree that the stop sign itself (the one standing on a corner closest to your home) is a symbol token.  There are hundreds of these symbol tokens spread around your town.  You say also that there is a real symbol type.  You said that in order for them to be “similar” and in order to recognize them there has to be a symbol-type.   (You said “re-cognize” to emphasize that this is about repetition.)
 

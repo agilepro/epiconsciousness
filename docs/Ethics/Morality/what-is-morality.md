@@ -32,3 +32,26 @@ The morality of an action depends not only on the act itself, but also the conte
 *   involving or deriving from sense perception or experience with actual objects, conditions, or phenomena
 *   not influenced by personal feelings, interpretations, or prejudice; based on facts; unbiased
 *   intent upon or dealing with things external to the mind rather than with thoughts or feelings
+
+## Context and Locality
+
+When considering whether an action is moral or not, we must consider the context.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.  But only when there is a fire.
+
+Notice that there is a built in assumption that the morality of an action can be judged by the immediate local circumstances: usually a physical area of a few meters, a time duration of less than an hour, and a participant dimension of only one or two people.  
+
+Cheating on a test involves the person taking the test at the time and location that the test is given.  We assume that a passenger getting on a flight in Hong Kong, or a hunter in the middle of Alaska will have no relevance to this decision.  We normally also assume that it has nothing to do with the student sitting next to the cheater.  Thus normally morals actions are judged only by circumstances in their locality, and we can ignore the other 8 billion people on the planet.
+
+Of course there could be occasions where things far and wide actually are relevant.  We might call those *extenuating circumstances*.  Circumstances 
+
+zzzzzzzzzzzzzzzzzzzz
+
+, but the point is that in most cases we can ignore the rest of the billion people on the planet and what they are doing.  That is a good thing because
+
+We limit the context of consideration to the immediate surroundings by assuming that nothing outside the immediate surroundings is relevant.  This is a simplifying assumption that moral questions can be decided locally.  If we had to consider the entire universe while trying to decide whether to break the glass or not we would never make any decision.  There is in fact no principle that a morality must be decided by the local environment, and there are cases where morality is dependent upon things that are far away.
+
+## Rules
+
+If morality is the right way to act, we also have rules which guidelines to follow to approximate moral behavior.
+
+The true moral action in a situation must consider the complete situation which provides the context for that action. Ultimately that context extends to include everything in the universe.  We often talk about extenuating circumstances, and what we mean by that is circumstances that are outside the normal theater of interaction.  All moral action can be considered moral for the context, but in this case we are saying the context is a bit more extended than normal.
+
