@@ -27,8 +27,10 @@ We will process cautiously:
 
 6. Objective Morality is then presented in a way contrasted with the earlier approaches.
 
-7. 8. (further)
+7. 8. Call to Action, how to use this in your daily life.
 
 9. Love is the concluding topic of the book.
+
+10. References and Resources
 
 I hope you will join me though the complete journey.

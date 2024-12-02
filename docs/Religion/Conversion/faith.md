@@ -75,11 +75,11 @@ Never say an atheist must be using faith to believe in science.  Science is base
 
 :::
 
-What matters is that science is based on demonstrating evidence for the theory.  Faith is when you don't have evidence.  Those are entirely different things.  Science may not have proof, but it has evidence.  Not only that, science is clearly accurate enought to enable people to accomplish remarkable things.  Cell phones could not have been made without science.  Flat screens could not be made without science.  Man could not have gotten to the moon without science.  Even automobile engines could not have been made without science.  There is plenty of evidence that science works, and every atheist knows it.
+What matters is that science is based on demonstrating evidence for the theory.  Faith is when you don't have evidence.  Those are entirely different things.  Science may not have proof, but it has evidence.  Not only that, science is clearly accurate enough to enable people to accomplish remarkable things.  Cell phones could not have been made without science.  Flat screens could not be made without science.  Man could not have gotten to the moon without science.  Even automobile engines could not have been made without science.  There is plenty of evidence that science works, and every atheist knows it.
 
 The truthiness in this argument is that every single person has not run every single experiment, and therefor we are trusting that other scientists have not fooled us and said false things about the world.  The argument above is foolish because anyone can demonstrate a TV working.  There is no question that electronics companies truly have discovered how to make TVs work.  Anyone who doubts this can be set at ease easily.  The same is not true about heaven, no matter how much you believe it to be true.
 
-In general it is very hard for a scientist to make bogus claims.  The reason is because in order to be published, a scientist must demonstrate evidence for their claim in such a way that others could use the evidence to come to the same conclusion.  No matter how much a scientist things that something is true, they can not get it published without evidence.  Occasionally scientist do publish bogus things, and more commonly (yet still rare) the scientist publishes based on a mistake.  The process does not end with publication.  Later attempts to build on that result might find they can not reproduce the results when done exactly the same way.  A small fractoin of papers have to be retracted and removed from the effective literature.  
+In general it is very hard for a scientist to make bogus claims.  The reason is because in order to be published, a scientist must demonstrate evidence for their claim in such a way that others could use the evidence to come to the same conclusion.  No matter how much a scientist things that something is true, they can not get it published without evidence.  Occasionally scientist do publish bogus things, and more commonly (yet still rare) the scientist publishes based on a mistake.  The process does not end with publication.  Later attempts to build on that result might find they can not reproduce the results when done exactly the same way.  A small fraction of papers have to be retracted and removed from the effective literature.  
 
 This process makes it very hard to publish bogus things, and this is what makes science in general trustable.  Again, trusting science is not faith, because the vast majority of papers are true.  That vast majority is hard evidence that science is in general trustable.  Not perfect, but highly reliable.  The atheist is likely to think you a fool if you say that believing science takes faith.
 
@@ -91,7 +91,7 @@ This incredulity is leveraged in an emotional plea: evolution is so unbelievable
 
 > I don't have enough faith to believe in evolution!
 
-It makes the audience feel they are part of a crowd, and it puts the bilogists down in a clever way.  This will work well in a creationist congregational setting because it makes everyone feel to be part of the group, and it reinforces intuiations.  Yet, it will not work with the atheist.  As mentioned above, proof is not needed, and when evidence is abounding, there is no faith needed at all.  Science makes predictions and they are reliable, so no faith is needed. 
+It makes the audience feel they are part of a crowd, and it puts the biologists down in a clever way.  This will work well in a creationist congregational setting because it makes everyone feel to be part of the group, and it reinforces intuitions.  Yet, it will not work with the atheist.  As mentioned above, proof is not needed, and when evidence is abounding, there is no faith needed at all.  Science makes predictions and they are reliable, so no faith is needed. 
 
 
 If you are trying to persuade an atheist that Christianity is true, it is best to avoid a common trope that apologists use.  Remember that an apologist is paid to speak to Christian audiences to reassure Christian audiences and not really to help Christians convert more atheists.
@@ -103,7 +103,7 @@ Here is a discussion I had once:
 
 > Q: I am not arguing that science is a hoax.  Instead, you have faith in the process by which they make the TV work. They told you what the process was and you believe them.  
 
-If regligion was used instead of science, then your TV and cell phones would not be working right now. If science is just a party trick, how do you explain that technology actually works?  Note that religion has _never_ produced a single new technology that worked.
+If religion was used instead of science, then your TV and cell phones would not be working right now. If science is just a party trick, how do you explain that technology actually works?  Note that religion has _never_ produced a single new technology that worked.
 
 > But you have never built a TV by yourself and made it work.  Therefore you have faith and man’s manual on how to make a TV and i have faith in God’s manual on life.
 
@@ -123,3 +123,18 @@ What does matter is that scientists write papers which are carefully checked for
 
 Faith is belief when you have no evidence.  There is no way to demonstrate the correctness of religion.  Yet, I have tons and tons of evidence that science works, both in general and in specific situations.  It is foolishness to think that religion is just like science. Religion does not require any evidence, it is all just hear-say. that is why you need faith for religion, not science.
 
+## Responding
+
+I get so tired of this specious argument which is born out of a purposeful mendacity of Christian apologists.  Can we speak truthfully here?
+
+What you are actually saying is that you are incredulous.  Your intuition does not support the believe, and so you think you need "faith" to override your intuition, and you claim that is what scientists are doing.  This argument apparently works on Christians who believe their intuition is accurate.  (it isn't)
+
+A scientist must IGNORE their intuition, because intuition is faulty.  But you don't replace it with faith, but instead to compose tests which could falsify the theory, and you look for those along with evidence confirming the theory.
+
+Quantum mechanics is so strange that nobody finds it intuitive, but scientists don't resort to faith:  they actually TEST the universe and either confirm or falsify the theory.
+
+As you well know, that is NOT what religion does because as apologists point out, you should never test God.  So, you rely on faith, which the scientist does not.
+
+The second lie is that there is no evidence, and once again the apologist is leveraging that intuition.  It is good enough to fool the gullible, but really, Christians that look into real science and real evolution find that there is plenty of evidence.  Millions and millions of catalogued fossils testify to the correctness of the theory.
+
+So, many Christians have been tricked into spouting these words, because they trust the apologist but they don't really know what scientists do.  I would love to have a serious discussion to clarify all this to them, but most often they are doxastically closed and not receptive to this.  In America we allow people to continue in their dream world if they wish to.

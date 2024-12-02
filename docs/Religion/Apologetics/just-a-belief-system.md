@@ -24,6 +24,12 @@ It is surprising that so many Christians don't understand the competitive nature
 
 Christians are so insecure that when you call god a "sky daddy" they get offended. That is because they have no real foundation to their belief beyond the writings of people in an ancient book.  They have no solid evidence that what they say is true.  Instead, they require faith from the believer.
 
-Science is different. You can mock gravity and evolution all you want, but everything is backed by solid evidence. If you claim that the Earth's orbit not caused by gravity from the Sun, you have to come up with some evidence that would show gravity to be false.  The ability to claculate the precise time and location of an ecplise is evidence that orbits work exactly as predicted byt he theory of gravity.  Scientists have so much evidence that they are not worried of being shown to be wrong.  No amount of name calling can make me stop believing in quantum mechanics.
+Science is different. You can mock gravity and evolution all you want, but everything is backed by solid evidence. If you claim that the Earth's orbit not caused by gravity from the Sun, you have to come up with some evidence that would show gravity to be false.  The ability to calculate the precise time and location of an eclipse is evidence that orbits work exactly as predicted by the theory of gravity.  Scientists have so much evidence that they are not worried of being shown to be wrong.  No amount of name calling can make me stop believing in quantum mechanics.
 
+## Christians Fear Losing Their Faith
 
+Theists are indeed fearful of "losing their faith".  They fear that some knowledge will cause them to change their belief to something false.  That fear rules their life.
+
+Cult members face the same problem, because if they ever doubt the cult leader, they may find themselves kicked out.
+
+Since I learned to move beyond religious beliefs, I always look back on how fragile I was at that time, and how it hindered me.  Today, I have absolutely no fears of this sort: tell me anything you want.  I will subject it to be the best truth test I can, but whether I find it true or false, I have no reason to fear it.

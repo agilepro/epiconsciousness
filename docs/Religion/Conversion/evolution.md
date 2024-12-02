@@ -451,7 +451,18 @@ Creation is a story made up by ancient men so primitive they through that fire w
 
 > The only question I would have for you is "why?". Why did YHWH wait 4.5 billion years before bringing forth man? Why is the evolutionary tree so complicated when it came to homos? I am not trying to attack you, it is just that was the question I struggled with.
 
-Good argument. If the universe was created JUST for the tribe of Israel, it is waaay to big, and took waaay too long to get here. It is a waste pure and simple. Surely these must be some Christian principle that god does not do wasteful things. The "argument from profligate waste". That waste can not be explained. Same with 99 of all the species.
+Good argument. If the universe was created JUST for the tribe of Israel, it is way too big, and took way too long to get here. It is a waste pure and simple. Surely these must be some Christian principle that god does not do wasteful things. The "argument from profligate waste". That waste can not be explained. Same with 99 of all the species.
 
 On the other hand, natural means are unlikely, and so you need a big universe and a long time to allow that is certainly happens. This is an explanation for the waste.
 
+## First Monkey
+
+> According to science how was the very 1st monkey born? 
+
+A real answer to your question might take 1000s of pages - I hope you are not expecting a trivial answer. but again, I will strive to answer your question just remember the answer will start very general, but you can ask more specific questions for specific answers.
+
+The first monkey was born in the regular way. I think the question you are trying to ask: when the first animal that was considered to be a monkey was born (to animals that are not considered monkeys) how did it happen that the offspring was considered a monkey and the parents were not. Is that what you mean?
+
+A species (or genus or family) is a grouping of similar animals. Every animal is unique -- every animal has a unique set of genes, every animal is different from all others. The parents of the first monkey will look very much like monkeys. Over the generations there will be more and more offspring that look more (and less) like monkeys. The first monkey then is just a very technical judgement where we finally draw a line to say that the first monkey has all the characteristics that we can call it a monkey. The important thing to note is that this distinction if purely based on a very technical definition of what is and is not a monkey.
+
+You might imagine the same in dog breeding (which is smaller change so it happen much more quickly). Pick any breed: Shetland sheep dogs. There had to have been a first dog that was called a Shetland sheep dog, and that dog was born from animals that are not called Shetland sheep dogs. The breed of dog is just a name we put on a category of animals.

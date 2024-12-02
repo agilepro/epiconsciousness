@@ -41,17 +41,49 @@ Notice that there is a built in assumption that the morality of an action can be
 
 Cheating on a test involves the person taking the test at the time and location that the test is given.  We assume that a passenger getting on a flight in Hong Kong, or a hunter in the middle of Alaska will have no relevance to this decision.  We normally also assume that it has nothing to do with the student sitting next to the cheater.  Thus normally morals actions are judged only by circumstances in their locality, and we can ignore the other 8 billion people on the planet.
 
-Of course there could be occasions where things far and wide actually are relevant.  We might call those *extenuating circumstances*.  Circumstances 
+Of course there could be occasions where things far and wide actually are relevant.  We might call those *extenuating circumstances*.  Circumstances matter, so morality must take that into account.  The "thou shall not kill" needs to include details like "except if in self defense" or "except if it is an insane sniper in a tower" and a host of other exceptions.
 
-zzzzzzzzzzzzzzzzzzzz
+## Layers and Scope
 
-, but the point is that in most cases we can ignore the rest of the billion people on the planet and what they are doing.  That is a good thing because
+To be able to talk about morals clearly, we need to distinguish between the multiple layers and scope of morals.
 
-We limit the context of consideration to the immediate surroundings by assuming that nothing outside the immediate surroundings is relevant.  This is a simplifying assumption that moral questions can be decided locally.  If we had to consider the entire universe while trying to decide whether to break the glass or not we would never make any decision.  There is in fact no principle that a morality must be decided by the local environment, and there are cases where morality is dependent upon things that are far away.
+![image showing four layers of morality](moral-layers.png) 
 
-## Rules
+**Universal Morals** - This is the ultimate judgement of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not universally moral because of unequal understanding.  These apply universally across space and time, and they are extremely complex in order to account for all the possible extenuating circumstances.
 
-If morality is the right way to act, we also have rules which guidelines to follow to approximate moral behavior.
+**Cultural Values & Laws** - Cultures will embody statements about what is and is not good, usually expressed as a rule to follow.  Some of these are formally written and adopted as laws.  Moral rules and laws are different degrees of the same thing: they both encourage (or enforce) behavior which is considered to be good.  Some cultural values are less explicit, and appear only as guidelines or simply a shared idea among the participants of the culture.  Laws exist from local, to community, to city, to state, to country, and somethings the whole world.  Laws will occasionally conflict with each other.  Because these are rules, they only approximate the real moral valence.
 
-The true moral action in a situation must consider the complete situation which provides the context for that action. Ultimately that context extends to include everything in the universe.  We often talk about extenuating circumstances, and what we mean by that is circumstances that are outside the normal theater of interaction.  All moral action can be considered moral for the context, but in this case we are saying the context is a bit more extended than normal.
+**Moral Rules & Intuition** - A set of rules that an individual claims or aspires to live by.  These are largely adopted from the culture, but an individual does not always agree with their culture, especially when they find themselves in a multi-cultural situation where the individual might have to chose between two conflicting rules.  These must be expressed as rules.  It would be the set of rules that an individual would claim to follow if they could.  That set is limited to what a person can remember and internalize.
+
+**Performed Actions** - What an individual actually does. People follow their own rules most of the time, but sometimes it is too much trouble and shortcuts are taken. The actions are the true measure of what an individuals thinks is good or bad, and they are somewhat more pragmatic than the explicitly stated rules. 
+
+There is a tensions between the bottom two as people try to put their own morals into action.  Most people have an internalized set of moral rules.  They may have an intuitive understanding of right and wrong that transcends the rules they claim to follow.  That is, there might be an explicit rule to turn someone in for a crime, however one might allow someone to get away because for some reason they did not deserve it.  There may not be an explicit rule to cover the situation, however rules conflict in their detail, and one must use judgement in selecting which rules apply to which situation.  
+
+There is a tension between the personal moral rules and the cultural values and laws.  Most laws represent the morals of a culture in a written form. But in the case of an unjust law, it can be moral to show civil disobedience when the law can be shown to contradict other recognized moral rules.  You personal morals may override the laws or cultural norms.
+
+Sometimes a minority group embedded in a larger culture may be faced with conflicting rules they need to choose between.  In this case the individual has to choose which cultural rules to follow, and which rules to breach.  Again, the personal morals must guide that decision.
+
+Finally it is also possible there is a tension between the top two.  A culture may adopt practices it views as moral but in fact turn out to be immoral.  Two examples: bloodletting and slavery.
+
+## Rules are Approximate
+
+We will talk about morals as being the rules we live by, but remember that rules are only approximate expressions of the real moral.  A couple reasons for this:
+
+**Brevity**: a rule can be stated in a brief sentence: "don't break windows".  For most windows you encounter -- probably more than 99.99% of them -- if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.  
+
+**Classification**: Rules talk about a set of actions which are categorized in a certain way.  For example:
+
+* Using a knife to slice meat 
+* Using a knife to slice meat off a person 
+* Using a knife to remove a ruptured appendix from a person 
+
+The first is fine, the second add context to describe something that is normally quite bad.  The third adds more context to refine the situation into surgery which might be life saving.  
+
+To recognize an action, we need to "slice it out" of reality: that is we SELECT a set of facts that we believe relevant to the situation, and then we classify according to those facts.  From whatever is happening, we need to classify the action into some identified form which can then be subject to rules.  The classification of actions is culture dependent.  The same actual occurrence might be classified several different ways, by different people, using differing levels of detail.
+
+**Scope**: It is generally the case that the action can be defined by the immediate surroundings at the time, but in some cases situations quite far away or removed in time might have relevance.  An act that is permissible in private, might be illegal in public.  An act performed in one city or state might be legal while the same act in a different state is illegal.  It is possible that an occurrence on the other side of the world has bearing.  Considering the entire state of the entire universe is not possible nor reasonable, so some judgement needs to be used to assure that enough scope is included to decide the morality of an action.
+
+**Exceptions**: To keep the rules brief, there is an understanding that for every rule there are a number of exceptions which counteract the regular rule.  In an emergency, a lot of things become permissible, but then what exactly is an emergency?   What are all the exceptional situations for breaking a window?  In a perfect moral system it might be that every rule would be complete and would stand alone and unambiguous, but those rules would be incredibly detailed, impossible to learn, impossible to recite, and not usable on a daily basis.
+
+The conclusion is that when we talk about morals, we need to express them in terms of rules or laws which are by their very nature approximate, and can not possibly describe accurately what is and is not moral.  They work more like 99% of the time, with the remaining 1% unspecified.
 

@@ -178,7 +178,7 @@ How would I go about PROVING that existence is good? Obviously, I can't because 
 
 **this all violates the is/ought distinction** - Tell me more about how this distinction has been proven.  David Hume starts with an assumption that ought should be something special distinct from what is, but I don't see any justification for that.  You certainly have to admit that if moral good was simply creation in any form (that is, the most right thing to do is that action which involves the greatest amount of creation) then there would be no such divide. So how is it that you know there is an is/ought divide?
 
-**Facts themselves dont imply values. Valuea gotta get their way in somehow. How so? By mind independent moral facts? By agents insidr doing acts of valuing?** - Yes, I am saying that actions are good or bad independent of any conscious agent.  That is, certain fact inherently imply value by the effect they have on the universe as a whole.  Actions that create will always be better than actions that destroy.  Actions that create more are better than actions that create less.  Why not?  We have been told that this can't be the case, but what is the proof of that?  That could just be a silly misunderstanding, like thinking that the sun goes around the Earth.  I am looking for justification of this claim.
+**Facts themselves don't imply values. Values gotta get their way in somehow. How so? By mind independent moral facts? By agents inside doing acts of valuing?** - Yes, I am saying that actions are good or bad independent of any conscious agent.  That is, certain fact inherently imply value by the effect they have on the universe as a whole.  Actions that create will always be better than actions that destroy.  Actions that create more are better than actions that create less.  Why not?  We have been told that this can't be the case, but what is the proof of that?  That could just be a silly misunderstanding, like thinking that the sun goes around the Earth.  I am looking for justification of this claim.
 
 **Morality requires a certain kind of rational endorsement.** - I am not sure that it does.  Why?  It seems that some people would claim that the formation of a star can't be a morally good thing because there was no consciousness involved in the formation of a star.  No decider, no good/bad.  I chalenge that notion.  things that happen on a purely mechanical basis can be rated as morally good or bad.  For example, a hurrican might in fact be morally bad because of all the destruction.  (Destruction )
 
@@ -190,4 +190,14 @@ To expand a bit on the subjective/objective thing. You say Yahweh set all the mo
 However, if I disagree that Yahweh did this, does not make deistic moral law subjective. My disagreement with your theory about God setting the moral laws does not make the theory about morals laws subjective.
 Similarly, your disagreement about my moral theory, does not make my moral theory subjective either. The theory does not rely on any person's subjective opinion, and that makes the theory objective.
 It is important to understand what we mean by objective and subjective.
+
+**So, by your logic, lying is only “bad” because it’s inconvenient for society’s survival?** - The answer should be obvious. Survival is not a "convenience" it is the essential element of existence. If you don't survive, you don't exist, and then morality is meaningless. By definition survival is "good" for everything that "exists".
+
+**Conveniently, that makes you (and people like you) the final authority on what’s right and wrong, based on what you personally think works best.** - Have you understood nothing? Morality depends not one bit on what people personally think. Survival is a cold, hard fat that has nothing to do with opinions.
+
+**But what happens when society shifts and decides lying, cheating, or even worse things are acceptable for "the greater good"?** - Only time will tell, but you have to be a genius to see that the society built on lying will corrode from within. It does not matter what the founders of such a society thinks.
+
+**Without an unchanging standard, morality becomes nothing but preference and convenience.** - Again, you arguing against some other idea. Go talk to them. I never said that morality depends on preference.
+
+**Nazi Germany, for instance, decided that certain groups were “unfit” for society’s advancement. Was that suddenly “good” because it was beneficial for them?** - It was not good. And they did not survive. The proof that what they were doing was bad if clearly evident that they only lasted a few years. This is an excellent example of how morality is precisely what I say it is.
 
