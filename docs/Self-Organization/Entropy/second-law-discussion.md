@@ -77,3 +77,34 @@ The tree requires a very complex form, with millions of independent parts all wo
 
 What I am describing is the simplest thing in the world: plants grow. We all know they grow. Strangely, apologists like to tell their sheep that nothing in nature ever organizes itself. Apologists say that nature organizing matter is a violation of the law of entropy when it absolutely is not. Life is an extremely complex chemical reaction that organizes matter all by itself.
 
+## Jan 17, 2025
+
+> Darwinism are liars.
+> They have to lie about the scientific laws of chaos that say that evolution is impossible.
+
+Tell me about this "scientific laws of chaos". Please present a link or evidence of how it disproves evolution.
+
+> The Second Law of Thermodynamics can be stated in any of three synonymous ways: For a spontaneous process, the entropy of the universe increases. For a spontaneous process, ΔSuniverse > 0. Ultimately, for any spontaneous process the entropy, which is related to randomness or disorder, of the universe increases.
+> This has been tested scientifically, and it has been shown that because of this evolution is impossible. Things tend to chaos, not order.
+> Law of the universe.
+
+I think you have fallen prey to a common apologist trick and general misunderstanding of the entropy.
+
+Yes, it is true that entropy "of the universe" always increases, however that entropy is not evenly distributed.  It is common for entropy to decrease in some areas while it increases in other areas.
+
+There are many common examples of this: consider a tree that takes in carbon from the air, and incorporates it into the branches and trunk.  Carbon in the air is about as disordered as you can get.  The tree takes the carbon in, assembles it into complex molecules, and organizes those molecules into cells which ultimately forms wood.   Wood is a highly structured form of carbon.
+
+The tree is able to decrease the entropy in its area by exhaust the increase in entropy.  Sunlight arrives in a very low entropy form, and a higher entropy form of light (infrared) is radiated back out to space.  For this to happen there MUST be a flow of energy through the area.   Every living plant and animal is proof that things CAN become MORE organized without violating the law of entropy.
+
+But apologists don't want you to know this.  Christian organizations confused about the science call this "the law of chaos" but the application in this way is entirely wrong.
+
+You said: "This has been tested scientifically". No, this is actually a complete misunderstanding of the law.
+
+You said: "Things tend to chaos, not order."  It is the UNIVERSE that tends to increase entropy, but that does not mean that local things can not decrease in entropy.  The entropy is not equally distributed.  I can understand that the average person might not know this, however apologists are told this repeatedly, and they still continue to tell the falsehood.  They lie.  They feel that lying is justified to sell the story of Jesus, however I am confident that Jesus would never agree to that.
+
+It seems obvious to me that no true God would require followers to lie about the world.
+
+> You have been guzzeling the coolade.  It has been proven that evoution is impossible becasue of the 2nd law of thermodynamics, but atheists say, that' cant be true because I don't believe in God so it must be false and start teaching and believing lies, which you guzzle.
+
+Sigh.
+

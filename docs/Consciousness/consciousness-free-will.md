@@ -55,7 +55,8 @@ First, I would not expect a dictionary to be the place to find out deep philosop
 
 Second, you don't have to, because basically a thermostat is minimally "awake and aware of it's surroundings" if you accept that minimal consciousness is a very very tiny part of what we normally consider consciousness.  I am quite sure individual subatomic particles don't have any consciousness and are not awake and aware of anything.
 
->But the dictionary is the place where we find out what words mean isn't it?
+> But the dictionary is the place where we find out what words mean isn't it?
+
 Hence if one wants to talk about something that isn't what the dictionary says is consciousness we need to use a different word for it don't we?
 
 I am a little surprised at your simplistic view of words and dictionaries. A dictionary records the most common meanings from a majority of speakers. But for abstruse topics, people tend to develop esoteric vernacular also called jargon which is understood only by that particular in-group. We are on a profound and arcane topic which the common person has not considered deeply, and for which common words may or may not exist. Surely you have read philosophers like Kant for which words have very special meanings that are not exactly in the dictionary, and in some cases are forced to use German phrases (like "ding an sich"). If you limit yourself to meaning found in the dictionary, there are some things you simply can't say.
@@ -500,3 +501,12 @@ But are these "real choices"? A lot of people would insist that "determined" beh
 
 Finally, your memories are stable for many years while the external world is experiencing chaos from the butterfly effect. Your memories run your thought which run your muscles. Because of quantum chaos, your actions dominate what happens around you. You really do make choices, you really do act upon the world in the way that you want, you really do have a will, but it all is determined.
 
+## Start of the Universe
+
+> we are the part of this universe and particles of the universe like electrons are in movement and even in our brain particles are in movement having interaction internally and externally that was fixed at the creation of this universe. We can't change anything. All decisions we take today was decided billions years ago in the creation of this universe.
+
+Fatalism is the idea that everything was fixed at the beginning of time. BUT several things work against that. First is quantum randomness. Second is that the universe is chaotic by nature (butterfly effect). While most interactions are determined, these two work to prevent fatalism.
+
+At the same time "you" are a bundle of memories and skills which are stable over long periods of time. You emerge and persist and as such have a causal role in the universe. While of course your desires are determined by those same memories, your ability to execute against those desires is a real thing.
+
+Remember that emergence allows for downward causation. You as an emergent structure, are part of the world, but at the same time, you cause certain aspects of what happens around you.

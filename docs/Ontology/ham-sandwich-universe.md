@@ -2,6 +2,12 @@
 
 The block universe is a name for thinking about the universe as a 4 dimensional space with time as one dimension.   I would like to talk a little about that view, and introduce a modified concept which might not represent reality, it does say something about predictability and free will.
 
+:::tip[Key Takeaway]
+
+The universe is deterministic but not fatalistic.  There is a time/distance range within which actions are determined, and outside that range actions become increasingly disconnected. 
+
+:::
+
 ## Review of Block Universe
 
 Follow this link to a some [better presentations on the block universe](https://www.abc.net.au/news/science/2018-09-02/block-universe-theory-time-past-present-future-travel/10178386).  I will assume that you understand how the four dimensions define a space, and that each particle in the universe follows a world line into the time dimension.  Every interaction is precisely defined by the conditions coming into that interaction, and every departing particle has a well defined, predictable path.

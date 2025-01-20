@@ -1,10 +1,12 @@
-# Just a Theory
+# Just a Theory Trick
 
 Apologists will often slip in the statement that evolution is just a theory as if by theory they mean that it is somehow untrue.  They are playing on a common misunderstanding of the meaning.  In common parlance a theory might mean something very speculative, but in science a theory has a very specific meaning, and it is not that 
 
 :::tip[Key Takeaway]
 
-A theory is the best and strongest outcome of science.  Some theories are well supported and accepted as fact, others are new are somewhat speculative.  Theories don't change into laws when accepted.
+A theory is the best and strongest outcome of science.  Some theories are well supported and accepted as fact, others are new are somewhat speculative.  
+
+Theories don't change into laws when accepted.
 
 :::
 

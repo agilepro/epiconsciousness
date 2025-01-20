@@ -1,20 +1,20 @@
-# Science just Belief System?
+# Just Belief System Trick
 
-> Q: _Both Science and Christianity are just belief systems._
+> Apologist: _Both Science and Christianity are just belief systems._
 
 Only people who don't understand science say that.
 
 The key idea of science is that you must reject your intuition and reject your beliefs, and you must **demonstrate** evidence of what you claim. If you have no evidence, then keep quite. Only claims that can be demonstrated are allowed. That is the difference between science and theism.
 
-> Q: _Science is just the study of creation, like theism_
+> Apologist: _Science is just the study of creation, like theism_
 
 Science is exactly what you say: study of the creation. But it differs from religion in that you must actually demonstrate what you claim in a way that can be reproduced. No scientist is ever asked to _believe_ another scientist, they are instead provided with evidence that demonstrates the claim.
 
 ## Christian Confidence
 
-> Q: _Christians know they are right._
+> _Christians know they are right._
 
-It is the "pride of the christian" to be so self assured about their view of the world. This pride fills them with unreasonable confidence that they simply can't be wrong. It is arrogance.  The "pride of the christian" is also the "hubris of christianity" because it prevents them from being humble, and so they over extend their claim, are wrong, and yet never notice it.
+It is the "pride of the Christian" to be so self assured about their view of the world. This pride fills them with unreasonable confidence that they simply can't be wrong. It is arrogance.  The "pride of the Christian" is also the "hubris of Christianity" because it prevents them from being humble, and so they over extend their claim, are wrong, and yet never notice it.
 
 A scientist must accept that even the best theory _might_ be wrong.  Every scientist is actively searching for experimental results that violate a theory, because such results lead to new and important discoveries.  It is the opposite of blasphemy:  experimental results contrary to the doctrine are celebrated and more likely to be published than otherwise.
 

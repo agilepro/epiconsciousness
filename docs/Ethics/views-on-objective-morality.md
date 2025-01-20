@@ -158,13 +158,19 @@ I found a discussion page debating “[Is morality subjective?](https://www.deba
 ## Discussions from other social media
 
 **Leaving out flourishing will give you a rather truncated morality. Is it wrong to cause someone pain? If existence is the only metric, that would be amoral.** - Good question. Pain is almost always an indication of something harmful. You need to dig into what pain is: pain is the sensation of the difference between the way the world is, and the way it should be. In most real situations pain is harmful, and would be bad for that reason.
+
 If you could induce a painful feeling without ANY physical harm, without any emotional harm, and without detrimentally effecting the behaviors of anyone involve, would not by itself be "bad" -- but realize there are a lot of caveats there.
-Also keep in mind that you must take a universal view: it will be moral to cause some people pain, if it greatly relieves pain of a great number more people. The trolly problem is clear: it is better to save the five while sacrificing the one.
+
+Also keep in mind that you must take a universal view: it will be moral to cause some people pain, if it greatly relieves pain of a great number more people. The [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) is clear: it is better to save the five while sacrificing the one.
+
 Pain itself is not a morally valent, but causing pain ALMOST ALWAYS causes a decrease in existence and will almost always be bad.
 
 **Who says that existence is good?** - We realize that it is good. That is all we need to say about it. We certainly demonstrate that it is true in extremes: no existence at all would be bad. Any existence is better than no existence.
+
 It stands the test in that in most moral situations, increasing the amount of existence is almost always concordant with what we normally think of as good. Don't murder. Don't do antisocial things. Don't rape. Don't pilage. Don't poison people. Do build a shelter. Do plant for a harvest. Do help someone in need. Do be polite. etc.
+
 I will caution you that if you search carefully, you will find some apparent contradictions with traditional morality. Is it moral to kill a cow? That might seems like a decrease in existence, but killing for food is actually INCREASING the amount of existence in the big picture.
+
 How would I go about PROVING that existence is good? Obviously, I can't because good must be defined, and everyone might come up with their own definition, and it would merely be a debate about definitions. But you must admit that:
 
 1. it is ENTIRELY objective

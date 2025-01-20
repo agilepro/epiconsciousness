@@ -1,6 +1,12 @@
 #  The Illusion of Universals
 
-This is the culmination of the last couple of posts all designed to support this one to show that universals are not real.  We don’t need to them to explain anything, and there are serious problems with universals anyway.  Universals are an illusions brought on by the way we perceive the world.
+This is the culmination of the last couple of posts all designed to support this one to show that universals are not existing.  We don’t actually need to them to explain anything, and there are serious problems with universals anyway.  
+
+:::tip[Key Takeaway]
+
+Universals form the foundation of how we think about the world, but they are ultimately illusions brought on by the way we perceive the world, existing only in the mind of the observer.
+
+:::
 
 ## TL;DR
 

@@ -80,7 +80,8 @@ For 1000 years people argued over Plato and Aristotle view. St. Thomas Aquinas t
 
 It was at this time that William of Ockham raised a concern that such entities can not exist, even as the form part of the substance, and this anti-realist position kicks off the idea of conceptual nominalism, but more on that in a different post.
 
-## Champeaux’s Realism
+<!--
+## Champeaux’s Realism 
 
 another example
 
@@ -89,3 +90,6 @@ another example
 The idea that universal is a real thing that represents the bundle of property values which define the essence of a set of things.  A universal is this bundle of properties, a distinct bundle of properties that represent the essence of particulars you are referring to.  The universal does not have any material existence, nor is it at any particular place, however it is the thing we talk about when talking about the essence of certain particulars.  It has to be real because we can talk about “it” and there has to be an “it” otherwise we would find ourselves talking about different things.
 
 _(Not Finished)_
+
+
+-->

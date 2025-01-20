@@ -41,9 +41,35 @@ None of these rationalizations can be tested.
 
 ~ Sir David Attenborough (Loa loa, African Eye Worm)
 
+## Anatomical Flaws
 
+Take our anatomy, which is riddles with design flaws, many of which are the result of choices made in the past which locked in bad design:
 
+* Ankle ligament asymmetry means the lateral ligaments are weak and results in a tendency to sprain the ankle.
+* Blood vessels routing to and from our legs results in an increased risk of clots due to an artery pressing the left common iliac vein
+* Eye inverted retina creates blind spot, reduces resolution of image, increases risk of retinal detachment and blindness from retinal hemorrhage and diabetic retinopathy
+* Knee ligament asymmetry means weakness of medial ligaments predisposes the knee to injury
+* Proximity of trachea to esophagus increases risk of choking
+* Recurrent laryngeal nerve makes pointless trip down neck past larynx, loops under aorta then ascends to innervate larynx
+* Sciatic nerve pathway can be poorly rooted, causing nerve entrapment syndromes.
+* Long oviduct increases chances of ectopic pregnancy and death.
+* Embryonic fusion of pancreas from dorsal and ventral buds increases risk of ring pancreas that can strangle the duodenum.
+* Tight birth canal increases risk of fetal death.
+* Prostate encircling of urethra increases risk of urinary retention / obstruction with age-related prostatic hypertrophy
+* Venous plexus near anal sphincter predisposes towards hemorrhoids.
+* Sinus drainage is poor and increases risk of infection because drainage holes point for a quadruped anatomy.
+* Spine is not designed for biped but quadruped, increasing risk of backaches and herniated discs.
+* Human jaw is too small, increasing risk of impacted wisdom teeth.
+* Descent of testes to external posturing increases risk of cryptorchidism, inguinal hernia and testicular injury.
+* Yolk sac no longer serves its original purpose but still exists, leading to risk of Meckel’s diverticulum which can cause fistula, perforation and bleeding.
 
+## Simpler to Understand 
+
+The whole point about the creation debate, is that if you are willing to accept "magic" (that is making something appear through supernatural means) then in that case creationism is far easier to understand and believe than evolution. You can stop asking questions, because asking "how" the magic was done is not an allowed question to ask. You don't need to worry about any messy details, like how did genders differentiate over time, because it is just "BAM it is all created".
+
+At the risk of sounding dismissive: simpler minds appreciate creationism more.
+
+More sophisticated minds appreciate the sheer beauty of a system that in the process of simply interaction with itself, produces amazingly varying forms of life. But to be honest, it is more work.
 
 ## Resources
 

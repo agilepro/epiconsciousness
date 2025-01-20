@@ -7,7 +7,7 @@ Many theological debates involve the claim that things simply don’t just pop i
 
 :::tip[Key Takeaway]
 
-The scientific consensus is that virtual particles come into existence without any efficient cause.
+The scientific consensus is that virtual particles come into existence without any cause.
 
 :::
 
@@ -15,13 +15,13 @@ The scientific consensus is that virtual particles come into existence without a
 
 The claims are phrased in a number of ways, but in this case we refer explicitly to the Aristotelian notion of efficient cause. Aristotle recognized four different kinds of causes:  The material cause which is stuff something is made from which has to exist, the formal cause which is the design or shape that gives something its unique existence, the final cause which is the cultural setting which brings about things like the things in question.  The fourth is the efficient cause which is summarized in the Stanford Encyclopedia of Philosophy as “[the primary source of the change or rest](https://plato.stanford.edu/entries/aristotle-causality/).”  The efficient cause comes from something that can act on the thing in question, and causes the result through that action.  So for the efficient cause, you need to have something there which is doing the acting. My apologist friend claims that it is a general, scientifically accepted principle that:
 
-*   **Nothing comes into existence without having an** _**efficient**_ **cause.**
+*   **Nothing comes into existence without having an _efficient_ cause.**
 
 This blog post is to provide a counter example of a few things that appear without any efficient cause, that is, without any external thing acting and causing them, in order to show that this statement is false in at least some cases.  Not only can we find some spurious cases, but instead we will consider only cases that are in fact the current scientific consensus. The term “spontaneous” means exactly this: “[developing or occurring without apparent external influence, force, cause, or treatment](https://www.merriam-webster.com/dictionary/spontaneous).” A spontaneous event is an event that happens all on its own, possibly with an internal cause, but without any external cause.
 
 ## One Spontaneous Example is Enough
 
-While there are many potential counter examples to disprove that “**Nothing comes into existence without having an** _**efficient**_ **cause,**” we only need one. A single example, no matter how small, of something spontaneous will be enough to show that there is no general principle that everything has an efficient cause. We need to find only one thing that appears without any prior event that could be used to stop the appearance of the thing in question.  The simplest, clearest example is production of virtual particles.
+While there are many potential counter examples to disprove that “**Nothing comes into existence without having an _efficient_ cause,**” we only need one. A single example, no matter how small, of something spontaneous will be enough to show that there is no general principle that everything has an efficient cause. We need to find only one thing that appears without any prior event that could be used to stop the appearance of the thing in question.  The simplest, clearest example is production of virtual particles.
 
 ## Virtual Particles
 

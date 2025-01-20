@@ -4,7 +4,7 @@ Here I will deal with the metaphysical disposition of abstract objects using num
 
 Consider the number 2. What is it? The number two is simply one more than one. It is defined as `1 + 1`. Every number is defined as one more than the number that precedes it. Starting with 1, we can then define every number by repeatedly adding one to whatever we got before.
 
-The number does not actually exist. The numeral “2” and the word “two” are symbols that represent and refer to the number, but the number does not exist in any way. The only thing that exists is the _definition of the number_. The definition is a rule that tells you how it differs from the other numbers. Two is a number that is one more than one. Three is a number that is one more than two. And so on.
+The number does not materially exist. The numeral “2” and the word “two” are symbols that represent and refer to the number, but the number does not exist in any way. The only thing that exists is the _definition of the number_. The definition is a rule that tells you how it differs from the other numbers. Two is a number that is one more than one. Three is a number that is one more than two. And so on.
 
 There is no actual thing that is a two. We can talk about two, and we seem to be referring to an object, but this is a trick of the mind. We can have words which are symbols for things that do not exist. Harry Potter and Spiderman for example are names for people _who do not exist_. These names are symbols, just like all other words. All words are metaphors in that they are something that stands for something else.
 
@@ -91,10 +91,19 @@ Famous mathematical Platonists—those who believe that mathematical entities ex
 
 These figures contributed significantly to the development and defense of mathematical Platonism, each with their own nuances and reasons for believing in the independent existence of mathematical entities.  I include them here for reference, however their arguments have not convinced me.
 
+----
 
-## Questions
+## Questions and Answers
 
-> Who cares whether numbers are real or not?
+> Because they were invented does that mean numbers are not real?
+
+I struggled to find the right word to describe the ontological status of these things.  I want to say that numbers _do not exist_ because they have no presence in our material world.  This hinges on the meaning of _existence_ and the question of whether "the dollar" or "The city of New York" exists or not.  We have a shared agreement about these things, so I find it hard to agree with the phrase "New York does not exist."  
+
+The same struggle was around calling them _real_ or not.  Money acts and we talk about it as if it was real, even though it has no material existence.  So does the word "real" refer to both things with a material existence and those without that.
+
+Things like pain are real, even pain is not represented in a physical form. (The nerves and the signals behind pain are materially existing, but the sensation appear to be separate from that.)  So I settled on "being invented" as the distinction between those and things that are naturally existing materially.  It is not perfect.  Need another word, I think.
+
+> Who cares whether numbers are invented or not?
 
 The reason I think this is important is because it changes the way we think about it.  We know we can think about imaginary things, somehow we do this without any real examples.  We can talk about Spiderman.  We have seen pictures of Spiderman, but there is no real existing Spiderman.  How do we accomplish this?  Because associated with the symbol-tokens we keep facts about that token that both allow for identifying other copies of the symbol-token and also for important properties about them.  This says something important about the way the brain works.
 

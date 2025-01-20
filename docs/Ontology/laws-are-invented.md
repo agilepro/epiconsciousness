@@ -2,6 +2,12 @@
 
 Don't mix up reality with our model of reality. It is a really important ontological distinction.
 
+:::tip[Key Takeaway]
+
+A scientific law is a discovered regularity in nature that we have given a name to so we can talk about the world.  Calling them "laws" is an unfortunate choice.  
+
+:::
+
 ## What is a Law?
 
 A scientific law is a DESCRIPTION of regularities in nature.  It is an unfortunate term calling it a law because it sound like something that someone commanded to happen, and perhaps the first scientists to use this term were thinking that these were things that God commanded.
@@ -72,7 +78,7 @@ There are two things to note. (1) the equation was invented, and (2) the equatio
 You are correct in that you keep trying possible equations until you get one that fits better than any other, so in that sense it is a discovery, but it seems there are two senses of discovery. In the philosophical sense, for something to be discovered, it would have to have been there BEFORE it was discovered. That equation (which is only approximate) was not there before Newton wrote it down. The equation was in this sense invented -- while at the same time the process of inventing and testing different equations is a kind of seeking the best fit.
 
 
------
+<!--
 
 ## Reorganization NEEDED below this point
 
@@ -90,4 +96,4 @@ Discovery the act of trying many things, and then selecting the one that fits th
 
 It is an invention in exactly the same way that an award winning song is an invention: many many songs were tried, but only one won the award.
 
-
+-->

@@ -1,6 +1,12 @@
 # The Grand Universe
 
-I do feel sorry for those who follow ancient religions because they can't really appreciate the grandure of the universe as it is.  The people who wrote the bible had such a limited understanding, and they could not completely grasp how incredibly amazing the universe really is.  i am so happy that modern science can show us now just how amazing the universe is.
+I do feel sorry for those who follow ancient religions because they can't really appreciate the grandeur of the universe as it is.  The people who wrote the bible had such a limited understanding, and they could not completely grasp how incredibly amazing the universe really is.  I am so happy that modern science can show us now just how amazing the universe is.
+
+:::tip[Key Takeaway]
+
+Self-organization is a core principle of the universe causing never ending creation around us.  Human intuition is blind to this concept, making it a challenge to see and understand.
+
+:::
 
 ## A Universe that Creates
 
@@ -12,13 +18,13 @@ I can't say much about what triggered the big bang.  If you insist that God did 
 * atoms started being created long after the big bang when things cooled enough for protons to form, and that created the bulk of the hydrogen that exists today.
 * molecules started forming after atoms were available to make into molecules
 * stars started for form, collected automatically by gravity.  The burning of the stars started the formation of higher numbered elements: helium, lithium, beryllium, carbon, oxygen, nitrogen, etc.  No entity created these, they did so just from the properties of the universe itself.
-* stars often end their lives with a huge novaa explosion, which creates all the elements higher than iron that exist in the universe. 
-* Once higher elements were availble complex molecules were created, even complex hydrocarbons, formed in space, automatically and without guidance.  
+* stars often end their lives with a huge nova explosion, which creates all the elements higher than iron that exist in the universe. 
+* Once higher elements were available complex molecules were created, even complex hydrocarbons, formed in space, automatically and without guidance.  
 * Later stars formed out of heavier elements include planets circling them. The planets offer a unique environment where energy shines on them
 * planets include volcanos, plates, faults, rifts which run all on their own.
 * planets with atmospheres automatically create storms, and evaporation/precipitation cycles, all on their own.
 * in the midst of all this activity, complex hydrocarbons start forming more and more elaborate cycles of creation, including replication of existing chains of molecules.  I realize that Christians reject especially the notion that life was another thing that started automatically, however this is just one thing out of the many many things that universe creates all the time.
-* once life gets started, and whole new level of creation is started, with an endless sequence of creatures, plants, animals, fungi all in a perputal battle to out survive the others.  New species are created all the time, automatically, and without any external guidance.
+* once life gets started, and whole new level of creation is started, with an endless sequence of creatures, plants, animals, fungi all in a perpetual battle to out survive the others.  New species are created all the time, automatically, and without any external guidance.
 * once life gets complex enough, it gains an ability to model the world, and to react to it, in order to hunt for food, and escape predators.
 * even at this level, the universe is not done creating: our own consciousness is part of this patter of continual creation.  People invent things that have never been seen before.
 * We are now starting to make machines that are themselves creating new innovative things.  
@@ -44,7 +50,7 @@ For me, the idea that the universe is engaged in continual creation is invigorat
 
 Every perturbation pushes creation in a new direction.  Plants and animals and thrown together into ad-hoc ecosystems, some of which work, and some don't.  When they do work, it can be because of novel combinations in ways that never worked before.
 
-We most not separate ourselves from this.  We too are part of the universe, and all human creativity is further example of how creation is still going on.  We fith against diseases and come of with new ways of protecting ourselves.  We invent machines which leverage the power of the sun, and do work for us.  As techonnlogy gets more and more complex, we can expect more and more complex interactions and ecosystems to develop.
+We most not separate ourselves from this.  We too are part of the universe, and all human creativity is further example of how creation is still going on.  We fight against diseases and come of with new ways of protecting ourselves.  We invent machines which leverage the power of the sun, and do work for us.  As technology gets more and more complex, we can expect more and more complex interactions and ecosystems to develop.
 
 ## Where Does it End?
 
@@ -54,4 +60,4 @@ My feeling is that the entire universe is on the road to somewhere inconceivable
 
 The most satisfying part of this is that we human still play a critical role in all of this.  We have changed our planet in ways far beyond any life before us.  If we can learn to live sustainably, and to preserve the Earth enough to live fruitfully, there is on reason to believe that the process of invention will stop any time soon.
 
-Yet, I do feel sorry for those trapped into ancient view of a static world, created by a single entity long ago.  Those people have no appreciation for exactly how grand the universe really it.  It is a continual fontain of creation, and we are part of it.
+Yet, I do feel sorry for those trapped into ancient view of a static world, created by a single entity long ago.  Those people have no appreciation for exactly how grand the universe really it.  It is a continual fountain of creation, and we are part of it.
