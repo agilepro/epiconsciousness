@@ -18,13 +18,20 @@ I am however a non-dualist, and I believe that every aspect of consciousness can
 
 ## spirit
 
-when speaking about spirit as an object, I mean exactly the same thing as soul.  Spirit and soul are interchangeable in my writing.
+When speaking about spirit as an object, I mean exactly the same thing as soul.  Spirit and soul are interchangeable in my writing.  See [Soul](#soul).
+
+## objective
+
+Something is objective when it exists independent of or external to the mind.  There is one objective world in common to all of us.  If we are careful about how we do measurements, all measurements of objective things if done carefully will always be the same without regard to who does the measuring.  A tree is a particular height, and no matter who measures it will get the same measurement.  A mountain has a particular mass.  A planet has a particular size.  The objective world is something that all people can agree on (if measured carefully) because those measurements are not dependent on who does the measuring.  See more at [Definitions](/docs/Ethics/foundation-objective-morality#definitions)
 
 ## subjective
 
-## objective
+Something is subjective when it depends upon the mind that is encountering it.  Such an experience can and will be different for different people.  Personal preferences are subjective, for example a favorite flavor of ice cream.  There is no reason to think that everyone will have the same favorite flavor, and we can't even say that different minds experience things the same way.  Some minds might find a particular piece of music or art pleasant, while others find it unpleasant.  Subjective things are dependent on the mind and might be different for every mind that encounters it.   See more at [Definitions](/docs/Ethics/foundation-objective-morality#definitions)
 
 ## morality
 
 ## goodness
 
+## magic
+
+I will use the term _magic_ to refer to supernatural acts performed by an agent.  I am not talking about magic tricks that human magicians play, which are in fact clever tricks played against our normal patterns of perception.  Nor do I believe there are people capable of real magic spells.  Instead, if an actor performs an action that is supernatural, something that is not possible according to out understanding of the universe.  In general I will use the term _magic_ when referring to mythical acts of God which would violate the known laws of nature.  For example, instantly turning water into wine would be magic because such a transformation could not occur naturally.

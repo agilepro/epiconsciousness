@@ -21,7 +21,9 @@ Intuition is a body of knowledge that you use in every day actions.  Much of int
 
 Intuition about common everyday things is incredibly important and useful.  Avoid touching a hot stove.  Don't step too near a high cliff.  Avoid interactions with large animals with sharp teeth, especially when they are hungry.  Keep your keys with you when you lock the car.  You can't get along without it.
 
-People will say something "makes sense" or not based on intuition.  Large building don't float up into the air, it is common sense.  People don't walk on water, it is common sense.  Elephants don't perform tight-rope acts, it is common sense.  However a group of people drinking on New Year's eve is something that makes sense.  We judge what is around us based on this intuition.
+People will say something "makes sense" or not based on intuition.  Large building don't float up into the air, it is common sense.  People don't walk on water, it is common sense.  Elephants don't perform tight-rope acts, it is common sense.  However a group of people drinking on New Year's eve is something that makes sense.  We judge what is around us based on this intuition.  
+
+![](untrustworthy-intuition01.png)
 
 ## Intuition is Faulty
 
@@ -31,7 +33,7 @@ Intuition is common knowledge about things in our everyday experience, but it no
 
 **extremely rare**: What would it be like if an asteroid would hit the earth is not something in any human's memory.  Big earthquakes are rare, and even those who live through one in one place have not enough experience to say how an earth quake at a different time and place will be like.
 
-**unimportant to survival**: There are occurrences around us which we ignore because they are unimportant.  Where does the fly go after I shoo it out of the house?  Why did the wind blow that door shut just now?  How many hairs are stuck in the hairbrush?  
+**unimportant to survival**: There are occurrences around us which we ignore because they are unimportant.  Where does the fly go after I shoo it out of the house?  Why did the wind blow that door shut just now?  How many hairs are stuck in the hairbrush?
 
 ## Intuition is about Survival
 
@@ -58,4 +60,20 @@ People make this mistake all the time.  They feel that very large scales (10^10 
 All good scientists know that you can not trust your intuition.  Therefor you must suppress the desire to claim something makes sense or not based on common knowledge.  Instead, you need to use the instruments that observe at that scale, and then carefully make conclusions based on the observed data, and not intuition.
 
 For phenomena found outside our scale of living and timescales, we absolutely must ignore whatever intuition you might feel you have.  Even within the scale of everyday life, we still need to ignore intuition, and seek an actual demonstration to show what is and is not true.
+
+## Resources
+
+
+
+## Questions and Answers
+
+> Sorry, but the most important thing we learned from Descartes is that the *only* thing we can know with complete certainty is that we exist - aka Descartes' famous dictum - Cogito ergo sum.
+
+Indeed that is the most fundamental part of his thinking that set him on his course.
+
+I don't want to quibble over a minor point, but the reason I said it that way is because Descartes is known as the father of the scientific method, that the scientific method has changed the world more than anything else that he said. The essence of science is that evidence must be demonstrated, and not just logic based on logic. A theory should be based on hard evidence, and not your intuition. I dare say, that probably was a "more important" idea, don't you think?
+
+> The false beliefs of a flat Earthers gives them a sense of superiority. Ironic.
+
+That is right. Flat earthers are also believe their intuition instead of hard evidence. The world "looks" flat -- but having never actually seen a flat world, how would they know what one looks like?
 

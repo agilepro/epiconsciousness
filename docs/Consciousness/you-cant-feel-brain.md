@@ -45,3 +45,18 @@ This does not diminish our role in making the decision.  It is after all my own
 ## Further
 
 Mike has done some interesting work on free will and determinism.  He has written a guest post on this blog named “[A Tale of Two Riddles](https://meta.purplehillsbooks.com/2020/11/01/a-tale-of-two-riddles/)” about a different kind of mind trick that prevents us from holding the idea of determinism and free will in the mind at the same time.  The human brain brings the wrong assumptions to bear, making it hard to see reality.  Check it out.  He is working on a new book on free will, and maybe we can feature that here some day.
+
+## Questions and Answers
+
+> define subconscious thoughts?
+> Define Conscious thoughts?
+> And how they are practically produced in the universe?
+
+Thoughts are networks of activated neurons.  They are physical processes that run in the brain.  Your memories are connections between the neurons and that is how thoughts are based on things you have learned.
+
+As you walk, you are controlling dozens of muscles in precise sequences.  There are parts of the brain that run processes (indistinguishable from "thoughts") that actually run the muscles, but you don't notice them.  Subconscious thoughts are thoughts you don't notice.  They were not always this way: there was a time when walking was a challenge and required concentration.  It was a very conscious thing.  But once we learned it, we push those thoughts into the subconscious.
+
+You can actually see this when you are walking along and suddenly about to step in a puddle.  You might have been walking for 5 minutes with absolutely no awareness that you were deciding where to place each foot.  During normal walking this decision is made subconsciously.  But when a puddle appears in the wrong place, these thoughts will suddenly jump into conscious, and you will try to (consciously) step in a different place to avoid getting wet.  The fact that this suddenly became a conscious concern shows that some part of you really was watching _every_ step you placed.  If some part of you had not been watching and thinking about foot placement, you would never have noticed the puddle.
+
+Subconscious thoughts are just like regular thoughts, but we are unaware of them.
+

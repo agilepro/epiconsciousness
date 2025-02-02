@@ -8,6 +8,8 @@ The number does not materially exist. The numeral “2” and the word “two”
 
 There is no actual thing that is a two. We can talk about two, and we seem to be referring to an object, but this is a trick of the mind. We can have words which are symbols for things that do not exist. Harry Potter and Spiderman for example are names for people _who do not exist_. These names are symbols, just like all other words. All words are metaphors in that they are something that stands for something else.
 
+![](numbers-arent-real01.png)
+
 ## Universals
 
 The word “tree” stands for the concept of a tree. The concept is a set of rules that allows you to classify things around you as either tree or not tree. Some trees fit easily into the classification, like a pine tree, or a sycamore tree. We delight at finding things at the boundary of the set, that is things that satisfy some of the rules but not all of them. Is a seedling a tree? Is a banzai a tree? Is a giant kelp a tree? Arguing whether these are trees is one way we refine the rule set that defines tree. Our discussion about what is and is not a tree helps to bring the rules that I have more in line with the rules you have for tree. I can “learn” from an arborist what is and is not a tree, and that learning consists in the end of refining the rule I have to recognize a tree.
@@ -55,6 +57,29 @@ Given this understand of how we think, how we talk, I just can’t understand wh
 
 Christians have long claimed that universals exist because God exists. (slightly circular there)  William of Ockham — a very pious Christian I might add —  was credited with creating nominalism.  Theistic philosophers have pilloried him for centuries. Some Christians call nominalism the _worst idea in all history_.\[[1](http://medievalmind.blogspot.com/2017/05/nominalism-worst-idea-ever.html),[2](https://www.patheos.com/blogs/rogereolson/2017/05/worst-idea-ever/),[3](https://en.wikipedia.org/wiki/Ideas_Have_Consequences)\] This is apparently a very emotional issue. I am hoping to find someone who can explain the reason they believe in realism without getting emotional.  Since the explanation that symbols are associated with definitions is enough to explain all of human behavior, there is no reason to propose that there is a magic realm (i.e. God’s mind) where abstract objects exist.  Using Occam’s Razor: there is no need to propose that universal are real since the world is perfectly well explained by a simpler explanation.
 
+## Representation in the Brain
+
+Consider the expression: "2 + 2"
+
+There is a concept of a 2, and a concept of addition.  Those concepts are realized as real places in the brain.  
+
+For example, the concept of [Jennifer Aniston](https://www.ynetnews.com/health_science/article/b1v5hrv0c) is represented as a pattern of connections in the brain.  Concepts are not always a single neuron, and instead a pattern, but for ease of discussion lets call it a neuron.  When that neuron is activated, you can be said to be thinking of Jennifer Aniston. This nerve functions as symbol that represents the actress.
+
+All concepts then are nerves that act as symbols that represent things.  Your car, your house, your dog, etc.  Connections between these symbols in the brain allow you to associate things:  your dog nerve is connected to your house nerve, so when you think of your dog for any reason, there is a chance you will be reminded of the house.  So concepts can be associated.
+
+Language then works by creating language level symbols (think: words) which refer to the concepts.  Once again these symbol appear as patterns in the brain.  The eyes see the printed numeral 2, and the circuitry that "recognizes" the 2 is connected to the nerve that represents the concept of 2.  Therefor when you see a numeral 2, it activates the nerve that represents the concept of 2.  Similarly for the written word "two" and for spoken equivalent.  The language level symbols refer to the concept level symbol.
+
+What is special about the concept 2 is that it is a symbol, but there NOTHING that it refers to.  It simply exists as a concept in the brain.  
+
+Traditionally any symbol has two parts, the "name" and the "object it refers to".  The idea that you can have a symbol, and the object is points to is null -- there is no object it refers to.  It is a symbol in name only.  That is why this is called "nominalism."
+
+So numbers are concepts, and all concepts are symbols, but the numbers are symbols that have no object they refer to.  There are lots of such things: fictional characters (Harry Potter), the price of something ($4.99), an honorific title (Meistro), etc.
+
+The concept of 2 is a symbol with the name part only, but that is all you need.  The name part gives us something to hang other properties on.  For example 2 is one more than 1 is a property we "know" about the concept 2.  We know that if we add 1+3 we get 5, yet another symbol which does not point to anything.  Mathematics is then the a large collection of these symbols, along with some elaborate rules around how they relate to each other.
+
+Furthermore, the symbols allow us to talk to each other about the concepts.  I can ask you "What is 2+2?" and that is a meaningful question, even though 2 does not actually exist.
+
+There is no need for an actual 2 that exist in the world.  It is ONLY in your head.
 
 ## Summary
 
@@ -91,7 +116,20 @@ Famous mathematical Platonists—those who believe that mathematical entities ex
 
 These figures contributed significantly to the development and defense of mathematical Platonism, each with their own nuances and reasons for believing in the independent existence of mathematical entities.  I include them here for reference, however their arguments have not convinced me.
 
-----
+## Questions for Platonists
+
+* If Platonism were true, what empirical consequences should we expect? 
+* What would distinguish a universe where Platonism is true from one where it isn’t? 
+* If mathematical truths exist independently of cognition, why does mathematics track human perception so precisely? Wouldn’t we expect at least some divergence? 
+* If you require empirical evidence to refute Platonism, you should also require empirical evidence to support it. 
+* If mathematical objects exist independently of minds, how do minds access them? 
+* If mathematical truths are “discovered” rather than “constructed,” what is the mechanism of access? 
+* Do human beings have an innate cognitive faculty that allows them to perceive a realm of mathematical objects? If so, what is the evidence for such a faculty? This is the Achilles’ heel of Platonism. If mathematical objects exist in a non-physical, non-mental realm, and we somehow “perceive” them, then you’re positing an unexplained cognitive ability. Without an account of how mathematical knowledge is accessed, Platonism remains an assertion, not an explanation. If you reject Platonism as an empirical claim but insist it is epistemically necessary, then you owe an account of how that knowledge gets into minds.
+* How does it function in beings with different cognitive architectures? 
+* The argument that mathematical truths are universal suggests mind-independence. But this assumes objectivity must mean ontological realism. Why does the objectivity of mathematics imply mind-independence rather than structural inevitability? 
+* Could mathematics instead emerge from cognitive and environmental constraints, meaning a necessary structural reality rather than an independent metaphysical one? 
+* Consider the analogy of language structure. Human languages have objective rules (grammar, syntax) but are still species-specific constructs. Could mathematics function similarly, as an emergent, convergent system that reflects our interactions with reality rather than an external platonic realm? If you reject this possibility, you need to explain why objectivity necessarily entails external existence rather than arising from deep cognitive and structural constraints.
+*  If Platonism is merely an explanatory preference, why treat it as ontologically necessary?
 
 ## Questions and Answers
 
@@ -109,7 +147,7 @@ The reason I think this is important is because it changes the way we think abou
 
 > Do symbols really exist in the brain?
 
-There is plenty of evidence that real-world objects are symbolized as specific location in the brain:  [http://cbcl.mit.edu/news/files/nytimes-brain-cells.htm](http://cbcl.mit.edu/news/files/nytimes-brain-cells.htm)
+There is plenty of evidence that real-world objects are symbolized as specific location in the brain:  [https://www.sciencedirect.com/science/article/abs/pii/S0303264701001083](https://www.sciencedirect.com/science/article/abs/pii/S0303264701001083)
 
 Another experiment has been done is activating specific neurons, and the people report having specific memories occur to them.  (During brain surgery the patient is awake and you can talk to them.)  This was 15 years ago, and more brain research happened in the last 15 years than all of history before that.
 

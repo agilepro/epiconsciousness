@@ -81,6 +81,9 @@ Did I get a bunch of responses saying that life has no meaning, that it is empty
 * My kids and the people I love
 * Family, good food, love, hobbies, music, entertainment, nice house, etc. . . . . .
 
+![](meaning-of-life01.png)
+
+
 ## Common Themes
 
 **Family** - many of the responses say that family gives their life meaning, like "my wife", "my husband", "my family", "my daughter is my world".  That is not surprising at all, because relationships like this can be some of the most fulfilling of a lifetime.
@@ -145,3 +148,15 @@ In reviewing this, it seems that Christians need to be told that they can not do
 ## Conclusions
 
 There was no sign that any atheist was having any trouble identifying what gave their life meaning.  There really was a surprising number of thoughtful responses.  Most of them came down to the idea: there are so many things that can give life meaning, just see them and appreciate them.  The group as a whole is full good feelings, and value life to the fullest.
+
+## Comments and Answers
+
+> any atheist who is not a nihilist is being dishonest to his religion.
+> Atheism, taken to its logical conclusion, nihilism is the end result of atheism.
+
+That is what you think.  You need get a ticket to heaven where you will live and live and live forever.
+
+The atheist realizes that they play a particular limited role in the world, and they leave behind them a better world for their friends, family, and all of humanity.  THAT is what the atheist lives for, not the silly selfish dream of an everlasting life. 
+
+That is NOT nihilism
+
