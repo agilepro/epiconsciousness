@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Get Projects Done',
+    title: 'Where are we From?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Pragmatic Programming is an effective method to get code running
-        quickly.
+        An understanding of the past is critical to understanding where we are now, 
+        and how things work om general.
       </>
     ),
   },
   {
-    title: 'Higher Maintainability',
+    title: 'Why are we here?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Pragmatic products are easier to maintain because they are 
-        lean on purpose including what is needed and omitting unnecessary frills.
+        What is the purpose of life?  What are the ultimate goals of existence?
       </>
     ),
   },
   {
-    title: 'Quality and Reliability',
+    title: 'Where are we going?',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Pragmatic software uses less code, so it is easier to show that
-        the code is correct, and easier to keep the quality high.
+        How do we achieve our maximal value?  What transcendence
+        is ahead of us on the path to perfection?
+        Will we understand it?
       </>
     ),
   },
