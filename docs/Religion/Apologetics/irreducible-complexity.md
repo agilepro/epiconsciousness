@@ -1,4 +1,14 @@
-# Irreducible Complexity
+# Irreducible Complexity Trick
+
+## Evolution of the Eye
+
+The evolution of the eye is one of the best understood evolutions of complex organs.  This is because eyes have evolved several times, and twice the process took a similar path and produced similar results. Yes, cephalopods have better eyes than vertebrates because they don't have our blind spot,  but we both ended up with fluid filled eyes with most of the same parts.
+
+What helped us piece together eye evolution is the fact that there are organisms alive today that have examples of everything you see below. This means that each "step" in the evolution of eyes was also a destination.   Organisms with just a patch of light sensitive material are every bit as complete as those with an optical cup. They aren't fumbling around waiting for full eyes to form. Whatever stage of eye development their DNA produces,  that's what they use for the rest of their life. But if they have a mutation in the code for their optic cells, their descendants can be born with the next step.
+
+![](irreducible-complexity_img1.jpg)
+
+Wikipedia has a decent treatment of the [Evolution of the eye](https://en.wikipedia.org/wiki/Evolution_of_the_eye?fbclid=IwY2xjawIe6CNleHRuA2FlbQIxMAABHcQdo9HRuj7GywBmJwVe7B68ziuv3K6lzlGFvtgJaDXagBlkOhQCvS-9yw_aem_SDgpUJtP-X0_C4aU3rRd1A).
 
 ## Books About the Eye
 

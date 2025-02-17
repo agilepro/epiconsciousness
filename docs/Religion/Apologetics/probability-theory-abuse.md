@@ -1,4 +1,10 @@
-# Probability Estimates?
+# Probability Trick
+
+:::tip[Kernel of Truth]
+
+Creationists will make a dishonest attempt to calculate the probability of something forming. A variety of different blunders are employed. They multiply probabilities to together as if a single known outcome was produced in a single instant instead of gradually over time.
+
+:::
 
 ## Jason Rodenhouse
 
@@ -19,7 +25,7 @@ Actually, the probability space is highly nonuniform.  Genotypes have a metric s
 
 ## Truffle Argument
 
-Raises the truffle argument.  Truffles are very hard to find, and if you just started digging naywhere, you would never find a truffle in thousands of years.  Instead, truffle hunters use an edge: a sense of smell
+Raises the truffle argument.  Truffles are very hard to find, and if you just started digging anywhere, you would never find a truffle in thousands of years.  Instead, truffle hunters use an edge: a sense of smell.
 
 ## Stepping Stone Example
 
@@ -30,3 +36,5 @@ Stepping stones example: there is only one set of stepping stones.  You don't do
 * [Failures of Mathematical Anti-Evolutionism](https://www.youtube.com/watch?v=bVNYTF6-k60) - Long 2 hour discussion of the book
 * Reading of [The Failures of Mathematical Anti-Evolutionism chapter 4](https://www.youtube.com/watch?v=4Ja4wunF0rU)
 * [Among the Creationists: Dispatches from the Anti-Evolutionist Front Line](https://www.youtube.com/watch?v=QCZ5SKk7zaM)
+* [Golden Crocoduck nominees ponder improbability](https://www.youtube.com/watch?v=SxxolSyWd6Y) - shows creationist thinking and responding to the logical fallacies incorporated therein.
+[“Vision” in Single-Celled Algae](https://journals.physiology.org/doi/full/10.1152/nips.01517.2004?fbclid=IwY2xjawIe7JlleHRuA2FlbQIxMAABHfSA2iEe15W-fxvBjWJEEqFRkqYTeiK8AuBqUZWqt2uBT-eVAxvAbVe7Kw_aem_1590BV1PBhUoSJZmZVWsAg) - This Journal of Physiology article presents the extreme example of single celled ability to detect light and use that to survive.

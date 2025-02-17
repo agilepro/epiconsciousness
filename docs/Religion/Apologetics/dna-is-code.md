@@ -1,4 +1,4 @@
-# DNA is like Software
+# DNA is like Software Trick
 
 ~ by Günter Dantrimont
 

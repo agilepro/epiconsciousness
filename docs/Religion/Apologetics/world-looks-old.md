@@ -1,4 +1,4 @@
-# World Looks Old
+# World Looks Old Trick
 
 _Why do young earth creationists (YEC) think that god goes to such lengths to make the world look old._
 
@@ -8,7 +8,7 @@ With millions of fossils categorized, and thousands of layers of rock identified
 
 Creationists: why do you believe god wants to deceive humanity?  Is it an elaborate joke on the non-believers?  Why would god make the world LOOK different than it really is?  Why does god need to fool the evolutionists with an elaborately detailed story will literally millions of facts pointing to a specific history?   Why must humans -- particularly those who spend the time to become expert -- be deceived in this way by God?
 
-## Isle of Surtsea
+## Isle of Surtsea Trick
 
 _Ever heard of the [Isle of Surtsea](https://en.wikipedia.org/wiki/Surtsey)? It is brand new, but some think it looks old._
 

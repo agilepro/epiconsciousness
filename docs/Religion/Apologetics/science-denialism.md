@@ -9,3 +9,15 @@
 > “Reckless and incompetent expounders of holy Scripture bring untold trouble and sorrow on their wiser brethren when they are caught in one of their mischievous false opinions and are taken to task by those who are not bound by the authority of our sacred books. For then, to defend their utterly foolish and obviously untrue statements, they will try to call upon Holy Scripture for proof and even recite from memory many passages which they think support their position, although “they understand neither what they say nor the things about which they make assertion."
 
 > - Saint Augustine of Hippo
+
+## No Evidence of Evolution Trick
+
+> The problem is some parts of evolution are true, supported by science and sound evidence. And other parts are conjecture, wishful imagination, with ZERO evidence. Microevolution is seen everyday, but macroevolution is unsupported by direct concrete evidence. Macroevolution is nothing but wishful thinking, cartoon drawings, and good artwork. No evidence because there is none.
+
+If you saw a photograph of a burglar entering a store at night, and more photos of them carrying out stolen goods, you would have evidence of a burglary, right?
+
+"Observation" does not mean you were in the room with the burglar. A reliable photo is good enough, right? Even though there is no picture of them actually picking up the goods, we see them in a position of walking out with them is good enough, right?
+
+We have such photos in the form of fossils. It is an impression of the hard parts of an animal preserved in rock.  That is as concrete as you can get.  There are reliable ways to date the rocks. These are essentially photographs of life as it was long ago.
+
+Why do you not consider this to be evidence?
