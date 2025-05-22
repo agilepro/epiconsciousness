@@ -22,7 +22,7 @@ Here we see the fundamental underlying bias that Lewis holds: that intelligence 
 
 Intelligence evolved due to the need to survive.  Imagine it this way: millions upon millions of different versions of the brain were created at points in time, some of them more intelligent than others.  Obviously, the more intelligent ones were selected.  Why?  Because they had a more accurate picture of the world around them, and that allowed them to more accurately respond to what was going on.
 
-Some brains had thoughts, and some didn’t.  An you know what?  The ones that could think did better, survived longer, and passed more of their genes along.  Is this really that hard to understand?  Understanding the world around you is a HUGE advantage when it comes to competition and survival.
+Some brains had thoughts, and some didn’t.  And you know what?  The ones that could think did better, survived longer, and passed more of their genes along.  Is this really that hard to understand?  Understanding the world around you is a HUGE advantage when it comes to competition and survival.
 
 The best way to design a brain, would be to make millions and millions of brains, put them in competition with each other, and find out which one does the best thinking by seeing which one survives the best in a challenging environment.
 

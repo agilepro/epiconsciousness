@@ -6,6 +6,15 @@ I first heard this conundrum was about five years old:
 
 How can we be sure that the experience of a color is the same for all people?  What is the nature of experiencing a particular color in the first place?
 
+
+:::tip [Key Takeaway]
+
+Colors are a social construct learned from your parents and from your community.
+
+Your perception of a color is formed from your experience with the color.  To the extent that our experiences with a color are the same, then our perceptions will be the same.
+
+:::
+
 ## Spectra
 
 We start by understanding that there is a spectrum of light that enters the eye, but from there it produces a perception, which is possibly entirely different for different people. But this question also illustrates a fallacy of sorts about perception and particularly about color.
@@ -56,7 +65,10 @@ It is very unlikely (probably impossible) for your experience of green to be ide
 
 As long as we’re speculating, we might envision a color in an inverted world.   Alex in world, one sees things color the way they are on earth. Bernard lives on the planet, where blood is green, sunsets are green, and fire is green.   Similarly on Bernard's planet leafy plants have bright red leaves. Everything that is red on earth is green for Bernard and everything that is green on earth is red for Bernard. In this situation it’s entirely possible for Bernard to experience green in exactly the way that Alex experience is red. 
 
-But inverted worlds simply can't happen.  This is one of those hypothetical situations which doesn’t happen in reality. Sunsets are red because of the way atmosphere works. Plants are green because of the way photosynthesis works.
+But inverted worlds **simply can't happen**.  This is one of those hypothetical situations which doesn’t happen in reality because it is logically excluded.  Sunsets are red because of the way atmosphere works.  Plants are green because of the way photosynthesis works.  
+
+_Your perception of a color is formed from your experience with the color.  To the extent that our experiences with a color are the same, then our perceptions will be the same._
+
 
 ## Root Fallacy
 
@@ -64,4 +76,4 @@ I hope this explains how color inversion really can’t happen with people that 
 
 Asking this question exposes the fallacy of thinking that there might be some sort of preordained way that a particular color is to be perceived. It’s like as if inside of brains, there are fewer pathways that mean red pathways that mean green, and it might be possible that one person is another person Another. It’s a fun question to ask. But it assumes pre-ordained innate color perception experiences.  There’s no evidence that such a thing exists.  There’s a lot of evidence that color perception is learned from your environment and culture. Because it’s learned, two people in similar environments will, by definition of similar experiences, and similar perceptions will be built from those experiences.
 
-Colors are a social construct learned from your parents and from your community.
+_Colors are a social construct learned from your parents and from your community._

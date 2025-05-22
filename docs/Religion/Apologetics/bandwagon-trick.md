@@ -1,5 +1,13 @@
 # Bandwagon Trick
 
+If you cite that experts agree on a topic, and particularly if you cite the percentage that agree, apologists will often claim that this is just a bandwagon fallacy.  They do this to confuse and deflect the argument, but their claim is not valid:
+
+:::tip[Key concept]
+
+The Bandwagon Fallacy refers to citing a general public opinion, and not about citing experts.
+
+:::
+
 ## Typical Scenario
 
 > Freethinker: 99% of all biologists -- the people who are experts in how life works -- agree that evolution is the best explanation for the variety of life on earth.
@@ -10,13 +18,13 @@
 
 There is a principle known as the "[bandwagon fallacy](https://www.logical-fallacy.com/articles/bandwagon-appeal-to-popular-belief/)" that says that a popular idea is not necessarily a true idea.  That is, if the typical (non-expert) crowd believe a thing, that opinion is not relevant because they are not experts.
 
-From ancient times up until the 20th century the practice of releasing quantities of blood from the body -- know as bloodletting -- was thought to be a good treatment for diseases.  We now know this to be completely misguided.  The fact that many people believed the theory is not groups for saying that it is true.
+From ancient times up until the 20th century the practice bloodletting -- releasing quantities of blood from the body -- was thought to be a good treatment for diseases.  We now know this to be completely misguided.  The fact that many people believed the theory is not grounds for saying that it is true.
 
 The consensus in ancient times was that the sun went around the earth.  Again the widespread belief does not mean that it was true.
 
 ## Consensus of Experts
 
-But the professional consensus of a group of experts is not a bandwagon fallacy.  It does not prove correctness, but the consensus of experts in their area of expertise is the BEST possible source of information possible.  This should be obvious. 
+The professional consensus of a group of experts is not a bandwagon fallacy.  It does not prove correctness, but the consensus of experts in their area of expertise is the BEST possible source of information possible.  This should be obvious. 
 
 * If you want to know how to train a tiger, you poll a group of tiger trainers.  
 * If a group of scuba diving experts agree that you should come back to the surface suitably slowly, this is the BEST source of accurate information. 

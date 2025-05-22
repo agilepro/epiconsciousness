@@ -35,3 +35,19 @@ Something is subjective when it depends upon the mind that is encountering it.  
 ## magic
 
 I will use the term _magic_ to refer to supernatural acts performed by an agent.  I am not talking about magic tricks that human magicians play, which are in fact clever tricks played against our normal patterns of perception.  Nor do I believe there are people capable of real magic spells.  Instead, if an actor performs an action that is supernatural, something that is not possible according to out understanding of the universe.  In general I will use the term _magic_ when referring to mythical acts of God which would violate the known laws of nature.  For example, instantly turning water into wine would be magic because such a transformation could not occur naturally.
+
+## emergence
+
+When a large number of individual primitive units are put together to interact, new properties can emerge to describe the overall system.  Those properties on the system as a whole can not be _reduced_ to properties on the constituent parts. That is the properties can not be found on the individual parts of the system.
+
+Examples of emergence:
+* atoms are emergent structures from subatomic particles which have chemical properties not found on the subatomic particles.
+* molecules are emergent structure built from atoms having chemical properties not found on atoms.
+* a solid is an emergent system built out of molecules which has "hardness" and "temperature" not found in the individual molecules
+* a gas is an emergent system built out of molecules which has properties of "temperature" and "pressure" which is not found on the individual molecules.
+* simple life, such as single celled organism have properties that are maintained over long periods of time as long as the organism stays alive
+* complex multicellular life has novel properties not found in single cell life.
+* neural systems display properties like "learning", "perception", and "memory" which are not found on the individual nerve cells themselves.
+
+Weak emergence is the idea that these novel properties could be derived or calculated from the properties of the lower level.  Strong emergence is the idea that these novel properties are something can not in any way be derived from or predicted from the properties at the lower level.  I view strong emergence as a kind of _magic_ and I don't know of any reason to believe it exists.  On this site all emergence discussed will be assumed to be weak emergence.
+

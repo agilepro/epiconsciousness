@@ -88,6 +88,13 @@ Each generation divides up the world into parts according to their own logic. So
 
 ## Forward
 
-We have many people today who are harmed by many things. We need to focus on those things. Redlining was a real problem that cheated many people, but it was long ago. Yes, this practice was the cause of many blacks being poor today, but causality after 50 years is tenuous. There are so many other factors. Let focus on the problems of today. People are being cheated today, so let’s end that. Let’s try to make the world fair today. People who are born poor today, lets help them, whether their ancestors were affected by redlining or not. There are still echos of racism in America today which was almost surely caused by actions 100 and 150 years ago. Let’s address the racism today, whether it was “caused” or not.
+We have many people today who are harmed by many things. We need to focus on those things. Redlining was a real problem that cheated many people, but it was long ago. Yes, this practice was the cause of many blacks being poor today, but causality after 50 years is tenuous. There are so many other factors. Let focus on the problems of today. People are being cheated today, so let’s end that. Let’s try to make the world fair today. People who are born poor today, lets help them, whether their ancestors were affected by redlining or not. There are still echoes of racism in America today which was almost surely caused by actions 100 and 150 years ago. Let’s address the racism today, whether it was “caused” or not.
 
 The fifty year rule is designed to just stop the debates on who owes what to whom that are over 50 years old. These ancient claims are a waste of time. 50 is time to move on. We have plenty of current problems that need resolving. **Let’s focus on “OUR” world, which exists today.**
+
+## Examples
+
+**Kennewick Man** - a [9000 year old skeleton](https://en.wikipedia.org/wiki/Kennewick_Man) was found washed out on a bank of the Columbia River in Kennewick, Washington.  Four different native American tribes claimed ownership and demanded the skeleton be repatriated and buried.  For more than 8600 years nobody cared about this skeleton, and to claim to care about it now is nonsense.  it is not even clear that the tribes we have today are anything like the tribes that long ago.  This led to the Native American Graves Protection and Repatriation Act (NAGPRA) which makes it criminal offense to traffic in Native American human remains of any age, whether found in a sacred ground, or just washed up on the bank of a river.  Over 110,000 remains that cannot be associated with a particular tribe are held in institutions across the United States, as of 2006.  The project seeks to enable a process of reconciliation between Native and non-Native peoples, treating different races differently.
+
+
+

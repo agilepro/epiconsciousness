@@ -71,6 +71,16 @@ At the risk of sounding dismissive: simpler minds appreciate creationism more.
 
 More sophisticated minds appreciate the sheer beauty of a system that in the process of simply interaction with itself, produces amazingly varying forms of life. But to be honest, it is more work.
 
+## Nature does not need intelligence
+
+Why do creationists believe "intelligence" is needed?
+
+It is because things that humans make require some sort of intelligence -- that is how humans create.  All of your day-to-day household artifacts are created in this manner.
+
+Walk into nature you find a completely different story.  A tree does not need intelligence to grow larger: it grows all on it's own.  A river does not need intelligence to cut a river valley, it does it all on its own.  Bacterium do not need intelligence to consume rotting meat, they do it all on its own.  A virus does not need intelligence to form a more deadly strain, it does it all on its own.  I storm does not need intelligence to form out of nothing, it does it all on its own.
+
+Nothing in nature needs intelligence.  Creationists just think it does because their household goods are created that way.
+
 ## Resources
 
 * [Why Not Intelligent Design?](https://www.truthfulorigins.info/post/question-4-christianity-sample) Jon Peters, Dec 5, 2022

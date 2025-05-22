@@ -361,7 +361,7 @@ You are correct saying that the laws of physics don't apply to immaterial things
 
 > OK - so your opening parlay asks, "why can't consciousness be determined?"
 
-And I'm watching what you're doing with that question. I think you're either one, participating in a reductive jump that you don't have and it doesn't stay put depending upon what you're speaking toward. And, there is some fairness to why. If you're encountering the performative apologetics as motivating, and those defenses span a gamut, is there an overarching defense that can be mounted against all encounters? OR two you find you're in sympathy with the accounts that are placing their bets because it seems to fit better with a whole set of explans.
+And I'm watching what you're doing with that question. I think you're either one, participating in a reductive jump that you don't have and it doesn't stay put depending upon what you're speaking toward. And, there is some fairness to why. If you're encountering the performative apologetics as motivating, and those defenses span a gamut, is there an overarching defense that can be mounted against all encounters? OR two you find you're in sympathy with the accounts that are placing their bets because it seems to fit better with a whole set of explains.
 
 As to the first, as I said I don't find that compelling. If you're motivated, I have nothing to contribute to your motivating desires that would at all matter nor do I much care. As the the second, that is where there is worthwhile discussion.
 As to the reductive jump. Your question might have begun in your consideration steps as something like:
