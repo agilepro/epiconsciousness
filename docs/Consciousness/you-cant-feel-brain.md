@@ -60,3 +60,15 @@ You can actually see this when you are walking along and suddenly about to step 
 
 Subconscious thoughts are just like regular thoughts, but we are unaware of them.
 
+> Decision making was the only definition of will that makes sense to me. But if it is not accessible to me consciously then it can not be free, at least not for me.
+
+I understand you to say that only decisions that you are conscious of are your decisions.
+Have you considered that "you" might be bigger than you think. For example, walk down the street. When you get to the end, do you remember deciding where to place every footstep? For most of the time while walking, we have no conscious awareness of deciding where to place the foot -- but you actually do that.
+
+Evidence for this can be seen when a puddle appears ahead of you. Suddenly foot placement become a very conscious action to avoid getting wet. But in fact, there was a part of you that was "automatically" figuring out where to step automatically when it was not too hard to figure out.
+
+Your subconscious is not really different from your conscious, except that your conscious top level does not need to be interrupted for it. This is a feature of the brain: things that can be automated are pushed down into the subconscious. This allows you to focus on longer range goals.
+What i am arguing is that it is still "YOU" making those subconscious decisions, even when not "accessible" in the normal sense. Make sense?
+
+We train ourselves this way all the time. Play tennis? You practice the serve until it is "automatic". But it is still "YOU" that is doing the serve, even if you have automated it.
+

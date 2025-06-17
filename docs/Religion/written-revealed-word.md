@@ -40,7 +40,7 @@ It God expects humans to believe a prophet, God would actually be helping the fa
 
 ## Words are not Clear
 
-The message must be conveyed to the mind of the prophet, who must then express the message in the language that they know.  Human languages are not perfect in expressing things.  Metaphysical concepts are often very difficult to explain,and might be beyond the comprehension of the prophet. The prophet might or might not be able express the concepts clearly.  Let’s assume that God helps choose the right words for that language, this still leaves another problem.
+The message must be conveyed to the mind of the prophet, who must then express the message in the language that they know.  Human languages are not perfect in expressing things.  Metaphysical concepts are often very difficult to explain, and might be beyond the comprehension of the prophet. The prophet might or might not be able express the concepts clearly.  Let’s assume that God helps choose the right words for that language, this still leaves another problem.
 
 The message is for everyone, so it must somehow be translated.  Humans all over the world speak thousands of different languages.  Different languages express the same things differently.  For a message to be understood, not on the words and syntax need translation, but also the cultural context is needed.
 

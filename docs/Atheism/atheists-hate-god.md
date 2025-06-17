@@ -33,7 +33,7 @@ The atheists I have met would welcome evidence for God, because then they would 
 
 I would go so far as to way that the atheists that I know would LOVE to have evidence for God, because they want to believe in the things that are true. The problem is that when they ask to see evidence of god, the Christians supply the most pathetic non-reproducible non-believable citings. They say things like "I just know it is true" and "I have a good feeling" and "God just makes untuitive sense." After hearing hundreds of "pretend" evidence atheists have come to the conclusion that if nobody can demonstrate that god exists, that there must not be a god.
 
-This is a completely different thing that no *wanting* a god to exist.
+This is a completely different thing than not *wanting* a god to exist.
 
 Why would a Christian say such a thing? It gives a simple reason to put down the atheist. To look down on them. Instead of addressing the real problem, they can blame the attitude of the atheist. Instead of providing evidence, they jump over that, and claim that atheists ignore good evidence. But the fact is that there is no evidence, the Christians just like to believe there is. If there was evidence you would not need faith.
 
