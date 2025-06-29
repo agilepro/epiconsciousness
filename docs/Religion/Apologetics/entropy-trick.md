@@ -22,8 +22,26 @@ The reason 99% of biologists agree that evolution is the best explanation for th
 
 ## What is the 2nd Law?
 
+For those who want to learn more, I recommend The Second Law, by P.W. Atkins, Scientific American Books, New York, 1994. This is a well-written popular introduction to the subject. 
 
+Now we address the context in which the 2nd law arises in creation arguments. The usual argument goes something like this: "The 2nd law says everything tends toward increasing entropy (randomness and disorder). But the evolution of life involves the development of great complexity and order. Therefore, evolution is impossible by the 2nd law of thermodynamics." While it sounds simple, there are major flaws in this argument that render it worthless.
 
+Some creationists assert that advanced (especially human) life represents a decrease in entropy which violates the 2nd law, and they therefore invoke intervention by God, who is outside the laws of thermodynamics. They also, however, generally assert that this particular "intervention" stopped with the creation of man, and that (with the exception of the occasional miracle) God has allowed things to develop in accordance with the laws of thermodynamics and other physical laws since then.
+These two assertions are, however, mutually inconsistent. The reason is that the thermodynamic entropy is strictly an additive quantity. If the 2nd law has not been violated as the number of humans grew from two to 6 billion, it is ridiculous to assert that it was violated in the comparatively minuscule change from zero to two. If we say that the first two humans represented a violation of the 2nd law, the logical conclusion would be that God must be continually intervening in violation of the 2nd law in order to increase the number of humans on Earth. While God is certainly capable of this, there is no evidence to suggest that such violations are happening as complex life forms like humans reproduce and increase in number.
+
+## Christian Nonsense
+
+I find it incredible how Christian sites routinely distort and misrepresent the second law of thermodynamics.  This is a real quote from a real site:
+
+> "The obvious answer is that God did not create an imperfect world. The world became imperfect when humans sinned (Genesis 3). From this passage, it appears a new principle of decay was enacted into creation when sin entered the world. This is known as the principle of entropy or the Second Law of Thermodynamics."
+
+And this one: 
+
+> "Another biblical example is found in Romans 8:20–22. Here, Paul states that “the whole creation has been groaning” as a result of its “bondage to decay” (NIV 1984). This passage summarizes the long discourses in Ecclesiastes, especially chapters 1–3, 10–12, declaring that the law of decay, known today as the second law of thermodynamics, applies ubiquitously throughout the universe."
+
+And this one: 
+
+? "This claim is intended to be partly scientific, because it seems (for those who don't understand thermodynamics) to be a good argument against evolution, and is partly theological, based on a theory that as a result of human sin a "perfect" creation — unaffected by sin, disorder, and decay — became subject to the dreaded Second Law."
 
 
 

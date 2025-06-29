@@ -24,3 +24,39 @@ It would seem that evolution deniers believe in a kind of "essence" which each k
 
 This is magical thinking.  Sure dogs and cats look different, but that difference is purely in the genes.  Take a dog egg and put cat genes in, and fertilize with cat sperm and you get a cat.  There simply is no different except the DNA is written a little differently.
 
+## What About Breeding by Humans?
+
+### What Changes the DNA?
+
+When dog breeders actually do the job of breeding, there is no question that the DNA has been changed by the process of breeding.  But what is it really in the process that causes the changing of the DNA?
+
+Seriously: what does the breeder do, to actually CAUSE the changing of the DNA?  Has this been observed?  Can anyone actually demonstrate how they change the DNA?
+
+The breeder does not do ANYTHING to change the DNA, because the DNA is changing all on its own.  All the breeder has to do is to select which changes that they are interested in.  The breeder does not actualy DO anything to change the DNA.  That happens all on its own.
+
+### Can Breeder Plan DNA Changes?
+
+What if a dog breeder got the idea that a dog that was colored so that the head, the front legs and the front were colored yellow, while the back end and back legs are black.  How would a breeder do that?  They wouldn't because as a breeder you can not decide what variations you get.  The DNA does all the changing on its own, and if the front-back coloring does not appear by itself, there is nothing the breeder can do to make changes along a plan.
+
+Creationists say that DNA does not change on its own, and that you need something intelligent to cause DNA to change.  That is simply not true.
+
+### Can the Changes be Observed?
+
+Creationists cynically claim that evolution can't be true because the mechanism to change the DNA can not be observed.  Note that the same problem exists with breeding: you can't actually observe the DNA changing (whatever observe means here).  What you can observe is the animal changing form over time, and it is the same with evolution: the fossil record shows that the form of animal changed over time.  Of this there is no question.  But the claim that evolution has never been observed is a dishonest requirement thrown up as a last ditch effort to continue rejecting the scientific results of biologists.
+
+## Essentialism
+
+> Claiming that minor adaptations are sufficient to explain all biodiversity is a hasty generalization. While adaptation supports the theory of evolution, it doesn’t alone prove the full spectrum of speciation and common ancestry.
+> Beyond that, isolated species is the driving factor for the most extreme adaptations and still we don't see a difference in speciation.
+
+There is absolutely nothing invalid about doing a linear extrapolation.
+
+You are saying: I watch someone walk 20 feet, but it is a hasty generalization to say that in 10x as long they can walk 200 feet. If a builder builds 2 chimneys in a day, it is a hasty generalization to say that they can build 20 chimneys in 10 days. That is ridiculous.
+
+A linear projection is not only logically valid, but also the most reliable prediction absent any information to the contrary.
+
+However, it is the creationist who "invents" a barrier saying there is an essential difference between "kinds". A dog has essential dogness and could never change into a fox, because a fox has foxness.
+That fabrication that there is some essential difference between species has never been substantiated by anyone.
+
+But the real reason is emotional: the creationist says "no way in hell I am related to any apes". I just don't FEEL like I am descended from any other animals. So I will make up a bogus reason, claiming that DNA change simply can't account for it. Understand that you reject evolution because you just don't feel like it is true, and no other good reason.
+

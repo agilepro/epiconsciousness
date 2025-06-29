@@ -25,6 +25,18 @@ More examples of forms that are assembled and grow by autopoesis:
 * water waves start small and grow
 * ripples in the sand grow in the same way
 
+## Order / Disorder Interplay
+
+The shapers bringing about increase in order do not operate independently of the universe around it.  Quite often one shaper is also causes a destruction of other kinds of order.  
+
+Volcanoes are a process of increasing order, taking liquid within the earth and piling it up into a mountain and that mountain has a definite shape.  While doing this, they might destroy whole forests, or block a river that was flowing down a valley.
+
+A hurricane is a orderly bit of atmosphere, structured in a complex interaction with a very specific shape that did not exist before the hurricane formed.  The hurricane is ephemeral and does not leave behind any lasting order.  While the hurricane is operating, it might destroy a lot of other things, such as forests, habitats, or human built buildings.
+
+Notice the interplay between order and destruction: one shaper becoming more organized can destroy the order of another kind of shaper.  Disease certainly increases the number of the microbes causing the disease, but at the same time interrupts order of a different kind.  Killing of a living thing is an act of disorder.
+
+It is a childish thought that any of this ordering is "pure" or "perfect" and that it occurs without any disorder happening at the same time.  Order "blossoms" in many different ways, and the increase in order from one shaper might easily cause decrease in other kinds of shapers.
+
 ## Humans Manufacture Differently
 
 There is nothing manufactured by humans that use this pattern.  All the things around us have parts manufactured in their final form, and then assembled. Cars, washing machines, sinks, televisions, radios, bicycles, artwork, paintings, statues, buildings, cooked food, tables, chairs, barbie dolls, airplanes, etc.   The parts are designed to do a particular thing, manufactured, and then assembled.
@@ -38,3 +50,4 @@ It is never the case one day no jaw, and the next day a fully formed jaw.  Evolu
 ## Apologist Disinformation
 
 Christian apologists like to confuse good people by posing questions as if animals were created the way humans do.  Question like "what good is an optic nerve without an eye."  It is a silly question.  The eye started as a very slight ability to register light, a very primitive retina along with a very primitive optic nerve.  The retina and the optic nerve, as well as all the other parts of an eye evolved into existence simultaneously.  By purposefully asking the question as if the optic nerve was designed and assembled to a designed retina confuses people making evolution appear harder than it really is.
+
