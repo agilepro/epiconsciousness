@@ -104,7 +104,7 @@ You said: "Things tend to chaos, not order."  It is the UNIVERSE that tends to i
 
 It seems obvious to me that no true God would require followers to lie about the world.
 
-> You have been guzzeling the coolade.  It has been proven that evoution is impossible becasue of the 2nd law of thermodynamics, but atheists say, that' cant be true because I don't believe in God so it must be false and start teaching and believing lies, which you guzzle.
+> You have been guzzling the Kool-aid.  It has been proven that evolution is impossible because of the 2nd law of thermodynamics, but atheists say, that' cant be true because I don't believe in God so it must be false and start teaching and believing lies, which you guzzle.
 
 Sigh.
 

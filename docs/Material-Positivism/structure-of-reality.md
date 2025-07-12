@@ -42,6 +42,8 @@ One of the most important processes that we see around us are those processes th
 
 When we think about level 2 & 3 together we can talk about these level as the “**form**” of matter corresponding roughly to what Aristotle called the form of objects, while the substance is accounted for in layer one. Everything in level 3 is a process that depends on patterns in level 2, which depend on material from level 1. While new properties emerge at the higher levels they are supervenient upon things in lower layers. That is if we removed the lower layers the properties in the upper layers could not exist.
 
+Some processes make material more organized, and some make it more disorganized.  The former can be called **shapers.**  A shaper is simply a process that results in more organization.  Prigogine calls them dissipative structures or dissipative processes.  Shapers become a critical thing for producing the higher layers.
+
 ## Level 4
 
 Leve 4 is the hardest to explain because it involves the things that emerge from a functioning nervous system. Level four is the level of **intentionality**. Level four is where concepts exist. Intentionality is the property that some thing can be about something else. To get intentionality you must have an information processing system such as you find in a central nervous system. (it potentially could be seen in simpler system, there is no clear boundary.) Senses pick up information about the world. Perception systems learn to recognize things about the world. Memory stores these patterns of recognized aboutness. And motor systems act on the world. It is the emergence of this aboutness that categorizes what we see emerge in level 4.

@@ -13,7 +13,7 @@ I also see many non-religious friends who live as moral life as any church mouse
 
 What I aim to do here is to blaze a middle path along the golden mean which recognizes how to live the right life, seeing the fundamental goodness of nature, while at the same time accepting an evidence based material reality around us.  We can navigate this course with some assurance of what it right and what is wrong.
 
-We will process cautiously:
+We will proceed cautiously:
 
 1. The first chapter will start with some definitions so that we have a foundation to discuss the rest confidently.  So much has been written that most words are used in many ways, so we will set out with some care what we mean here.
 
