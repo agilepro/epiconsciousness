@@ -2,6 +2,12 @@
 
 The big question: “Do you believe in God?”  I have written a lot here on various related topics, but here is my attempt to answer this question directly.
 
+:::tip[Key Takeaway]
+
+I use the term "god" to refer to the original cause of the universe (whatever that is), as well as the fundental properties that define existence.  God is the essence that make this universe the way this universe turned out to be.
+
+:::
+
 ## What Do We Mean By God?
 
 There are so many different conceptions of God but they have one thing in common:  god is the creator of the universe.  If the universe was created by some entity, God is that entity.
