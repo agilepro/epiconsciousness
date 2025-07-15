@@ -62,7 +62,9 @@ As the universe forms and grows, it exhibits new levels of emergence.  Macro ph
 
 ## Does God Perform Miracles?
 
-the miracles in the bible seem more like parlour tricks that might impress a bronze age person.  I don’t believe that God steps in to violate natural laws and make miracle occur.  I don’t believe that God parted the seas in such a way that Moses and his gang could walk across the Red Sea.  I don’t believe that God steps in to cure a cancer that would otherwise have killed someone.  The reason is clear, but complicated.
+The miracles in the bible seem more like parlour tricks that might impress a relatively ignorant bronze age person.  Walking on water, for instance, is a pointless thing for a God who could smash stars into each other, but water is a common thing in the world, and sometimes the ability to get across water without getting wet would be really nice.  In liquid form everyone knows that you can't stand on it.  So it is the kind of trick that would impress an ancient person as being "impossible" and only something a God could do.  It is the kind of supernatural action that someone who knows little about the world would think up.  God could have made a quad-copter appear, adn that would be much more impressive, but those ancient bible writers could not think of that.
+
+I don’t believe that God steps in to violate natural laws to impress ancient people.  I don’t believe that God parted the seas in such a way that Moses and his gang could walk across the Red Sea.  I don’t believe that God steps in to cure a cancer that would otherwise have killed someone.  The reason is clear, but complicated.
 
 God set up the universe in precisely the way that he set it up.  Thus the “laws of nature” are very much the “laws of God”.   The clearest articulation of the will of God, is those laws of nature.  All I am saying here is that the universe is exactly how God wanted the universe to be, and the way it is are those laws of nature that we talk about.  I see a complete equivalence between the will of God and the laws of nature.
 
@@ -70,7 +72,7 @@ A miracle then is something that is against the will of God.   It is God sayin
 
 ## Does God Care About Humans?
 
-God can assume cares about the universe or else it would not exist.  God created the universe so it would create many things within it, and obviously cares about all the things that are created. More than that, humans represent the highest organization of anything that has ever appeared on the planed in billions of years.  Humans and human-like emergence (I feel certain there are some others someplace) represent the universe’s path to even greater organization.
+It is reasonable to assume that God cares about the universe or else it would not exist.  God created the universe to then create all the many things within it, and obviously cares about all the things that are created. More than that, humans represent the highest organization of anything that has ever appeared on the planet in billions of years.  Humans and human-like emergence (I feel certain there are some others someplace) represent the universe’s path to even greater organization.
 
 Does God care about an individual Betty who slipped off a cliff and is now dangling from a small branch over almost certain death?  No.  Betty’s death is part of the natural flow of the universe.  Death is part of God’s will.  Violating the laws of nature to prolong Betty’s life would be a self-contradiction.  It would be like setting up a race, and then enabling someone to cheat.  It makes no logical sense at all for God to violate his own laws.
 
