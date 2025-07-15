@@ -2,6 +2,21 @@
 
 Panpsychism is a subject I take seriously, because there are many respectable philosophers arguing for this possibility, but I disagree with them and this page is my attempt to explain why.  I am open to the idea, but have not found conclusive evidence that rules out emergent consciousness.
 
+:::tip[Key Takeaway]
+
+As life is a process that runs on chemistry on top of lifeless atoms and molecules.  So consciousness is best described as a process that runs on top of unconscious atoms and molecules.
+
+:::
+
+## Types of Panpsychism
+
+* **Essential Substance** - one type see consciousness as the fundamental substance of the universe.  Human consciousness exists as a part of the overall thing.  As we attempt to interact with each other, we fabricate the material world as a communications medium.  Atoms are then made from consciousness as a kind fo agreement between conscious entities.
+
+* **Universal Property** - another type says that material is fundamental, but that consciousness is a property of all matter.
+
+
+## Discussion with a Panpsychist
+
 >  I'm confident we have good reasons to think consciousness is fundamental, and that matter is just an appearance and/or element of a model.
 
 > If I have absolutely certainty of one thing then it's that an experience is happening.
