@@ -60,3 +60,29 @@ That fabrication that there is some essential difference between species has nev
 
 But the real reason is emotional: the creationist says "no way in hell I am related to any apes". I just don't FEEL like I am descended from any other animals. So I will make up a bogus reason, claiming that DNA change simply can't account for it. Understand that you reject evolution because you just don't feel like it is true, and no other good reason.
 
+## Linguistic Confusion
+
+One barrier to understanding evolution is thinking of a line of animals as a “single thing”.  We forget about the individual, and think only of the category.
+
+
+Two animals produce a baby, we think of all those animals as the same thing.   All horses are one thing: horses.  All donkeys are one thing: donkeys.
+
+The reality is that each animal is unique.  Genes have so many variations that every individual animal is unique: no two animals ever have the same genes.  (Except identical siblings, of course, special case).  
+
+The two parents are different, and the baby is different from both parents.
+
+Obviously, there is a lot of similarity, because the changes are small.  But saying that the baby is the exact same thing is ignoring the difference.
+
+We say animal X turns into Animal Y.  No animal X has ever “turned into” animal Y.  Instead, animal X parents had an animal Y baby.  
+
+I know this sounds like semantic nitpicking, but language structures our thoughts.  
+
+The question in a different thread was “Will whales ever become something different.”  The answer is NO.  No whale will ever be anything different from a whale, but they might have offspring that are not whales.  
+
+Let’s say that whales evolve into a new thing called a belubicon.   See, there i did it.  I said that “whales” would” become” something else, and that is a kind of fallacy to think that way.  The belubicon descended from whales, but whales as a category remains as it always was.
+
+When you realize that every baby is a change from the parents, then you see that “whales” remain whales, while the line of animals diverges to the point where we start calling them (the offspring) by a new name.
+
+With this comes the realization is that “whales” don’t exist as a thing in the world, but instead there are things in the world that we categorize as whales because of their features.  The population of whales is not identical: there are all kinds of variations: size, weight, slight body proportions, coloration, etc.  The population centers around a collection of properties that one might call the “ideal whale” but no single whale is exactly the same as the ideal whale.  
+
+The human mind wants to categorize all whales as one thing: whales.  This is to reduce the amount things we need to remember about the world.  Treat all whales like whales, and you can ignore their individual differences.  The difficulty of understanding of evolution is SIMPLY because the mind is not able to think about all animals in the world as individuals.  Our simplified view of the world makes it challenging then to see evolution as it works.
