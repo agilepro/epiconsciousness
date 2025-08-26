@@ -74,7 +74,7 @@ Christianity is also built on the idea that creation happened at one point in ti
 
 Today we have a much better understanding of the universe, and what we see is a continual progression from the big bang until now, with new things being created along the way all the time.  Atoms formed, molecules formed, stars formed, planets formed, mountains formed, life formed, intelligence formed and none of this all at once.  We see new forms appearing literally all the time.  When a baby is born, that is a new human being created where there was no human there before.  Creation is happening continually.
 
-If we observe the fossil record, we see that life has been steadily more and more complex. Once humans started communicating about abstract concepts, our culture and our collective knowedge has been getting more and more complex.  This tendency to create new and more complex forms is seen all across the universe.  Christianity does not reflect our modern understanding of the universe, but is instead stuck in a bronze age view about death and the destruction of the universe.
+If we observe the fossil record, we see that life has been steadily more and more complex. Once humans started communicating about abstract concepts, our culture and our collective knowledge has been getting more and more complex.  This tendency to create new and more complex forms is seen all across the universe.  Christianity does not reflect our modern understanding of the universe, but is instead stuck in a bronze age view about death and the destruction of the universe.
 
 ## The Future has Unlimited Possibilities.
 

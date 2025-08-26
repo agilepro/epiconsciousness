@@ -1,4 +1,4 @@
-The Entropy Trick
+# The Entropy Trick
 
 Apologists abuse the Second Law of Thermodynamics by misunderstanding entropy and misapplying the law to claim that evolution violates the Second Law of Thermodynamics.
 
@@ -27,6 +27,7 @@ For those who want to learn more, I recommend The Second Law, by P.W. Atkins, Sc
 Now we address the context in which the 2nd law arises in creation arguments. The usual argument goes something like this: "The 2nd law says everything tends toward increasing entropy (randomness and disorder). But the evolution of life involves the development of great complexity and order. Therefore, evolution is impossible by the 2nd law of thermodynamics." While it sounds simple, there are major flaws in this argument that render it worthless.
 
 Some creationists assert that advanced (especially human) life represents a decrease in entropy which violates the 2nd law, and they therefore invoke intervention by God, who is outside the laws of thermodynamics. They also, however, generally assert that this particular "intervention" stopped with the creation of man, and that (with the exception of the occasional miracle) God has allowed things to develop in accordance with the laws of thermodynamics and other physical laws since then.
+
 These two assertions are, however, mutually inconsistent. The reason is that the thermodynamic entropy is strictly an additive quantity. If the 2nd law has not been violated as the number of humans grew from two to 6 billion, it is ridiculous to assert that it was violated in the comparatively minuscule change from zero to two. If we say that the first two humans represented a violation of the 2nd law, the logical conclusion would be that God must be continually intervening in violation of the 2nd law in order to increase the number of humans on Earth. While God is certainly capable of this, there is no evidence to suggest that such violations are happening as complex life forms like humans reproduce and increase in number.
 
 ## Christian Nonsense

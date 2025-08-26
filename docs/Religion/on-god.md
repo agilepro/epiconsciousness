@@ -110,3 +110,10 @@ Above is a discussion of what attributes god might or might not have.  What we c
 
 Any religion based on a god with these qualities seems more like a human-centric religion than one really about god.
 
+## What Causes Theists?
+
+Theists believe (arrogantly) that the universe must work in a way that is intuitive to them. They look at a watch, and it does not evolve. They look at a painting, and it does not evolve. They look at their living room, and it does not clean up or organize itself. This experience at home forms their intuition about the world and nothing in the house evolves on its own within their lifespan.
+
+But when they were children, they had the experience of their parents providing everything they needed. The parent produced things without them having any idea how they were produced. This forms the basis of the idea that it is possible for someone to produce things as needed. They then apply this home learning to the world and conclude there must be SOMETHING that is acting like a parent, and making the world exist.
+
+To be fair, evolution is extremely complex and takes work to understand. Their mistake is thinking that the world SHOULD be intuitive and easy to understand. When they can't understand it, they give up and say that God did it. It is just easier.

@@ -2,6 +2,12 @@
 
 Here I respond to C.S. Lewis and his twisted logic where he concludes that atheists can’t trust their brains.
 
+:::tip [Key Takeaway]
+
+You can trust you brain to work because survival has made it a requirement.  The brains that did not work, led to death and were weeded out long ago.  This is a much stronger reason to believe that brains function, than merely thinking that some entity "made them work".
+
+:::
+
 ## Quote
 
 C.S. Lewis is quoted saying (the sentence numbers are added by me)

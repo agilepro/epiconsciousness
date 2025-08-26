@@ -2,7 +2,7 @@
 
 Go ahead, do it now, take a breath. (It is free after all.) Breath the air in, and then out. That breath has 20% more carbon dioxide in it, than it did in 1960.  Yes, 20% more.
 
-This is personal. This is not a distant far away problem only for for factory workers or occupants of large cities. The yearly measurements at Moana Loa, a high mountain peak in Hawaii, a place as remote from large factories and large cities as any place on Earth, represents the air of the entire world. But you don’t need to go to Moana Loa, you can easily measure the CO2 content of the air anywhere, even here at home.
+This is personal. This is not a distant far away problem only for factory workers or occupants of large cities. The yearly measurements at Moana Loa, a high mountain peak in Hawaii, a place as remote from large factories and large cities as any place on Earth, represents the air of the entire world. But you don’t need to go to Moana Loa, you can easily measure the CO2 content of the air anywhere, even here at home.
 
 ## Look at the Sky
 
