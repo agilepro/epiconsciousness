@@ -32,3 +32,21 @@ Anyone however that believe people are acting as people, temped by research gran
 ## Lack of Coordination
 
 There is no evidence that the NSF and other funding agencies pay funding for specific results.  For example, funding in geology could never be targets such that the grant would be granted only if the results of a specific type were found.  For example, grants are not written on the condition that evidence of intelligent design is NOT found by the research, and somehow the real answer is covered up.  There is a level of coordination that is needed.
+
+## Scientists Trick Themselves to Evade God
+
+> "people who believe the fairytale of evolution want it to be true so they don't have to be held accountable to anyone above themselves. Thus making themselves their own god."
+
+This person believes that evolution is invented by scientists in order to deny God and thereby delude themselves into believing they can escape God's instructions.
+
+I can see that this explains to you the motivation for fabricating a false science.
+
+At the same time you think these scientists are oblivious to the rather obvious problem that "pretending god does not exist" is not really going to get them out of any real trouble.  I am sure you agree that "pretending" God does not exist is not going to save you.  
+
+It would be like jumping out of an airplane and thinking you are safe because you pretend that you have a parachute on.
+
+These people are generally pretty smart, but you think that they make up an elaborate story of how life formed, and you think these smart scientists think this will make is so "they don't have to be held accountable to anyone"?  Let's just make this pretend stuff, and it will ACTUALLY work?
+
+You think scientists are that dumb?  You propose that these scientists actually BELIEVE that God exists, but they construct an elaborate theory backed by millions of fossils so they can fool themselves into thinking God does not exist?  Surely there must be easier ways to simply fool yourself about God. Why not just hold your hands over your eyes?
+
+This approach does not explain the millions of fossils that actually do exist, and are actually sorted meticulously into precise layers.  Denial of God or not, the evidence for evolution is overwhelming.  99% of all biologists agree that evolution is the best explanation for the variety of life on earth.

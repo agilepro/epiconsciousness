@@ -42,6 +42,31 @@ Christian theology also contradicts itself on this point. It claims that humans 
 
 Also the concept of judgement is meaningless with an omniscient God.  Christians say that God will judge your life and you will either pass into heaven or hell after death.  An omniscient god has no real reason to “judge” at the end.  If God already knew what Job was going to do, there would be no good faith reason to wager with Satan about it.
 
+## Can we Use Any Logic about God?
+
+Logic is a tool that humans use to reason about the universe, but does that apply to God?   In this case, the premises are simple:
+
+P1: An omnipotent supernatural being is not constrained by time/space/rules of nature and can do anything, by definition.
+
+P2: Humans do not know what, if anything, may be impossible for an omnipotent supernatural entity. Including existence.
+
+C: The claim that an omnipotent supernatural deity is impossible, is logically incoherent.
+
+This argument makes a good point. However it starts by reifying (objectifying) the action and the mere act of doing that make us think of the option to do or not. That leads us to confusion.
+
+It is not that these rules of logic exist and the universe must conform to it. The other way around: we defined the rules of logic in a way that "works" with what we observe in the universe. We nevertheless make them up. They are made up with specific properties, and no God can change those definitions because they are what they are. It is not like this is a "thing" that the God has been prevented from doing, there just is no such thing to do.
+
+Simplest case. You can't make 1 not equal to 1. That is the definition of one and the definition of equals, and you can't say that 1 does not equal 1 because they equal by definition. If you could say they are not equal, you would be talking about a different definition of equals. You could redefine "equals" but then you would not be saying the thing above I said can not be done.
+
+These sorts of things (like making a married bachelor) carry in their meanings the exact things that make it impossible. Bachelors can't be married by definition. If someone is married, then they are not a bachelor.  I don't need to assess the power of any God because it is not possible by definition.
+
+A similar mistake is made when one proposes that "existence" is a property.
+
+For example, Spiderman has a property of existence that is either true or false.  By stating it this way, you objectify Spiderman into a position of "possible existence".  Constructing the problem in this way distorts the thinking.  The real world is Spiderman with the existence flag set to false, but it opens the possibility that there could be a universe where Spiderman has the existence flag set to true.
+
+The problem is that existence is not a flag that can be false.  If something does not exist, then there is nothing to put the flag on.  This is precisely the flaw that is used to make the ontological proof of God seem reasonable.  
+
+
 ## An Imperfect God
 
 It is more reasonable to think of a god as an intelligent being on **a voyage of discovery**. The creator of the universe acted in this way _to see what would happen_. This God created a universe with a set of well-known initial conditions. What would not have been known to god is exactly how the universe will unfold.  Seeing it unfold is the very reason for creating the universe in the first place.

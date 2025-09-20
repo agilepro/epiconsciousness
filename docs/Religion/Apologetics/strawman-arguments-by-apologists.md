@@ -26,7 +26,7 @@ We’ve all seen those T-shirts that display an image meant to illustrate evolut
 
 But in reality, the characteristics conserved by natural selection are not always beneficial, as Laurent Keller explains. "A profitable characteristic for an individual can sometimes prove to be harmful for the population in the long term. Consider, for instance, that some male birds have a longer tail than others. While they are better at attracting females, they can’t fly as well. The result is that they reproduce more easily but also pass this characteristic to their offspring. "And, in the end, all birds will not fly as well," Keller explains.
 
-## "Humans descend from apes"
+## "Humans descend from chimpanzee"
 
 Is the chimpanzee our ancestor? The scenario is tempting: Little by little, the monkey straightened up to become the biped we are today. But this scenario is a naïve depiction and not a scientifically proven fact. First of all, the chimpanzee species, which appeared eight million years ago, is as recent as ours. "It’s not our ancestor but rather our cousin," says the University of Avignon’s Ivan Scotti.
 
