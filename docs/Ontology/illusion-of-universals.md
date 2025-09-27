@@ -28,7 +28,7 @@ Background material from prior blog posts:
 
 ## Ancient Mistakes
 
-It is clear to me that ancient Greeks and in fact most people up to very recently had such a naive view of how perceptions works that they felt there must be a real universal abstract object operating in order that two things might be similar.  Ancient Greeks thought that thoughts were visitations from the thing itself.   Plato felt that when you see a tree, your mind reaches out into the realm of forms, and actually touches the platonic pure form of a tree.   This mental reach into forms is how you know it is a tree rather than say a fish or a cow.
+It is clear to me that ancient Greeks and in fact most people up to very recently had such a naïve view of how perceptions works that they felt there must be a real universal abstract object operating in order that two things might be similar.  Ancient Greeks thought that thoughts were visitations from the thing itself.   Plato felt that when you see a tree, your mind reaches out into the realm of forms, and actually touches the platonic pure form of a tree.   This mental reach into forms is how you know it is a tree rather than say a fish or a cow.
 
 Sympathetically, I know the feeling of why they thought this.  When you look at a tree, there appears to be something distinct about a tree.  It appears to have some essence that separates it from the things that are not trees.  It is not just a shape that mimics a tree.  It appears to actually _**BE**_ a tree.  One seems to experience the treeness directly.
 

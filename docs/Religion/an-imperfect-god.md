@@ -42,6 +42,19 @@ Christian theology also contradicts itself on this point. It claims that humans 
 
 Also the concept of judgement is meaningless with an omniscient God.  Christians say that God will judge your life and you will either pass into heaven or hell after death.  An omniscient god has no real reason to “judge” at the end.  If God already knew what Job was going to do, there would be no good faith reason to wager with Satan about it.
 
+## Why do Christians Need A Perfect God?
+
+Help me out here, theists.  So many Christians, and bible passages, insist that God must be absolutely perfect in all ways at the same time.  Where does the need for this absolute come from?  
+
+If a Christian was to claim that God was less than perfect, what problem would arise from that?  It would actually explain a lot of things about the world.  In every conversation I have had with Christians, any suggestion that God was less than perfect was an absolute blasphemy.  __How dare you suggest that.__
+
+I guess a simplistic thinker might believe that a less than perfect god would lead open the possibility for a more perfect god.  This might come from a naïve misunderstanding that something can not be a maximum without being at the absolute end of the scale.  This simplistic thinker would probably not understand the concept of infinity either.
+
+Some Christians say that God has to be more perfect than anything you can imagine, and being less than the absolute end of the scale leaves open the possibility that you might imagine something more perfect.  For example, all exactly the same properties except killing one less baby in the flood.  
+
+My guess is that the Christian insistence on perfection is really just a way to shut down discussions of any other religion or god.  "My God is absolutely perfect, and you simply can't get any better than that."
+
+
 ## Can we Use Any Logic about God?
 
 Logic is a tool that humans use to reason about the universe, but does that apply to God?   In this case, the premises are simple:

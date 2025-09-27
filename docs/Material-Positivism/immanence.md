@@ -6,7 +6,7 @@ First, there appeared a will to exist in its very simplest form. A single unit o
 
 If you ask a human to create something, they will go about collecting resources and tools, form an idea of what they want, and go about putting the parts together into a whole. This is a very human-centric view of looking at things, but of course the human already exists in a fairly complex form, and the resources and tools are as well.
 
-The naive thinkers imagines that God might have done the same as a human: God, fully formed, somehow gathers some dirt, which was also fully formed, and puts Adam together, and only when finished gives Adam the breath of life. God in this sense is viewed like a kid with a pile of lego blocks: grab a few and put them together, but where did the lego blocks come from? This is nonsense.
+The naïve thinkers imagines that God might have done the same as a human: God, fully formed, somehow gathers some dirt, which was also fully formed, and puts Adam together, and only when finished gives Adam the breath of life. God in this sense is viewed like a kid with a pile of lego blocks: grab a few and put them together, but where did the lego blocks come from? This is nonsense.
 
 A vastly intelligent being wanting to make an immense universe would not first create a huge pile of lego blocks, and then manually go about rearranging them into worlds and living beings. This is first-level creation. Doing this by hand would be an incredibly tedious for an obviously dim-witted agent and work not really befitting for anything one might call God.
 

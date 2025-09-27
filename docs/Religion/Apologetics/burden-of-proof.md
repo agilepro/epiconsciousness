@@ -61,8 +61,11 @@ I have never in my life seen that.  There is nothing typical about that.  I have
 The Christian claims that God exists, and further that God has specific qualities.  The atheist rightly challenges that.  Many Christians illogically push back.
 
 > Hello atheists.  I was wanting to ask what evidence do you have that god does not exist? 
+
 > If you can't prove God does not exist, then you shouldn't be a naturalist!
+
 > At its core, atheism is based on faith: It is just like other belief systems that require a leap of faith in order to accept their claims as true without evidence or proof to back them up.
+
 > Atheists run off of avoiding the burden of proof. They just don’t believe in intelligent design.
 
 Christians repeatedly ask for atheists to prove that god does not exist.  Atheist have no need to prove this, but it is the Christian claim that god exists that carries the burden of proof.  The Christians not only claim existence, but have very specific properties for that God as part of their claim as well.

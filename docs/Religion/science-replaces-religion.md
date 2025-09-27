@@ -10,7 +10,7 @@ Then, as we learned more about weather, the atmosphere, evaporation, precipitati
 
 Here's a partial but comprehensive list of things that were historically attributed to gods, demons, spirits, or other supernatural forces, across various cultures and time periods. These attributions span natural events, psychological states, diseases, technological phenomena, and more.
 
-### NATURAL PHENOMENA
+### Natural Phenomena
 
 * Celestial Events
   * Eclipses – Seen as omens or attacks by gods or demons (e.g., dragons devouring the Sun in Chinese mythology).
@@ -27,7 +27,7 @@ Here's a partial but comprehensive list of things that were historically attribu
   * Volcanoes and eruptions – Attributed to gods living inside (e.g., Vulcan for Romans, Pele in Hawaii).
   * Tsunamis and floods – Seen as divine punishment or cleansing acts (e.g., the Great Flood myths).
 
-### BIOLOGICAL AND MEDICAL CONDITIONS
+### Biological And Medical Conditions
 
 * Diseases and Epidemics
   * Plagues and pandemics – Believed to be divine punishment or curses by angry gods or demons.
@@ -42,7 +42,7 @@ Here's a partial but comprehensive list of things that were historically attribu
 * Speciation - the large number of different kinds of animals on earth was explained by creationists as being the personal handiwork of god.  Those same creationists then invented Intelligent Design as a way to give god credit for variations of animals along lines of descent.  The theory of biology is accepted by 99% of all biologists, and there seems no longer any need for a god to make animals change over time.
 
 
-### PSYCHOLOGICAL AND COGNITIVE PHENOMENA
+### Psychological And Cognitive Phenomena
 
 * Voices or visions – Interpreted as communication with gods, spirits, or demons.
 * Schizophrenia and delusions – Seen as spiritual possession or divine madness.
@@ -50,7 +50,7 @@ Here's a partial but comprehensive list of things that were historically attribu
 * Dreams – Often interpreted as messages from gods or ancestors.
 * Out-of-body or near-death experiences – Explained as the soul visiting the afterlife.
 
-### TECHNOLOGICAL AND SCIENTIFIC DEVELOPMENTS
+### Technological And Scientific Developments
 * Fire – Seen as a divine gift (e.g., Prometheus in Greek myth).
 * Magnetism and static electricity – Thought to be magical or spiritual forces.
 * Solar and lunar cycles – Interpreted as part of divine cosmology or influence.
@@ -59,7 +59,7 @@ Here's a partial but comprehensive list of things that were historically attribu
 * Sound phenomena (echoes, thunder) – Believed to be the voices of spirits or gods.
 * Compasses and lodestones – Considered magical objects with spiritual guidance.
 
-### SOCIAL AND CULTURAL PHENOMENA
+### Social And Cultural Phenomena
 * Kingship and political authority – Often legitimized by claiming divine right or descent from gods.
 * Victory in war – Attributed to divine favor or protection.
 * Failure or loss – Blamed on divine wrath, curses, or betrayal.
@@ -67,7 +67,7 @@ Here's a partial but comprehensive list of things that were historically attribu
 * Homosexuality, infertility, or other gender nonconforming behavior – Attributed to curses or demonic influence (in some traditional views).
 * Unexplained disappearances or deaths – Blamed on faeries, demons, or angry spirits.
 
-### MISCELLANEOUS AND SUPERNATURAL INTERPRETATIONS
+### Miscellaneous And Supernatural Interpretations
 * Mirrors breaking or animals behaving strangely – Seen as omens or spirit activity.
 * Deja vu – Considered a sign of past-life memories or divine insight.
 * Possession or exorcism rituals – Addressed what are now known as psychological or medical issues.
@@ -75,13 +75,19 @@ Here's a partial but comprehensive list of things that were historically attribu
 * Luck and fate – Believed to be controlled by gods (e.g., the Fates in Greek mythology).
 * Left-handedness or birthmarks – Viewed as signs of the devil or divine mark.
 
-### NATURAL OBJECTS AND PLACES
+### Natural Objects And Places
 * Mountains, rivers, trees – Deified or believed to be homes of spirits.
 * Sacred groves or springs – Associated with healing or divine presence.
 * Unusual rocks or meteorites – Thought to be gifts from the gods (e.g., Black Stone of Mecca).
 * Sacred animals – Worshipped or feared due to perceived divine qualities (e.g., cats in Egypt, cows in India).
 
-##
+## Ancient Misunderstandings
+
+See [Ancient Misunderstandings](god-explains-nothing#ancient-misunderstandings) for a list of phenomena that people attributes to gods in the past, but have since been discovering natural forces that account for the what used to be thought of as supernatural.
+
+## Conclusion
+
+> "I would challenge anyone here to think of a question upon which we once had a scientific answer, however inadequate, but for which now the best answer is a religious one."  - Sam Harris
 
 What else?  the conclusion can only be that there are thing that are attributed today to gods, and which probably aren't directly caused by god.  As we learn more and more, we can expect other things to fall.
 
