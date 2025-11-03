@@ -37,9 +37,7 @@ There is no evidence that the NSF and other funding agencies pay funding for spe
 
 > "people who believe the fairytale of evolution want it to be true so they don't have to be held accountable to anyone above themselves. Thus making themselves their own god."
 
-This person believes that evolution is invented by scientists in order to deny God and thereby delude themselves into believing they can escape God's instructions.
-
-I can see that this explains to you the motivation for fabricating a false science.
+This person believes that evolution is invented by scientists in order to deny God and thereby delude themselves into believing they can escape God's instructions.  This explains to them the motivation for fabricating a false science.
 
 At the same time you think these scientists are oblivious to the rather obvious problem that "pretending god does not exist" is not really going to get them out of any real trouble.  I am sure you agree that "pretending" God does not exist is not going to save you.  
 

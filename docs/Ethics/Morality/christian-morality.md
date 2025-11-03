@@ -1,5 +1,5 @@
 ---
-  sidebar_position: 5
+  sidebar_position: 7
 ---
 # Biblical Morality
 
@@ -44,4 +44,12 @@ holy slavery
 
 Burning witches at the stake
 
+## Questions
 
+> "Here's a question for those who deny God: If you don’t believe in absolute truth, on what basis do you condemn bearing false witness? According to God’s standard, false witnesses are accountable and deserve justice (Deuteronomy 19:18-19). But in a worldview without God, where morality is subjective, isn’t lying just another choice? So, what’s your basis for condemning it—personal preference?"
+
+Banning lies has a beneficial effect on the society that bans them. People in that society live longer, live better, and survive to produce more offspring.
+
+A society that says it is OK to lie will die out. It is as simply as that: allowing lies is evil for this reason. Banning lies is good for this reason.
+
+No god is needed.  Morality is not subjective. 

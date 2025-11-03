@@ -37,7 +37,7 @@ More importantly, the living arm was made as part of a baby that was produced by
 
 The entire deception depends on the audience believing because the final form of the two look a bit similar and seem to fit a similar purpose, that that implies that the form of construction must also be the same.  The amazing thing is that everyone knows that arm grow as part of a baby, but mechanical arms don't do anything like that.  The gullible are fooled into thinking that final function is all the matters in the construction of something.
 
-## Airplane Evolution 
+## Airplanes Don't Evolve 
 
 ![](bad-examples-airplane.png)
 
@@ -58,6 +58,16 @@ Machines are built one way, by man.
 Bodies are living and grow from a single cell (machines can't) and they are able to reproduce themselves (machines cant) and there is simply no reason to think that bodies are manufactured the way that machines are.
 
 The claim that a body is a machine is a dishonest (or ignorant) statement.
+
+## Robots Don't Evolve 
+
+![](bad-examples-robot.png)
+
+Once again: a robot is clearly a machine that was designed and built by humans.  It does not replicate itself passing on heritable genes.  It does not mate, and produce small robots.  Robots don't start small and then grow up to be big robots.  Instead a robot is assembled from components that are made independently for particular purposes and the put together for the final assembled robot.
+
+Everyone can clearly see that a robot is not a living system, and yet the comparison being made is that living systems **should be** just like robots.  That is, it is ridiculous that a robot might evolve, so therefor the analogy is used to say it is ridiculous that living things evolve.
+
+There is a false equivalency: robots and humans are both complex, and all complex things are formed the same way by an intelligent creator.
 
 ## Not All Complexity is the Same
 

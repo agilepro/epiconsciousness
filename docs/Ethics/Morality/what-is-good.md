@@ -27,4 +27,8 @@ Whatever the formulation of good we end up with, it must somehow take into accou
 
 ## Existence
 
-The next few chapter will delve into different moral systems and their side effects. 
+At the root level one must see that survival is one the true "good" that exists.  The action that leads to the survival of the most will generally be the action considered "good".  
+
+Survival is a very stark measure.  One can imagine a scenario where everyone survives but the they are in constant torture and misery that maybe a different outcome is better. Living is not binary: it not just that your heart is beating, but in fact life is a complex multifaceted dynamic state of being.  The consequentialists call it "flourishing" to say that life if more than just a heartbeat.  If you see existence as a continuum from barely a heartbeat to a full and active life of interactions with friends and family, then you see that existence is the key desire.
+
+Morals are behaviors that bring about the most human existence, the most flourishing of humans on a universal scale.   The next few chapter will delve into different moral systems and how effective they are in increasing the amount of existence.

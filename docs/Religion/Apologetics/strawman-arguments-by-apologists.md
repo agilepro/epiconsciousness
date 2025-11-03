@@ -60,3 +60,13 @@ Doctrines advocating competition between races or social classes, which are gath
 
 And practical applications exist: We are currently seeing the emergence of "Darwinian" medicine, in which treatments that take into account the evolution of humans and germs, which have gone through their own adjustments, are being developed. All this, doctors hope, should make it possible to study illnesses under a new light.
 
+## New Species Would Be Too Inbred
+
+> Even according to evolutionary theory every species that reproduces by sexual reproduction must ultimately begin with one unique breeding pair.
+
+That is not how evolution works.  Instead there is a POOL of individuals, and the entire POOL is what changes from one species to another.  The frequency of particular genes changes in the pool as a new gene works its way through the population.
+
+The idea that suddenly, for example, one individual fish would suddenly appear with legs is a distortion thought up by Christian apologists to make evolution seem impossible to their followers.  It is even more ridiculous to think that two individuals might suddenly appear so that you have a mating pair.
+
+Think about it:  consider a dramatic shift, like the change in coloration of [the Peppered Moth](https://en.wikipedia.org/wiki/Peppered_moth_evolution) from light to dark.  Initially you might have one that due to a genetic combination appeared with dark wings instead of light one, and was more able to hide against the smoke darkened tree trunks so they did a bit better.  They they still mated with the other light ones and the offspring would be a mix.  After successive generations, the ones carrying the dark genes simply start doing better, and that gene becomes more frequent in the pool.  Eventually, because it conveyed a benefit, the dark moths would outnumber the light ones, and we can consider the population evolved.
+

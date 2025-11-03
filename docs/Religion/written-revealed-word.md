@@ -68,6 +68,8 @@ We are told that the bible is the written revealed truth, but there is no way to
 
 God would know that there is no way for a human to avoid these flaws in communication.  While this might have seemed like a really perfect solution for a bronze age herder, it is shown to be entirely insufficient in today, and I am sure future will show it even more so.
 
+![](written-revealed-word-img2.jpg)
+
 ## Better Options
 
 First of all, the maximally intelligent being can probably come up with millions of much better ways that I can.  If what I present here seems flawed, understand that I am not saying these are the best, they are just options that are better than revealed written word.

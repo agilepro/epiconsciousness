@@ -30,6 +30,8 @@ The morality of an action depends not only on the act itself, but also the conte
 
 **Agent** is the person deciding to do the action.  I will use this interchangeably with person, but the moral agent need not be a person.
 
+**Tribe** is a group of individuals trying to work together.  Today tribe can mean many things: your community, your city, your school, your family, your nation, etc.  To keep from having to spell these different grouping in every occasion, I will use tribe here to mean a collection of people working together at any scale.
+
 **Subjective** is about things defined within the mind in relation to perceptions which might be unique to each individual subject:
 
 *   characteristic of or belonging to reality as perceived rather than as independent of mind
@@ -93,7 +95,7 @@ We will talk about morals as being the rules we live by, but remember that rules
 
 The first is fine, the second add context to describe something that is normally quite bad.  The third adds more context to refine the situation into surgery which might be life saving.  
 
-To recognize an action, we need to "slice it out" of reality: that is we SELECT a set of facts that we believe relevant to the situation, and then we classify according to those facts.  From whatever is happening, we need to classify the action into some identified form which can then be subject to rules.  The classification of actions is culture dependent.  The same actual occurrence might be classified several different ways, by different people, using differing levels of detail.
+To recognize an action, we need to "slice it out" of reality: that is we select a set of facts that we believe relevant to the situation, and then we classify according to those facts.  From whatever is happening, we need to classify the action into some identified form which can then be subject to rules.  The classification of actions is culture dependent.  The same actual occurrence might be classified several different ways, by different people, using differing levels of detail.
 
 **Scope**: It is generally the case that the action can be defined by the immediate surroundings at the time, but in some cases situations quite far away or removed in time might have relevance.  An act that is permissible in private, might be illegal in public.  An act performed in one city or state might be legal while the same act in a different state is illegal.  It is possible that an occurrence on the other side of the world has bearing.  Considering the entire state of the entire universe is not possible nor reasonable, so some judgement needs to be used to assure that enough scope is included to decide the morality of an action.
 

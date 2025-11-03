@@ -19,15 +19,17 @@ We will proceed cautiously:
 
 2. Goodness is the subject of the second chapter, both good as in welfare as well as good in terms of rightness.  These two meanings overlap.  We find in both meanings of good the goal for all human behavior.
 
-3. Moral relativism is the first trap we will explore is  which is professed by few however it is important to clearly distinguish what this is and why it is not reasonable.
+3. Subjective morality is the first trap and the place where many non-religious people tread feeling that there is no other choice between that and religious morality.  This is a mistake, and we will explore the various ways that subjective morality does not fill the need.
 
-4. Subjective morality is the second trap and the place where many non-religious people tread feeling that there is no other choice between that and religious morality.  This is a mistake, and we will explore the various ways that subjective morality does not fill the need.
+4. Moral relativism is the second trap we will explore is  which is professed by few however it is important to clearly distinguish what this is and why it is not reasonable.
 
-5. We then glance quickly at religious morality to explore what is good and what is bad about this approach.  We can see the claims that are made, what they mean, what people actually do, and what benefits and harms can come from that.
+5. Objective Morality is then presented in a way contrasted with the earlier approaches.
 
-6. Objective Morality is then presented in a way contrasted with the earlier approaches.
+6. We then glance quickly at religious/biblical morality to explore what is good and what is bad about this approach.  We can see the claims that are made, what they mean, what people actually do, and what benefits and harms can come from that.
 
-7. 8. Call to Action, how to use this in your daily life.
+7. The core of the book is how objective morality can be formed, six different theories on how this can happen.
+
+8. Call to Action, how to use this in your daily life.
 
 9. Love is the concluding topic of the book.
 

@@ -140,7 +140,7 @@ const config: Config = {
           },
           {
             from: '/2023/11/25/cs-lewis-on-brains/',
-            to: '/docs/Self-Organization/cs-lewis-on-brains',
+            to: '/docs/Religion/Apologetics/cs-lewis-on-brains',
           },
           {
             from: '/2023/11/11/did-all-important-science-come-from-religion/',
@@ -240,7 +240,7 @@ const config: Config = {
           },
           {
             from: '/2021/12/31/behe-and-creationist-dishonesty/',
-            to: '/docs/Self-Organization/behe-dishonesty',
+            to: '/docs/Religion/Apologetics/behe-dishonesty',
           },
           {
             from: '/2021/12/30/meaning-of-life/',
