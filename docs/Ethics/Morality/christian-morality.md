@@ -3,6 +3,17 @@
 ---
 # Biblical Morality
 
+Theists in general agree that morals must be objective, and they see these morals coming from God.
+
+## No Foundation
+
+Christians rightly argue that without objective morality, there can be no basis for talking about what one should and should not do.  If my morals can be different from your morals, then anything I do is right, and anything you do is right as well.  If everybody can claim that sea level is defined by whatever level they are at, it becomes very difficult to talk about the altitude difference between two people: both are at sea level, even if one is thousands of feet higher.
+
+The phrase "everyone has their own morals" means a very different thing that simply "everyone prefers different things".  Morals are the definition of good behavior, and it means an action that I do might be good, while you doing the exact same action would be bad.  Chaos ensues.
+
+It makes it impossible to talk about whether a law is just or not, because 
+
+
 ## What Christians Say about Others
 
 > “In a world without God, there can be no objective right and wrong, only our culturally and personally relative, subjective judgments. This means that it is impossible to condemn war, oppression, or crime as evil. Nor can one praise brotherhood, equality, and love as good. For in a universe without God, good and evil do not exist—there is only the bare valueless fact of existence, and there is no one to say you are right and I am wrong.”

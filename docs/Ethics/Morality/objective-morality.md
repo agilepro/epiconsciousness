@@ -13,7 +13,7 @@ At this point we have established some things:
 
 Therefor there will be actions that are objectively better for the community than other actions.  There will be a best action to take in any given circumstance.
 
-## The easy cases
+## The Easy Cases
 
 Morality is not arbitrary, but there are in fact real reasons that some actions are better than others.
 
@@ -25,7 +25,7 @@ Consider again two tribes: one says that stealing property from others is "bad" 
 
 Morals are in fact the rules for living and getting along with others. Rules that promote the well being of the entire tribe are objectively good. Those that decrease survivability are objectively bad.
 
-## Existing is not Knowing
+## Existing Is Not Knowing
 
 There is fundamentally an objective aspect to what is and is not moral, and that is determined ultimately by survivability.  That is, there exists a single best action.  However there is no guarantee that I or that anyone knows what the best action is.
 
@@ -35,7 +35,7 @@ But it may take thousands of generations to actually determine whether a particu
 
 The fact that I cannot tell you whether capital punishment is moral or not does not say that it is morally ambivalent. None of us are omniscient.
 
-## Good Morals Survive with the Tribe that Exhibits Them
+## Good Morals Survive With The Tribe That Exhibits Them
 
 So we have to treat the morals all together. A tribe holds a set of morals to be true, and then that tribe either survives or it doesn't. Other tribe how different combinations, and again it is survival that says whether they are right.  Occasionally societies appear with bad morals, like the Nazis, but they died out because their morals were bad. So did the communists. The fact that they died out is evidence (maybe proof) that their morals were wrong.
 
@@ -43,7 +43,7 @@ So it is hard to determine what is and is not objectively moral, but that does n
 
 A simple moral rule can be wrong. With subjective morality, no moral rule can ever be wrong: what you think is right is right. But morality is objective because tribes and cultures survive or die based on their moral rules.
 
-## Goodness is Equated with Existence
+## Goodness Is Equated With Existence
 
 _Sure, a particular action may be optimized to bring the best consequence to the most people, but does that make it morally good?_
 

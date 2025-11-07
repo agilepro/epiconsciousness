@@ -7,7 +7,7 @@ To say that a morality is subjective is to say that it varies from person to per
 
 Subjective does not necessarily mean related to feeling; it simply means that it varies from person to person (_subiectum_ is Latin for the agent in a sentence or situation).
 
-## Meaning of Subjective
+## Meaning Of Subjective
 
 The best example of a subjective claim is that of your favorite flavor of ice cream.  When faced with choosing a flavor, however you pick that is based on your own memory of experiences in the past, and your own estimation of what you would like to experience today.  If you decide that "Cherry Garcia" is your favorite flavor, then that is what your favorite flavor is.  
 
@@ -17,7 +17,7 @@ If a moral claim was subjective, then whatever you claim would by definition be 
 
 But actions have effects on the world, which in turn have objective consequences.  You may believe that drinking arsenic is a good moral action, but you will die from that, and that is objectively bad.  We will delve into more detail later, but just understand that a subjective opinion, like your favorite flavor of ice cream, can not be claimed by anyone else to be false.
 
-## Actions have objective consequences
+## Actions Have Objective Consequences
 
 You can not simply "decide" what is good and bad.
 
@@ -27,7 +27,7 @@ You can pass a law requiring a behavior, but you can't simply decide that the la
 
 An action that causes harm is bad, even if you subjectively think it is good.
 
-## The claim and the reality
+## The Claim And The Reality
 
 Much of the source of disagreement comes from the semantics of the word morality.  In the first chapter on definition, I point out four layers of morality.  There is a layer (3) where people claim what they believe to be moral, and then there is a different layer (1) for what is actually universally moral.
 
@@ -37,6 +37,6 @@ Claiming that eating ice cream on Sunday is moral, does not make it moral.  Ther
 
 Some people call these by a different name.  Let's not argue about semantics.  I am calling the objective assessment of whether an action is good or bad "Universal Morals".  The claims that people make might be their best approximation to these morals, but they can be wrong, and thus don't point to the real morality of the universe.
 
-## What is the Problem?
+## What Is The Problem?
 
 By arguing that morals are just subjective, we lose the higher moral ground from which to persuade the right action in situations.  A subjective opinion where the statement of the opinion makes it so.  You favorite ice cream is your favorite and nobody can say you are wrong.  But your claim about morality can be right or wrong, and that is what tells us that morality is not subjective.

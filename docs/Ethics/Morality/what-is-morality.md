@@ -3,36 +3,42 @@
 ---
 # Terms of Discussion
 
-We start with some definitions of terms, none of which are intended to be controversial, but but just saying that in this work I will use these terms in this way.  
+We start with some definitions of terms, none of which are intended to be controversial, but but just saying that in this work I will use these terms in this way.
+
+**good/right** - Good has many meanings.  Here it will mean morally good.  Doing the right thing, is to act morally good.  Such as being kind to people is morally good.  Instead of saying something is physically good for you, we can use the term beneficial.  So that there is no confusion, if something feels good, we will call it pleasurable.  If something tastes good, we will call it delectable.  Instead of saying that the student picked the right answer, we will use the term correct answer.
+
+**bad/evil/wrong** - We will use these words interchangeably to mean simply morally bad, the opposite of morally good.  The word 'evil' will not necessarily used to mean profoundly bad, but just the action is not morally good.  Instead of saying that the student picked the wrong answer, we will use the term incorrect answer.  If I use the term 'sin' it will mean the same as bad or evil.  
+
+**good life** - means a morally good life, a life where the actions you make are morally good, but at the same time quite possibly be beneficial for you and your tribe.  The good life is a life where you make all the best decisions along the way so that you always maintain what Aristotle calls the golden mean where you neither sacrifice too much, nor do you squander too much.  A life with neither excess nor deficiency.  
 
 ## Morality vs. Ethics
 
-There is a subtle difference:
+Morality and ethics are guidelines for finding the good life.  I won't be giving you any specific guidelines, but instead discussing how these guidelines have come about and the reason why we should be able to trust them.  There is a subtle difference between these terms:
 
-**Morality**: Refers to personal beliefs about right and wrong, often shaped by cultural, religious, or personal values. It's more subjective and can vary greatly between individuals and societies.
+**Morality** - Refers to personal beliefs about right and wrong, often shaped by cultural, religious, or personal values. It's more subjective and can vary greatly between individuals and societies.
 
-**Ethics**: Refers to systematic rules or principles governing conduct, often established by professional organizations, institutions, or societies. Ethics are more objective and provide a framework for making decisions in various contexts.
+**Ethics** - Refers to systematic rules or principles governing conduct, often established by professional organizations, institutions, or societies. Ethics are more objective and provide a framework for making decisions in various contexts.
 
-Both of these terms is about living the good life.  Both of them define what you should do.  I will tend to use them *interchangeably* since the basis for morality and ethics are the same: what is the right way to act?  See the section below on [layers and scope](#layers-and-scope).
+Both of these terms are about living the good life.  Both of them define what you should do.  I will tend to use them *interchangeably* since the basis for morality and ethics are the same: guidelines to the right way to act.
 
 ## Basic Terms
 
-**Morality (& Ethics)** is concerned with distinguishing what is right from what is wrong; good from evil; sin from virtue.  In all cases we are talking about *conduct* which is actions that you do.  Here are some definitions from dictionaries:  
+**Morality (& Ethics)** - is concerned with distinguishing what is right from what is wrong; good from evil; sin from virtue.  In all cases we are talking about *conduct* which is actions that and agent does.  Here are some definitions from dictionaries:  
 
 *   a doctrine or system of moral conduct
 *   conformity to ideals of right human conduct
 *   The quality of being in accord with standards of right or good conduct
 *   A system or collection of ideas of right and wrong conduct
 
-**Actions** are things a person might decide to perform.  An action can be measured by morality.  Morality, simply put, is a way to distinguish good actions (those which you should do) from bad actions (those which you should not do).  It is a way of measuring the goodness of an action.
+**Actions** - are things a person might decide to perform.  An action can be measured by morality.  Morality, simply put, is a way to distinguish good actions (those which you should do) from bad actions (those which you should not do).  It is a way of measuring the goodness of an action.
 
 The morality of an action depends not only on the act itself, but also the context as well as who is involved.  Starting a fire in a campsite fireplace is probably a good action, starting a fire in a crowded airplane definitely a bad action.   The entire situation must be measured and compared with other acts that could be performed in that situation.
 
-**Agent** is the person deciding to do the action.  I will use this interchangeably with person, but the moral agent need not be a person.
+**Agent** - is the person deciding to do the action.  I will use this interchangeably with person, but they are not always equivalent.
 
-**Tribe** is a group of individuals trying to work together.  Today tribe can mean many things: your community, your city, your school, your family, your nation, etc.  To keep from having to spell these different grouping in every occasion, I will use tribe here to mean a collection of people working together at any scale.
+**Tribe** - I will use this term for any group of individuals trying to work together.  Today tribe can mean many things: your community, your city, your school, your family, your nation, etc.  To keep from having to spell these different grouping in every occasion, tribe will be used to mean a collection of people working together at any scale.
 
-**Subjective** is about things defined within the mind in relation to perceptions which might be unique to each individual subject:
+**Subjective** - is about things defined within the mind in relation to perceptions which might be unique to each individual subject:
 
 *   characteristic of or belonging to reality as perceived rather than as independent of mind
 *   relating to or being experience or knowledge as conditioned by personal mental characteristics or states
@@ -41,7 +47,9 @@ The morality of an action depends not only on the act itself, but also the conte
 *   Not caused by external stimuli.
 *   Dependent on or taking place in a person’s mind rather than the external world.
 
-**Objective** is about things that are outside of an individual mind, and can be observed by any number of people the same way:
+We will spend a lot of time exploring what it means for morals to be subjective but it is clear that anything that is subjective is something that is unique to that person and possibly only knowable by that person.  Your feelings are subjective because nobody else can feel them.
+
+**Objective** - is about things that are outside of an individual mind, and can be observed by any number of people the same way:
 
 *   expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations
 *   having reality independent of the mind
@@ -51,7 +59,7 @@ The morality of an action depends not only on the act itself, but also the conte
 
 ## Context and Locality
 
-When considering whether an action is moral or not, we must consider the context.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.  But only when there is a fire.
+When considering whether an action is moral or not, we must consider the context.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
 
 Notice that there is a built in assumption that the morality of an action can be judged by the immediate local circumstances: usually a physical area of a few meters, a time duration of less than an hour, and a participant dimension of only one or two people.  
 
@@ -61,7 +69,7 @@ Of course there could be occasions where things far and wide actually are releva
 
 ## Layers and Scope
 
-To be able to talk about morals clearly, we need to distinguish between the multiple layers and scope of morals.
+To be able to talk about morals clearly, we need to distinguish between the multiple layers and scope of morals.  Much of the confusion in discussions of morality often have to do with 
 
 ![image showing four layers of morality](moral-layers.png) 
 
@@ -69,13 +77,13 @@ To be able to talk about morals clearly, we need to distinguish between the mult
 
 **Cultural Values & Laws** - Cultures will embody statements about what is and is not good, usually expressed as a rule to follow.  Some of these are formally written and adopted as laws.  Moral rules and laws are different degrees of the same thing: they both encourage (or enforce) behavior which is considered to be good.  Some cultural values are less explicit, and appear only as guidelines or simply a shared idea among the participants of the culture.  Laws exist from local, to community, to city, to state, to country, and somethings the whole world.  Laws will occasionally conflict with each other.  Because these are rules, they only approximate the real moral valence.  The term **ethics** generally plays at this level.
 
-**Moral Rules & Intuition** - A set of rules that an individual claims or aspires to live by.  These are largely adopted from the culture, but an individual does not always agree with their culture, especially when they find themselves in a multi-cultural situation where the individual might have to chose between two conflicting rules.  These must be expressed as rules.  It would be the set of rules that an individual would claim to follow if they could.  That set is limited to what a person can remember and internalize.  The term **morality** generally plays at this level.
+**Personal Code of Conduct** - A set of rules that an individual claims or aspires to live by.  These are largely adopted from the culture, but an individual does not always agree with their culture, especially when they find themselves in a multi-cultural situation where the individual might have to chose between two conflicting rules.  These must be expressed as rules.  It would be the set of rules that an individual would claim to follow if they could.  That set is limited to what a person can remember and internalize.  The term **morality** generally plays at this level.
 
 **Performed Actions** - What an individual actually does. People follow their own rules most of the time, but sometimes it is too much trouble and shortcuts are taken. The actions are the true measure of what an individuals thinks is good or bad, and they are somewhat more pragmatic than the explicitly stated rules. 
 
-There is a tensions between the bottom two as people try to put their own morals into action.  Most people have an internalized set of moral rules.  They may have an intuitive understanding of right and wrong that transcends the rules they claim to follow.  That is, there might be an explicit rule to turn someone in for a crime, however one might allow someone to get away because for some reason they did not deserve it.  There may not be an explicit rule to cover the situation, however rules conflict in their detail, and one must use judgement in selecting which rules apply to which situation.  
+There is a tension between the bottom two as people try to put their own morals into action.  Most people have an internalized code of conduct.  They may have an intuitive understanding of right and wrong that transcends the rules they claim to follow.  That is, there might be an explicit rule to turn someone in for a crime, however one might allow someone to get away because for some reason they did not deserve it.  There may not be an explicit rule to cover the situation, however rules conflict in their detail, and one must use judgement in selecting which rules apply to which situation.  
 
-There is a tension between the personal moral rules and the cultural values and laws.  Most laws represent the morals of a culture in a written form. But in the case of an unjust law, it can be moral to show civil disobedience when the law can be shown to contradict other recognized moral rules.  You personal morals may override the laws or cultural norms.
+There is a tension between the personal code of conduct and the cultural values and laws.  Most laws represent the morals of a culture in a written form. But in the case of an unjust law, it can be moral to show civil disobedience when the law can be shown to contradict other recognized moral rules.  Your personal code of conduct may override the laws or cultural norms.
 
 Sometimes a minority group embedded in a larger culture may be faced with conflicting rules they need to choose between.  In this case the individual has to choose which cultural rules to follow, and which rules to breach.  Again, the personal morals must guide that decision.
 
