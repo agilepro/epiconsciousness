@@ -18,7 +18,20 @@ There are things that people make up:
 
 Generally true that materialist deny ghosts and souls, but not based on them existing non-materially, but simply that they don't exist.
 
-## Discussion
+## What Happens To The Soul When You Die?
+
+The soul is the process of consciousness.
+
+Does a flame exist? Sure it does. As a candle burns, the process of burning forms a well defined pattern we call a flame. The flame is a process, not a static form.
+When you blow out the candle, where does the flame go? It doesn't go anywhere, it simply stops. Just like consciousness.
+
+In ancient times, people thought fire was another element, like water and air, and separate from the candle. Later we learned the truth: it is just a chemical reaction running as a process. The flame is made from the material of the candle, and is not separate from the candle.
+
+In ancient times they also thought that consciousness was a real material thing separate from the body. now we know it is simply a process that is running in the body on the nerves. Life is another process running across the cells. When life stops, the nerves stop, and consciousness stops.
+
+The "life" and the "soul" do not go anywhere, they just stop.
+
+## Material Is More Than Just Material
 
 Here is the intended argument:
 

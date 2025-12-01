@@ -18,7 +18,7 @@ I make no demand at all.  There is no arrogance.  Let me explain by way of an 
 
 ## Elevators and Ethics
 
-Lets say in a tall building, there are three elevator shafts. Two of them are not functional.  If you enter them, you will fall 50 stories to your death.   Only the third one has a car there and will safely transport you.  The hitch is: you have to choose the door you will go through before door opens.  So, you don’t have the luxury of being able to check whether there is a car there when the doors open.  Whichever door you choose, you will go though, and if you choose the wrong one you will die.
+Let's say in a tall building, there are three elevator shafts. Two of them are not functional.  If you enter them, you will fall 50 stories to your death.   Only the third one has a car there and will safely transport you.  The hitch is: you have to choose the door you will go through before door opens.  So, you don’t have the luxury of being able to check whether there is a car there when the doors open.  Whichever door you choose, you will go though, and if you choose the wrong one you will die.
 
 Imagine you live in that building.  Maybe you know which elevator is safe, but you also know there are other visitors to the building on a regular basis.  Because you live there, and because you know of the grave danger, you are morally obligated to put some kind of clear sign as a warning to others.  The dangerous shafts **_must_** have a sign saying clearly that they are dangerous in enough detail to make it clear, and the safe one **_must_** be clearly marked as being safe.
 

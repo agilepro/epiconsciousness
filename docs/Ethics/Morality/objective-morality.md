@@ -1,7 +1,11 @@
 ---
-  sidebar_position: 6
+  sidebar_position: 8
 ---
 # Objective Morality
+
+Objective morality (also known as Moral Objectivism or Moral Realism) is _the philosophical belief that moral principles and values are universally true and exist independently of human opinion, cultural norms, or personal feelings._
+
+In this view, moral truths are like facts about the physical world. Just as the statement "The Earth orbits the Sun" is objectively true regardless of who believes it, proponents of objective morality argue that statements like "Causing gratuitous suffering to an innocent person is wrong" are also objectively true.
 
 At this point we have established some things:
 

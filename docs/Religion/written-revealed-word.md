@@ -100,6 +100,28 @@ The messages could be translated by God into local languages, but that is not ev
 
 There are a number of ways the message could be fixed and eternal so that everyone on the planet would have access to it at all times.  For example, the stars could be moved to spell out the key points in the sky (in Latin of course).  Not imaginary constellations, but actual writing in the sky.  It is possible that alien technology might accomplish this, but much more likely to be authentically from God due to the extreme expense for little benefit of the aliens.  Or it could be written in your DNA.  Or in our bones.  Or in a rainbow.  It would not be hard for a real message to be permanently and unquestionably available equally to everyone.
 
+## Selecting for Gullibility
+
+Let's define gullibility as "believing in things without sufficient evidence" particularly when someone is trying to persuade you of something.
+
+Christianity is a system which selects for people willing to believe without sufficient evidence.  That is, it selects for gullible people.
+
+Whatever power formed the universe, it gave humans the ability to use logic to figure things out.  In our daily life we make decisions based on logic founded on solid evidence and principles.  This is a survival trait: there are many wrong ways to plant and care for crops, and if you want food you need to follow the ways that have worked in the past.
+
+Christianity demands that you accept based on faith, and in fact elevates faith as a superior way to make decisions.  Christians glorify those who believe in a particular god even though there is a complete lack of solid evidence.  Their stronger faith makes them stronger Christians.  They look down upon people who require evidence as not being sufficiently open to experiencing god.
+
+An omniscient god would _never_ do this because training people to be gullible opens them to the wrong message as much as it does to the right message.  A gullible person is just as likely to believe in crystal power which has no evidence either.   Or they might believe in the other gods mentioned in the bible even though there is no evidence for them either.  Gullibility denies the value of logic, and open the way for believing non-truths.
+
+Clearly a god that gave humans logic, would deliver an important message in a way that is consistent with that logic by providing evidence to support only the one _single interpretation_ of the evidence.  Delivering a message is achieved only when a single message can be discerned upon receipt.
+
+It is not arrogance to demand evidence, it is a logical requirement if there is a single message to be received.  Without evidence, any message is equally possible.
+
+Selecting people for gullibility would never serve a God who wants to deliver a message, but it **does** serve a different purpose:  people who want to fool other people are greatly served by suggesting that god requires gullibility.  If Christians can convince you that god wants you to be gullible, then it is far easier for them to manipulate you.  A Christian leader can feed their flock nonsense which they accept because they believe it is god's way of communicating.  Since there is no logical way to check that the message actually is from God, any message can be claimed to be from God.
+
+Which leads to the second reason God would never deliver a message in a way that requires gullibility: it opens the entire Christian organization to manipulation by people with evil purposes.  A loving God would never do that, because instead of communicating truth, the God delivers randomness instead.
+
+The Christian church demands that members be gullible, so that Christian leaders can manipulate the flock more deftly.
+
 ## Is This Arrogance?
 
 Theists usually claim I am demanding too much of this God, and in so being arrogant.  I would like it to be clear, I make no demand here.  My point instead is that a maximally intelligent being would know the nature of humans, and would know the flaws of the revealed written word.  This argument is about the logic behind using a flawed communications approach when many better options exist that would be easily available.

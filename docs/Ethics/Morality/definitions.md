@@ -5,7 +5,7 @@
 
 We start with some definitions of terms, none of which are intended to be controversial, but but just saying that in this work I will use these terms in this way.
 
-**good/right** - Good has many meanings.  Here it will mean morally good.  Doing the right thing, is to act morally good.  Such as being kind to people is morally good.  Instead of saying something is physically good for you, we can use the term beneficial.  So that there is no confusion, if something feels good, we will call it pleasurable.  If something tastes good, we will call it delectable.  Instead of saying that the student picked the right answer, we will use the term correct answer.
+**good/right** - Good has many meanings.  Actions, qualities, or principles are morally good when they are considered right, virtuous, benevolent, and beneficial.  Doing the right thing, is to act morally good.  Such as being kind to people is morally good.  Instead of saying something is physically good for you, we can use the term beneficial.  So that there is no confusion, if something feels good, we will call it pleasurable.  If something tastes good, we will call it delectable.  Instead of saying that the student picked the right answer, we will use the term correct answer.
 
 **bad/evil/wrong** - We will use these words interchangeably to mean simply morally bad, the opposite of morally good.  The word 'evil' will not necessarily used to mean profoundly bad, but just the action is not morally good.  Instead of saying that the student picked the wrong answer, we will use the term incorrect answer.  If I use the term 'sin' it will mean the same as bad or evil.  
 
@@ -73,11 +73,11 @@ To be able to talk about morals clearly, we need to distinguish between the mult
 
 ![image showing four layers of morality](moral-layers.png) 
 
-**Universal Morals** - This is the ultimate judgement of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not universally moral because of differing understanding.  These apply universally across space and time however they might be different at different places and times.  They are extremely complex in order to account for all the possible extenuating circumstances.
+**Universal Morals** - This is the ultimate valuation of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not universally moral because of differing understanding.  These apply universally across space and time however they might be different at different places and times.  They are extremely complex in order to account for all the possible extenuating circumstances.
 
 **Cultural Values & Laws** - Cultures will embody statements about what is and is not good, usually expressed as a rule to follow.  Some of these are formally written and adopted as laws.  Moral rules and laws are different degrees of the same thing: they both encourage (or enforce) behavior which is considered to be good.  Some cultural values are less explicit, and appear only as guidelines or simply a shared idea among the participants of the culture.  Laws exist from local, to community, to city, to state, to country, and somethings the whole world.  Laws will occasionally conflict with each other.  Because these are rules, they only approximate the real moral valence.  The term **ethics** generally plays at this level.
 
-**Personal Code of Conduct** - A set of rules that an individual claims or aspires to live by.  These are largely adopted from the culture, but an individual does not always agree with their culture, especially when they find themselves in a multi-cultural situation where the individual might have to chose between two conflicting rules.  These must be expressed as rules.  It would be the set of rules that an individual would claim to follow if they could.  That set is limited to what a person can remember and internalize.  The term **morality** generally plays at this level.
+**Personal Code of Conduct** - A set of rules that an individual claims or aspires to live by.  These are largely adopted from the culture, but an individual does not always agree with their culture, especially when they find themselves in a multi-cultural situation where the individual might have to chose between two conflicting rules.  These must be expressed as rules.  It would be the set of rules that an individual would claim to follow if they could.  That set is limited to what a person can remember and internalize.  The term **morals** generally plays at this level, when we talk about an individual having good morals or bad morals.  Notice that comparing morals at this level implies some higher level morality to compare various morals.
 
 **Performed Actions** - What an individual actually does. People follow their own rules most of the time, but sometimes it is too much trouble and shortcuts are taken. The actions are the true measure of what an individuals thinks is good or bad, and they are somewhat more pragmatic than the explicitly stated rules. 
 
@@ -89,9 +89,9 @@ Sometimes a minority group embedded in a larger culture may be faced with confli
 
 Finally it is also possible there is a tension between the top two.  A culture may adopt practices it views as moral but in fact turn out to be immoral.  Two examples: bloodletting and slavery.
 
-## Rules are Approximate
+## A Rule is Approximate
 
-We will talk about morals as being the rules we live by, but remember that rules are only approximate expressions of the real moral.  A couple reasons for this:
+We will talk about morals as being the rules we live by, but remember that rules themselves are only approximate expressions of the real moral.  A couple reasons for this:
 
 **Brevity**: a rule can be stated in a brief sentence: "don't break windows".  For most windows you encounter -- probably more than 99.99% of them -- if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.  
 
@@ -101,7 +101,7 @@ We will talk about morals as being the rules we live by, but remember that rules
 * Using a knife to slice a person 
 * Using a knife to remove a ruptured appendix from a person 
 
-The first is fine, the second add context to describe something that is normally quite bad.  The third adds more context to refine the situation into surgery which might be life saving.  
+The first is a good action normally part of preparing food.  The second adds context to describe an attack which is bad.  The third adds more context to refine the situation into surgery which might be life saving and good.  
 
 To recognize an action, we need to "slice it out" of reality: that is we select a set of facts that we believe relevant to the situation, and then we classify according to those facts.  From whatever is happening, we need to classify the action into some identified form which can then be subject to rules.  The classification of actions is culture dependent.  The same actual occurrence might be classified several different ways, by different people, using differing levels of detail.
 

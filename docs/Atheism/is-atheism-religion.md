@@ -26,7 +26,7 @@ They will claim that belief in evolution constitutes a belief similar to belief 
 
 Not all atheists are scientists either, although in the US a scientific world view is often adopted by atheists.  There is no rule whereby one atheist could claim that another is not an atheist because they don't have a scientific worldview.  There is simply no requirements on being an atheist, and atheists are free to believe many many crazy things.
 
-Even if a lot of athiests believe the same thing, such as the sky being blue, or the earth going around the sun, that does not make a religion.  There is only one thing in common with all atheists, and that that they don't believe in a God.  That is a description, and it does not befine what one must believe instead.
+Even if a lot of atheists believe the same thing, such as the sky being blue, or the earth going around the sun, that does not make a religion.  There is only one thing in common with all atheists, and that that they don't believe in a God.  That is a description, and it does not define what one must believe instead.
 
 ## An Alternative to Religion
 
@@ -38,4 +38,6 @@ The alternative to religions should be "non-religious" and not "atheist".
 
 ## Conclusion
 
-Atheism does not qualifiy as a religion, but I don’t push back on people who insist that it is.  It doesn’t really matter, and it depends on what specifically you mean by religion.  If they want to say it is a religion, it is not worth fighting over.
+Atheism does not qualify as a religion, but I don’t push back on people who insist that it is.  It doesn’t really matter, and it depends on what specifically you mean by religion.  If they want to say it is a religion, it is not worth fighting over.
+
+![](is-atheism-religion-img.jpg)

@@ -1,13 +1,13 @@
 ---
-  sidebar_position: 5
+  sidebar_position: 4
 ---
 # Moral Relativism
 
-Moral relativism is the idea that your morals might in fact be different from my morals and they both are right.
+Moral relativism takes one step further than moral subjectivism.  Not only are there no moral truths, only moral opinions, but everyone's opinions are right for them.
 
 ## Consequence of Subjective Morality
 
-If you truly believe that morality is subjective, then you must accept the reality of moral relativism as well.  If Bob says that bloodletting is a good moral action, then by subjective morality it is a good a moral action for him.  If Sam says that bloodletting is not moral, then by subjective morality is it bad for him.
+If you truly believe that morality is subjective, then you must accept the reality of moral relativism as well.  If Bob says that bloodletting is a good moral action, then by subjective morality it is a good a moral action for him.  If Sam says that bloodletting is not moral, then by subjective morality is it bad for him.  Sam and Bob have conflicting opinions but the moral reletavist says they are both correct.
 
 You have to hold in your head that bloodletting is both good and bad.  Each different person defines a different set of morals, and according to subjective morality, those are true morals for each of them at the same time.  But how can bloodletting be both moral and immoral at the same time, for different people?
 
@@ -15,15 +15,17 @@ Moral relativist have to believe that the morality of Bob is independent of the 
 
 ## Context
 
-Much of the confusion comes from attempting to define moral according to simple approximations without considering the context.
+Much of the confusion comes from attempting to define moral according to simple approximate rules without considering the context.
 
-For example, throwing someone out of the house in the middle of the night might be perfectly acceptable act in the tropic where the night is mild.  But throwing someone out of the house in the middle of the night in antarctica might in fact be a death sentence, and would be a very bad thing to do.  The difference in context, not subjectivity.  no matter who you are, and what your subjective opinions, the act of throwing someone out in an arctic night is a completely different thing than throwing them out in the tropics.
+For example, throwing someone out of the house in the middle of the night might be perfectly acceptable act in the tropics where the night is mild.  But throwing someone out of the house in the middle of the night in antarctica might carry a risk of death, and would be a very bad thing to do.  The difference is context, not subjectivity.  No matter who you are, and what your subjective opinions, the act of throwing someone out in an arctic night is a completely different thing than throwing them out in the tropics.
 
-We all know that context makes a difference.  For example killing a person is generally a bad thing to do.  But a sniper in a tower who is shooting innocent people below might have to be killed in order to make the world safe for others.  We know that it is justified to shoot someone in self defense if you believe your life was in danger.
+![](kick-out.png)
 
-We know that lying is a bad behavior, but in the classic example of Nazis asking at the Anne Frank for Jews hiding from them would be perfectly morally justified in lying.  Context matters.
+We all know that context makes a difference.  For example killing a person is generally a bad thing to do.  But killing a sniper in a tower who is shooting innocent people below might make the world safe for others.  We know that it is justified to shoot someone in self defense if you believe your life is in danger.
 
-This does not mean that the person answering the door of Anne Frank has different moral than us.  It means instead that the morality of lying depends on whether the a life depends on whether we lie or not.  The rule about lying is not simply "don't ever lie" but instead something like "don't lie unless there is a good reason to lie then it is OK."
+We know that lying is a bad behavior, but in the classic example when the Nazis show up at the Anne Frank house asking about Jews hiding there, one would be perfectly morally justified in lying.  Context matters.
+
+This does not mean that the person answering the door of Anne Frank has different morals than us.  It means instead that the morality of lying depends on whether the a life depends on whether we lie or not.  The rule about lying is not simply "don't ever lie" but instead something like "don't lie unless there is a good reason to lie then it is OK."
 
 ## Morals are not Simple
 
@@ -31,7 +33,9 @@ We are limited beings, and as such we would like simple guidelines to live by.  
 
 Unfortunately reality is never simple.  It is complex.  Everyone is interacting with everyone all the time in different contexts.  The real rules for behavior come with lots of assumed exceptions and special cases which are not stated in the rule.  
 
-The purposeful crashing of UA flight 93 in a field in Pennsylvania on 9/11 was a good thing given that otherwise the plane would have been used to cause thousands more deaths.  It would be impossible to include this as an explicit exception to the rule:  "don't ever purposefully crash airplanes except if some terrorists have taken over the plane and hope to use it to cause even more death."    There could be thousands of such exceptions -- even exceptions we can't dream of today.
+The purposeful crashing of UA flight 93 in a field in Pennsylvania on 9/11 was a good thing given that otherwise the plane would have been used to cause thousands more deaths.  It would be impossible to include this as an explicit exception to the rule:  "Don't ever purposefully crash airplanes except if some terrorists have taken over the plane and hope to use it to cause even more death."    There could be thousands of such exceptions -- even exceptions we can't dream of today.
+
+![](rule-web.png)
 
 ## Simple rules can't express the whole story
 
