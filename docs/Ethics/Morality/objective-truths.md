@@ -10,13 +10,13 @@ These are the kind of questions that theists ask when they are convinced that Go
 
 ## Boat Design Analogy
 
-Is there an objective truth about the design of boats, and if so, who created those truths.
+Is there an objective truth about the design of boats, and if so, who created those truths?
 
 Consider the ancient coracle boat which is the simplest boat possible and it is a design that was created by humans 100,000 years ago.  One can imagine ancient humans running a competition to see who, among a field of such boats, could get to the finish line the fastest.
 
 ![](boat-coracle.png)
 
-As time went on, boat design advanced in many ways and with many materials.  Each advance made a boat that was objectively better up to the fasted sailing boats that humans have ever made: the Americas Cup winners.  Through trial and testing of many different design options, boat makers found out what worked and what does not work as far as making a sailing boat go fast.  The monohull gave way to the catamaran.  Carbon fiber replaced wood.  Tall sails were found more effective than wide sails.  Etc.
+As time went on, boat design advanced in many ways and with many materials.  Each advance made a boat that was objectively better up to the fastest sailing boats that humans have ever made: the Americas Cup winners.  Through trial and testing of many different design options, boat makers found out what worked and what does not work as far as making a sailing boat go fast.  The monohull gave way to the catamaran.  Carbon fiber replaced wood.  Tall sails were found more effective than wide sails.  Etc.
 
 ![](boat-racing.png)
 
@@ -44,4 +44,4 @@ Objective truths in any category do not need to be created by anyone or any thin
 
 Behaviors, like those of human societies, will tend to approach these optimums if the behavior matters for survival, and if the behavior can be transmitted from generation to generation.  This is an evolutionary process.
 
-Humans must work together to survive, and the better they work, the better they survive.  The bad actions are lost when the actor dies.
+Humans must work together to survive, and the better they work, the better they survive.  The bad actions are lost when the actors die.

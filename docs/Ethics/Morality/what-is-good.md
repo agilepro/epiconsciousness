@@ -1,15 +1,51 @@
 ---
-  sidebar_position: 5
+  sidebar_position: 3
 ---
-# What is Good?
+# What is a Good Act?
 
-What is a good life?  What makes a particular action good, and another action bad?
+What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe "moral valence" (the measure of how good/bad an action is) come from?
 
-## Long Term View
+## We Care About Acts
 
-Anyone who has thought about this more than a moment will understand that this is not about superficial pleasure or short term good feelings.  Simply doing what feels good at the moment will often lead to behaviors that you later regret.  
+An act (or action) is something that affects the world and changes it.  The moral value of that act is strictly about the consequence of that act.  If the result of the action bring about an overall benefit to the world, then it is a good action.  If the result causes harm in the world, then it is a bad, or evil, action.
 
-Instead, a person can look back on a good life on with satisfaction that the right actions were taken at all the right times in order to say that the best outcomes were achieved in the long term.  In some cases you will have to endure hardship to do the right thing.  Or experience very unpleasant things.  The idea is that in some measure it is "worth it" to do the right things.
+_Wait, that is too easy.  What if you don't want to do the morally good action?_  I am not saying that a moral action is an action that the agent likes.  A heroine addict probably likes the hit of the drug, but liking it certainly has no bearing on whether the act is good or not.  Liking and action, and disliking an action is completely different from whether the action is beneficial or not.
+
+_The right thing to do is not always beneficial to us._  Morality is about the success of the tribe, not necessarily the individual.  Moral guidelines help us to live together successfully, and by that means helping to assure the survival of all, but not always everyone.  A soldier going off to war is doing the right moral thing for his country and his community, but they are also taking a big risk personally.  Still, most soldiers do come home and the net benefit to their family and community is substantial.
+
+_What about two people who do the exact same thing?  For example "lighting a fire."  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
+
+## Acts in Context
+
+The action is not simply a movement of an agent, but it is the movement of that agent in the context of where they are, and quite possibly all the other people involved.  The exact same movement might have completely different results.
+
+For example, yelling "Fire" in a crowded theater when there is no fire is a well known bad thing to do, because people are likely to get hurt in the rush to get outside.  But obviously if not in a theater, and if there is a fire, then it would probably be a good thing letting others know about the danger.  We need to consider the specifics around a particular act, and the context it was performed in, and then consider the specific outcome, to decide if the act was good or bad.
+
+Consider the act of "slicing meat". Is that good or bad.  Well it depends.
+
+* If done by a cook, preparing a meal, it is probably a good thing.
+* If done by a thug slicing an innocent bystander, it is probably a bad thing.
+* If done by a surgeon slicing into a person to remove a ruptured appendix, it is probably a good thing.
+
+The motion of "slicing meat" is the same at some level, but without knowing the context and the entire situation around it, we can never say whether that particular motion is good or bad.  The motion, the context, and all the related situation must be considered together, and it is that entire combination that we will refer to as an "act" or "action" for the rest of this writing.
+
+## Action Scope and Duration
+
+An act may be long or short in duration, and in the performing of one act, you might also at the same time be performing dozens of other actions.  For example, the act of "going to college" can take four or more years.  The act of entertaining someone might involve the action of cooking dinner, which in turn involves the act of cutting meat.  
+
+There is no definite boundary on any action.  An action must be something that an agent can decide to do, or to not do.  It is that decision that forms the need to know whether the act is moral or not.  
+
+In considering any situation, we must determine the actions that are available to us.  As such, many actions are culturally defined.  Different cultures, different regions, different groups, might break out what constitutes an "act" differently, and in some cases the judgement is built into the description.  Did someone lie, or did they just say something too loosely?  Or did they blaspheme?  Or did they perjure themselves?  Different cultures, or even sometimes simply people with different points of view, will describe the same thing differently.  When comparing different moral systems, one has to be careful to isolate the action to purely what was done, and not a description that selects according to a judgement.
+
+## Why Is Survival Good?
+
+For a moment, lets consider a slightly different question: why does sugar taste good?  Why does ice cream taste good?  Ice cream is very rich in energy: sugar and fat are almost pure energy.  Imagine a couple starving cave men happening upon an ice cream store.  In cave man times life was rough and people lived on the edge of starvation, and a bad winter was life threatening due simply to not enough food, not enough energy, to live.  Our two cave men have a difference: one absolutely loves the taste of fat and sugar, and the other hates it.  The one who loves the taste will obviously fill up on the energy rich ice cream because you never quite know if you will encounter that again, while the other, the one who hates the taste of fat and sugar avoids eating the energy rich food.  Which one is going to live longer?
+
+Clearly sensing energy rich foods is a very important trait for survival.  But we ask the question again: why does sugar taste sweet?  Why is a sweet taste pleasurable?  Is a sweet taste pleasurable _because_ it has energy?  Or, is it pleasurable simply because those that found it pleasurable tended to survive?  A creationist might say: _God made sugar taste good so that we can find those high energy food sources_, but that gets it exactly backward.  Those people who found sugar distasteful died out long ago.  When the game is survival, those that associate pleasure with high energy food will win more often.  We are the progeny of the winners. 
+
+The exact same thing happens with good behaviors.  Do we recognize behaviors as being _good_ because they help us get along?  Exactly the other way around:  those people who felt they should do something that helps the group survive, are the ones that survived.  Those people who had a tendency to do things you shouldn't do, died out long ago.
+
+We have a sense about what is _good_ and _evil_.  It is not always right, but often it is.  That sense had been learned over time.  Early on, it might have been random: half did one thing, and the other half did the opposite.  But over time, the bad ideas get weeded out.
 
 ## Oriented to Collective Good
 
@@ -19,16 +55,10 @@ Good for what group?  Humans naturally live in groups.  A good action should be 
 
 Even humanity is not quite inclusive enough.  We talk about animals rights along with the morality of cruelty to animals.  So what is the scope?  There is a feeing that the action has to be right from some kind of universal perspective.  That is, a good action is fundamentally good in itself.
 
-## Tradeoffs
+## Is Good really Good
 
-A good action may not be purely good in all aspects.  In the case of the [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem) one choice kills five people and the other kills one person. Both choices involve a tragedy.  
+This might be something that is shown to be good for you, and good for your tribe, but is it really _good_ in the moral sense?  _What if you or your tribe are actually bad and it would be a good thing to wipe you out._
 
-Whatever the formulation of good we end up with, it must somehow take into account that there will be many consequences from a single decision.  
+This argument is appealing to the mystery of morality, the idea that an action can only be moral if the action was commanded by a superior being.  It is also a dismissal of the idea that an action can actually be moral in itself and because of its consequences.  This debate was argued by Socrates in Euthephro which presents a dilemma: either there are moral truths that transcend even God, or else moral value are arbitrary and simply picked by God.  You can't have it both ways.
 
-## Existence
-
-At the root level one must see that survival is one the true "good" that exists.  The action that leads to the survival of the most will generally be the action considered "good".  
-
-Survival is a very stark measure.  One can imagine a scenario where everyone survives but the they are in constant torture and misery that maybe a different outcome is better. Living is not binary: it not just that your heart is beating, but in fact life is a complex multifaceted dynamic state of being.  The consequentialists call it "flourishing" to say that life if more than just a heartbeat.  If you see existence as a continuum from barely a heartbeat to a full and active life of interactions with friends and family, then you see that existence is the key desire.
-
-Morals are behaviors that bring about the most human existence, the most flourishing of humans on a universal scale.   The next few chapter will delve into different moral systems and how effective they are in increasing the amount of existence.
+To think that moral value of something is arbitrary and simply picked by omniscient god means that moral values are not real, but only arbitrary.  Some believers might decide that is more comfortable to them, but we need not believe in the arbitrary moral maker.  There are good ways that the actions produce good results as a consequence -- on average across many people and in the appropriate situations.  The moral value of such actions are not arbitrary.  There exist moral truths, and the next chapter goes into detail on how these exist and how they come about.

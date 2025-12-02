@@ -72,3 +72,26 @@ Moral objectivity requires forgetting nationality; thinking impartially. E.g.: U
 Our ability to think impartially is not ‘mass delusion’. Taking a moral stance means adopting a non-partisan attitude.
 
 
+## Sundry
+
+Frank Turek said:  “the only reason I know what was good is because there's a standard of good outside myself, and that's God's nature."
+
+Turek continued, "As soon as we see something evil, we know it's evil."
+ 
+The important thing to know here is that Turek does not say that he knows the difference between good and evil because of the Bible. The Bible is not a manual on morality. The Bible mentions behavior, which is good and bad.
+
+Take for example marriage. Most Christians will insist that a proper moral marriage is one man and one woman. But King David is a very important person in the Old Testament, and he had 13 wives. Ask the Christian if King David was a moral person, or if his Marriages were moral. An honest Christian will say no. One must than wonder why the Bible spends so much time telling a story about such an immoral person. 
+
+Turk does not fall into that trap.  We need to pay special attention. The deep thinking Christians that I know don’t claim that the Bible is the source of mortality, but that we know morality. In other words, they say that God created it and wrote it on our hearts. That will also admit that Christians and atheist alike have the same morals written on your hearts. That’s what gives them the arrogance to claim that atheist are ignoring the morals of God, which they know through this mechanism. 
+
+Also, it’s odd that Turek credits the nature of God with the source of these moral guidelines. He’s not saying that God decided that ex is moral and why is immoral, but rather God had no choice in this. It comes from God‘s nature means that The way God is reflects the morality of the universe. 
+
+An atheist doesn’t see it much different than this. The nature of God is the nature of the universe. There can be no difference. Even for a Christian, they understand that if God has a nature, then clearly the universe he creates will have that nature as well, or lease will be created according to that nature.
+
+Atheist recognize that the universe has a nature. There is a certain way that the universe is. We talk about physical laws, and we understand that there are facts about the universe which reflect the nature of the universe. There’s no functional difference between the nature of the universe and the nature of God, other than the Christian believes that there’s some sort of intelligence there while the atheist believes that that nature exists without anything like a human intelligence.
+
+So if we believe that morals are in fact from the nature of the universe, then there’s not that much difference between the atheist and Frank Turek.
+
+We might also have a discussion of what it means to be intelligent. If intelligence is the ability to make the decisions, then can’t we say that evolution itself is intelligent. I’m not saying that there is an intelligence behind evolution that steps in and makes decisions, but rather the process of evolution itself Forms a decision making mechanism. That is evolution, decides on the better animal by simply creating all possible animals and killing the ones that aren’t the best. That may not strike you immediately yes being in intelligence, but the more we learn about human intelligence the more we find that that’s pretty much what humans do. We imagine a set of possible future scenarios, and then we eliminate those scenarios which appeared to have a bad outcome. Ultimately, we pick the scenario that we think is going to be best. It’s a kind of an evolution of ideas.  
+
+The same question might be asked about the trait of creativity. A creative person will start with some sort of brainstorming about what is possible and then eliminate those things that either can’t be done or don’t work out. Creative person has no control over the ideas that occur to them initially. There’s a lot of exercises one can do to try to increase the number of possible opportunities that you think of, but at the end of the day, an idea either comes to you or it doesn’t. From that point on it’s a matter of selecting the best, putting these ideas to some sort of competition, and then choosing. Can’t one say that evolution is creative in the same way? Again, I’m not suggesting that evolution has thought processes and has some sort of a mental place where these ideas are sort out. Clearly, I’m talking about simply creating all of the forms that can be created, and then ultimately selecting the best ones. 
