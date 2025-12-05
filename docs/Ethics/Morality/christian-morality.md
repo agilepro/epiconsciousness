@@ -5,6 +5,12 @@
 
 Theists in general agree that morals must be objective, and they see these morals coming from God.
 
+:::tip
+
+Bob feeds the orphans. This is a good act because God commands us to take care of vulnerable children. Sam does not feed the orphans.  This is bad for the same reason.   If God had not commanded this, the act of feeding orphans would be neither good nor bad.
+
+:::
+
 ## Moral Foundation Needed
 
 Christians rightly argue that without objective morality, there can be no basis for talking about what one should and should not do.  If my morals can be different from your morals, then anything I do is right, and anything you do is right as well.  
