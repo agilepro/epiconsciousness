@@ -9,6 +9,11 @@ Subjective does not necessarily mean related to feeling; it simply means that it
 
 To say that a morality is subjective is to say that what is _good_ varies from person to person.  _Good_ is by this reasoning nothing more than the opinion of an individual or a tribe.  This elevates a preference to be the very definition of what is absolutely good, at the same time eliminating the possibility that a preference might be wrong.
 
+:::tip
+
+Bob feeds the orphans. We (the observers) can say that this is a good act if we feel that helping vulnerable children is a good thing to do and makes us feel good. Sam does not feed the orphans. We can say that Sam's action is bad, because it feels bad to leave children vulnerable to starvation.
+:::
+
 ## Meaning Of Subjective
 
 The best example of a subjective claim is that of your favorite flavor of ice cream.  When faced with choosing a flavor, however you pick that is based on your own memory of experiences in the past, and your own estimation of what you would like to experience today.  If you decide that "Cherry Garcia" is your favorite flavor, then that is what your favorite flavor is.  
