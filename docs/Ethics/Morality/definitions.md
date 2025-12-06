@@ -3,36 +3,36 @@
 ---
 # Terms of Discussion
 
-We start with some definitions of terms, none of which are intended to be controversial, but but just saying that in this work I will use these terms in this way.
+We start with some definitions of terms, none of which are intended to be controversial.  In this work I will use these terms in these ways.
 
-**good/right** - Good has many meanings.  Actions, qualities, or principles are morally good when they are considered right, virtuous, benevolent, and beneficial.  Doing the right thing, is to act morally good.  Such as being kind to people is morally good.  Instead of saying something is physically good for you, we can use the term beneficial.  So that there is no confusion, if something feels good, we will call it pleasurable.  If something tastes good, we will call it delectable.  Instead of saying that the student picked the right answer, we will use the term correct answer.
+**good/right** - Good has many meanings, but we will stick to the meaning of morally good.  Actions, qualities, or principles are morally good when they are considered right, virtuous, benevolent, and beneficial.  Doing the right thing, is to act morally good.  Such as being kind to people is morally good.  Instead of saying something is physically good for you, we can use the term beneficial.  So that there is no confusion, if something feels good, we will call it pleasurable.  If something tastes good, we will call it delectable.  Instead of saying that the student picked the right answer, we will use the term correct answer.
 
-**bad/evil/wrong** - We will use these words interchangeably to mean simply morally bad, the opposite of morally good.  The word 'evil' will not necessarily used to mean profoundly bad, but just the action is not morally good.  Instead of saying that the student picked the wrong answer, we will use the term incorrect answer.  If I use the term 'sin' it will mean the same as bad or evil.  
+**bad/evil/wrong** - We will use these words interchangeably to mean simply morally bad, the opposite of morally good.  The word 'evil' will not necessarily used to mean profoundly bad, but just the action is not morally good.  Instead of saying that the student picked the wrong answer, we will use the term incorrect answer.  If I use the term 'sin' it will mean the same as a bad or evil action.  
 
-**good life** - means a morally good life, a life where the actions you make are morally good, but at the same time quite possibly be beneficial for you and your tribe.  The good life is a life where you make all the best decisions along the way so that you always maintain what Aristotle calls the golden mean where you neither sacrifice too much, nor do you squander too much.  A life with neither excess nor deficiency.  
+**good life/eudaimonia** - means a morally good life, a life where the actions you make are morally good, but at the same time quite possibly be beneficial for you and your tribe.  The good life is a life where you make all the best decisions along the way so that you always maintain what Aristotle calls the golden mean where you neither sacrifice too much, nor do you squander too much.  It is a life with neither excess nor deficiency.  
 
 ## Morality vs. Ethics
 
 Morality and ethics are guidelines for finding the good life.  I won't be giving you any specific guidelines, but instead discussing how these guidelines have come about and the reason why we should be able to trust them.  There is a subtle difference between these terms:
 
-**Morality** - Refers to personal beliefs about right and wrong, often shaped by cultural, religious, or personal values. It's more subjective and can vary greatly between individuals and societies.
+**Morals** - Refers to personal beliefs about right and wrong, often shaped by cultural, religious, or personal values. They are more subjective and can vary greatly between individuals and societies.
 
 **Ethics** - Refers to systematic rules or principles governing conduct, often established by professional organizations, institutions, or societies. Ethics are more objective and provide a framework for making decisions in various contexts.
 
-Both of these terms are about living the good life.  Both of them define what you should do.  I will tend to use them *interchangeably* since the basis for morality and ethics are the same: guidelines to the right way to act.
+**Morality** - Refers to the idea that specific actions can be identified as either leading towared or away from the good life.  We attempt to identify whether an action is good or bad through the use of moral rules (which are simplistic approximations) or moral guidelines (which more complete yet often intractible).
 
 ## Basic Terms
 
-**Morality (& Ethics)** - is concerned with distinguishing what is right from what is wrong; good from evil; sin from virtue.  In all cases we are talking about *conduct* which is actions that and agent does.  Here are some definitions from dictionaries:  
+Morality is concerned with distinguishing what is right from what is wrong; good actions from evil actions; sin from virtue.  In all cases we are talking about *conduct* which is a set of actions that an agent does.  Here are some definitions of morality from dictionaries:  
 
 *   a doctrine or system of moral conduct
 *   conformity to ideals of right human conduct
 *   The quality of being in accord with standards of right or good conduct
 *   A system or collection of ideas of right and wrong conduct
 
-**Actions** - are things a person might decide to perform.  An action can be measured by morality.  Morality, simply put, is a way to distinguish good actions (those which you should do) from bad actions (those which you should not do).  It is a way of measuring the goodness of an action.
+**Acts/Actions** - are things a person might decide to perform.  Everything that we actually do is composed of actions.  Morality, simply put, is a way to distinguish good actions (those which you should do) from bad actions (those which you should not do).  Note that the term _should_ is used simply to connote that an action is good.  The morality of an action is only important if someone can decide whether to do it or not.
 
-The morality of an action depends not only on the act itself, but also the context as well as who is involved.  Starting a fire in a campsite fireplace is probably a good action, starting a fire in a crowded airplane definitely a bad action.   The entire situation must be measured and compared with other acts that could be performed in that situation.
+**Context** - The morality of an action depends not only on the act itself, but also the context which is the situation around the action and everyone who was involved.  Starting a fire in a campsite fireplace is probably a good action, starting a fire in a crowded airplane definitely a bad action.   The entire situation must be considered when assessing the morality of an action.
 
 **Agent** - is the person deciding to do the action.  I will use this interchangeably with person, but they are not always equivalent.
 
@@ -57,15 +57,7 @@ We will spend a lot of time exploring what it means for morals to be subjective 
 *   not influenced by personal feelings, interpretations, or prejudice; based on facts; unbiased
 *   intent upon or dealing with things external to the mind rather than with thoughts or feelings
 
-## Context and Locality
 
-When considering whether an action is moral or not, we must consider the context.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
-
-Notice that there is a built in assumption that the morality of an action can be judged by the immediate local circumstances: usually a physical area of a few meters, a time duration of less than an hour, and a participant dimension of only one or two people.  
-
-Cheating on a test involves the person taking the test at the time and location that the test is given.  We assume that a passenger getting on a flight in Hong Kong, or a hunter in the middle of Alaska will have no relevance to this decision.  We normally also assume that it has nothing to do with the student sitting next to the cheater.  Thus normally morals actions are judged only by circumstances in their locality, and we can ignore the other 8 billion people on the planet.
-
-Of course there could be occasions where things far and wide actually are relevant.  We might call those *extenuating circumstances*.  Circumstances matter, so morality must take that into account.  The "thou shall not kill" needs to include details like "except if in self defense" or "except if it is an insane sniper in a tower" and a host of other exceptions.
 
 ## Layers and Scope
 
@@ -89,7 +81,7 @@ Sometimes a minority group embedded in a larger culture may be faced with confli
 
 Finally it is also possible there is a tension between the top two.  A culture may adopt practices it views as moral but in fact turn out to be immoral.  Two examples: bloodletting and slavery.
 
-## A Rule is Approximate
+## A Rule is Approximate -- move to the "rule" page
 
 We will talk about morals as being the rules we live by, but remember that rules themselves are only approximate expressions of the real moral.  A couple reasons for this:
 
