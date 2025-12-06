@@ -1,27 +1,29 @@
 ---
   sidebar_position: 3
 ---
-# What is a Good Act?
+# What is a Good Action?
 
 What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe "moral valence" (the measure of how good/bad an action is) come from?
 
-## We Care About Acts
+## We Care About Actions
 
-An act (or action) is something that affects the world and changes it.  The moral value of that act is strictly about the consequence of that act.  If the result of the action bring about an overall benefit to the world, then it is a good action.  If the result causes harm in the world, then it is a bad, or evil, action.
+An act (or action) is a movement that affects the world that some agent decided to do.  Thinking about something is not an action.  Nor is imagining something an action.  Movement that occurs without an agent deciding to do it, such as a snowstorm or a flower blooming, is not an action either.  Normally all the non-action things that occur after an action, and yet correlated with it, are considered part of that action.  For example an arsonist decides to light a house on fire, and the subsequent burning down of the house would be considered all part of the same action.
 
-_Wait, that is too easy.  What if you don't want to do the morally good action?_  I am not saying that a moral action is an action that the agent likes.  A heroine addict probably likes the hit of the drug, but liking it certainly has no bearing on whether the act is good or not.  Liking and action, and disliking an action is completely different from whether the action is beneficial or not.
+The moral value of that act is strictly about the consequence of that act.  If the result of the action bring about an overall benefit to the world, then it is a good action.  If the result causes harm in the world, then it is a bad, or evil, action.  This is known as _Consequentialism_.  
+
+_Wait, that is too easy.  What if you don't want to do the morally good action?_  I am not saying that a moral action is an action that the agent likes.  A heroine addict probably likes the hit of the drug, but liking it certainly has no bearing on whether the act is good or not.  Liking an action, and disliking an action, is completely different from whether the action is beneficial or not.
 
 _The right thing to do is not always beneficial to us._  Morality is about the success of the tribe, not necessarily the individual.  Moral guidelines help us to live together successfully, and by that means helping to assure the survival of all, but not always everyone.  A soldier going off to war is doing the right moral thing for his country and his community, but they are also taking a big risk personally.  Still, most soldiers do come home and the net benefit to their family and community is substantial.
 
 _What about two people who do the exact same thing?  For example "lighting a fire."  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
 
-## Acts in Context
+## Actions in Context
 
-The action is not simply a movement of an agent, but it is the movement of that agent in the context of where they are, and quite possibly all the other people involved.  The exact same movement might have completely different results.
+The action is not simply a movement of an agent, but it is that movement in the context of where they are, and quite possibly all the other people involved.  The exact same movement might have completely different results.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
 
 For example, yelling "Fire" in a crowded theater when there is no fire is a well known bad thing to do, because people are likely to get hurt in the rush to get outside.  But obviously if not in a theater, and if there is a fire, then it would probably be a good thing letting others know about the danger.  We need to consider the specifics around a particular act, and the context it was performed in, and then consider the specific outcome, to decide if the act was good or bad.
 
-Consider the act of "slicing meat". Is that good or bad.  Well it depends.
+Consider the act of "slicing meat". Is that good or bad?  Well it depends.
 
 * If done by a cook, preparing a meal, it is probably a good thing.
 * If done by a thug slicing an innocent bystander, it is probably a bad thing.
