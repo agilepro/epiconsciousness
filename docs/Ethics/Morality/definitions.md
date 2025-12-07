@@ -81,25 +81,5 @@ Sometimes a minority group embedded in a larger culture may be faced with confli
 
 Finally it is also possible there is a tension between the top two.  A culture may adopt practices it views as moral but in fact turn out to be immoral.  Two examples: bloodletting and slavery.
 
-## A Rule is Approximate -- move to the "rule" page
 
-We will talk about morals as being the rules we live by, but remember that rules themselves are only approximate expressions of the real moral.  A couple reasons for this:
-
-**Brevity**: a rule can be stated in a brief sentence: "don't break windows".  For most windows you encounter -- probably more than 99.99% of them -- if you follow this rule you will be safe.  But occasionally there are situations that are exceptions.  If there is a fire, and someone is trapped inside, it is OK to break the window to save them.  We put glass in front of fire alarms for the same reason: if there really is a fire then breaking the window is preferable to letting the fire burn down the house.  
-
-**Classification**: Rules talk about a set of actions which are categorized in a certain way.  For example:
-
-* Using a knife to slice meat 
-* Using a knife to slice a person 
-* Using a knife to remove a ruptured appendix from a person 
-
-The first is a good action normally part of preparing food.  The second adds context to describe an attack which is bad.  The third adds more context to refine the situation into surgery which might be life saving and good.  
-
-To recognize an action, we need to "slice it out" of reality: that is we select a set of facts that we believe relevant to the situation, and then we classify according to those facts.  From whatever is happening, we need to classify the action into some identified form which can then be subject to rules.  The classification of actions is culture dependent.  The same actual occurrence might be classified several different ways, by different people, using differing levels of detail.
-
-**Scope**: It is generally the case that the action can be defined by the immediate surroundings at the time, but in some cases situations quite far away or removed in time might have relevance.  An act that is permissible in private, might be illegal in public.  An act performed in one city or state might be legal while the same act in a different state is illegal.  It is possible that an occurrence on the other side of the world has bearing.  Considering the entire state of the entire universe is not possible nor reasonable, so some judgement needs to be used to assure that enough scope is included to decide the morality of an action.
-
-**Exceptions**: To keep the rules brief, there is an understanding that for every rule there are a number of exceptions which counteract the regular rule.  In an emergency, a lot of things become permissible, but then what exactly is an emergency?   What are all the exceptional situations for breaking a window?  In a perfect moral system it might be that every rule would be complete and would stand alone and unambiguous, but those rules would be incredibly detailed, impossible to learn, impossible to recite, and not usable on a daily basis.
-
-The conclusion is that when we talk about morals, we need to express them in terms of rules or laws which are by their very nature approximate, and can not possibly describe accurately what is and is not moral.  They work more like 99% of the time, with the remaining 1% unspecified.
 
