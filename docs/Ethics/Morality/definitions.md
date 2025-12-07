@@ -21,7 +21,9 @@ Morality and ethics are guidelines for finding the good life.  I won't be giving
 
 **Morality** - Refers to the idea that specific actions can be identified as either leading towared or away from the good life.  We attempt to identify whether an action is good or bad through the use of moral rules (which are simplistic approximations) or moral guidelines (which more complete yet often intractible).
 
-## Basic Terms
+**Moral Optimum** - Refers to the idea that there could be a moral guideline that describes the best way to behave across any given context.  Simply put: for any given situation, from the set of all possible actions, there is a best action to choose.  Nobody knows the moral optimum for sure, but we strive to approximate this optimum as best we can.
+
+## Morals in Action
 
 Morality is concerned with distinguishing what is right from what is wrong; good actions from evil actions; sin from virtue.  In all cases we are talking about *conduct* which is a set of actions that an agent does.  Here are some definitions of morality from dictionaries:  
 
@@ -65,7 +67,7 @@ To be able to talk about morals clearly, we need to distinguish between the mult
 
 ![image showing four layers of morality](moral-layers.png) 
 
-**Universal Morals** - This is the ultimate valuation of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not universally moral because of differing understanding.  These apply universally across space and time however they might be different at different places and times.  They are extremely complex in order to account for all the possible extenuating circumstances.
+**Moral Optimum** - This is the ultimate valuation of whether a specific action was actually good or bad.  These are objective, however people might disagree on what is and is not the optimum action because of differing understanding.  These apply universally across space and time however different actions might be optimum at different places and times.  A moral guideline that approaches the moral optimum will be extremely complex in order to account for all the possible extenuating circumstances.
 
 **Cultural Values & Laws** - Cultures will embody statements about what is and is not good, usually expressed as a rule to follow.  Some of these are formally written and adopted as laws.  Moral rules and laws are different degrees of the same thing: they both encourage (or enforce) behavior which is considered to be good.  Some cultural values are less explicit, and appear only as guidelines or simply a shared idea among the participants of the culture.  Laws exist from local, to community, to city, to state, to country, and somethings the whole world.  Laws will occasionally conflict with each other.  Because these are rules, they only approximate the real moral valence.  The term **ethics** generally plays at this level.
 
