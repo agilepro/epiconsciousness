@@ -69,6 +69,13 @@ Everyone can clearly see that a robot is not a living system, and yet the compar
 
 There is a false equivalency: robots and humans are both complex, and all complex things are formed the same way by an intelligent creator.
 
+## Ginger Bread Men
+
+
+![](./ginger-cookie.jpg)
+
+Another silly example.  Ginger bread "men" are being compared to real humans because they have lobes that represent legs and arms.
+
 ## Not All Complexity is the Same
 
 :::tip [Key Takeaway]

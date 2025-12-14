@@ -86,3 +86,15 @@ When you realize that every baby is a change from the parents, then you see that
 With this comes the realization is that “whales” don’t exist as a thing in the world, but instead there are things in the world that we categorize as whales because of their features.  The population of whales is not identical: there are all kinds of variations: size, weight, slight body proportions, coloration, etc.  The population centers around a collection of properties that one might call the “ideal whale” but no single whale is exactly the same as the ideal whale.  
 
 The human mind wants to categorize all whales as one thing: whales.  This is to reduce the amount things we need to remember about the world.  Treat all whales like whales, and you can ignore their individual differences.  The difficulty of understanding of evolution is SIMPLY because the mind is not able to think about all animals in the world as individuals.  Our simplified view of the world makes it challenging then to see evolution as it works.
+
+## Linear Extrapolation
+
+There is absolutely nothing invalid about doing a linear extrapolation, that a small change over a small amount of time implies a large change in a large amount of time.
+
+You are saying: I watch someone walk 20 feet, but it is a hasty generalization to say that in 10x as long they can walk 200 feet. If a builder builds 2 chimneys in a day, it is a hasty generalization to say that they can build 20 chimneys in 10 days. That is ridiculous.
+
+A linear projection is not only logically valid, but also the most reliable prediction absent any information to the contrary.
+
+However, it is the creationist who "invents" a barrier saying there is an essential difference between "kinds". A dog has essential dogness and could never change into a fox, because a fox has foxness. That fabrication that there is some essential difference between species has never been substantiated by anyone.
+
+But the real reason is emotional: the creationist says "no way in hell I am related to any apes". I just don't FEEL like I am descended from any other animals. So I will make up a bogus reason, claiming that DNA change simply can't account for it. Understand that you reject evolution because you just don't feel like it is true, and no other good reason.

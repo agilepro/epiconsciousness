@@ -5,9 +5,9 @@
 
 What does it mean to say that an action is morally good?  What makes a particular action morally bad?  Where doe "moral valence" (the measure of how good/bad an action is) come from?
 
-## We Care About Actions
+## Only Actions Matter
 
-An act (or action) is a movement that affects the world that some agent decided to do.  Thinking about something is not an action.  Nor is imagining something an action.  Movement that occurs without an agent deciding to do it, such as a snowstorm or a flower blooming, is not an action either.  Normally all the non-action things that occur after an action, and yet correlated with it, are considered part of that action.  For example an arsonist decides to light a house on fire, and the subsequent burning down of the house would be considered all part of the same action.
+An act (or action) is a movement that affects the world that some agent decided to do.  Thinking is not an action.  Imagining is not an action.  Movement that occurs without an agent deciding to do it, such as a snowstorm or a flower blooming, is not an action either.  Normally all the non-action things that occur after an action, and yet correlated with it, are considered part of that action.  For example an arsonist decides to light a house on fire, and the subsequent burning down of the house would be considered all part of the same action.
 
 The moral value of that act is strictly about the consequence of that act.  If the result of the action bring about an overall benefit to the world, then it is a good action.  If the result causes harm in the world, then it is a bad, or evil, action.  This is known as _Consequentialism_.  
 
@@ -17,13 +17,14 @@ _The right thing to do is not always beneficial to us._  Morality is about the s
 
 _What about two people who do the exact same thing?  For example "lighting a fire."  One person does it in a fireplace to heat the room full of freezing people.  The other person does it on a crowded airplane while it is flying._  Those are different acts, because they occur in different contexts.  The next section is about how the result of an act depends on the context, and the same physical movement might have completely different outcomes.
 
+
 ## Actions in Context
 
-The action is not simply a movement of an agent, but it is that movement in the context of where they are, and quite possibly all the other people involved.  The exact same movement might have completely different results.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
+The action is not simply a movement of an agent, but it is that movement in the context of where they are, and all other people involved.  The exact same movement might have completely different results.  Breaking glass is normally a bad thing to do, but if there is a fire then breaking the glass to get to a fire alarm is considered a good thing.
 
 For example, yelling "Fire" in a crowded theater when there is no fire is a well known bad thing to do, because people are likely to get hurt in the rush to get outside.  But obviously if not in a theater, and if there is a fire, then it would probably be a good thing letting others know about the danger.  We need to consider the specifics around a particular act, and the context it was performed in, and then consider the specific outcome, to decide if the act was good or bad.
 
-Consider the act of "slicing meat". Is that good or bad?  Well it depends.
+Consider the act of "slicing meat". Is that good or bad? It depends.
 
 * If done by a cook, preparing a meal, it is probably a good thing.
 * If done by a thug slicing an innocent bystander, it is probably a bad thing.
@@ -61,6 +62,16 @@ Even humanity is not quite inclusive enough.  We talk about animals rights along
 
 This might be something that is shown to be good for you, and good for your tribe, but is it really _good_ in the moral sense?  _What if you or your tribe are actually bad and it would be a good thing to wipe you out._
 
-This argument is appealing to the mystery of morality, the idea that an action can only be moral if the action was commanded by a superior being.  It is also a dismissal of the idea that an action can actually be moral in itself and because of its consequences.  This debate was argued by Socrates in Euthephro which presents a dilemma: either there are moral truths that transcend even God, or else moral value are arbitrary and simply picked by God.  You can't have it both ways.
+This argument is appealing to the mystery of morality, the idea that an action can only be moral if the action was commanded by a superior being.  It is also a dismissal of the idea that an action can actually be moral in itself and because of its consequences.  This debate was argued by Socrates in Euthyphro which presents a dilemma: either there are moral truths that transcend even God, or else moral value are arbitrary and simply picked by God.  You can't have it both ways.
 
 To think that moral value of something is arbitrary and simply picked by omniscient god means that moral values are not real, but only arbitrary.  Some believers might decide that is more comfortable to them, but we need not believe in the arbitrary moral maker.  There are good ways that the actions produce good results as a consequence -- on average across many people and in the appropriate situations.  The moral value of such actions are not arbitrary.  There exist moral truths, and the next chapter goes into detail on how these exist and how they come about.
+
+## Moral Propositions don't Matter
+
+Some people like to frame the moral debate in terms of propositions (statements that something is good or not) and whether those statements are true or false.  
+
+This is a dead end, because a proposition can be never be complete.  You can saying "lying is bad" but that can never be completely true or completely false because it does not include the context, nor does the work "lying" clearly define a specific set of actions.  Until you actually lie, in a specific context, and in whatever way you do it, you can never be certain it will be good or bad.
+
+Avoiding stating the meta-ethics in this way avoids a lot of problems.  For example the moral nihilists (a.k.a. error theorists) claim that no moral statement can ever be made, because those statements are actually about imperative commands, wishes, or desires, and not about the morality of the situation.
+
+A phrase of any sort will never be a complete description of any situation, and thus we can't just the description, we can only judge an actual act in a particular context.  The moral rules are approximations which are simplifications that are useful, but they are not themselves actually correct about right and wrong.
