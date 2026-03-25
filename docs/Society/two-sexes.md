@@ -13,3 +13,26 @@ Philosophical confusion often arises from conflating biological sex with gender 
 My current conclusion: 
  
 There are only two biological sexes within the human species because sex is defined by reproductive function, rooted in gamete production, and universally expressed in male and female forms. Intersex conditions do not constitute a third sex but variations of the two. Philosophically and biologically, the binary classification of sex is sound, coherent, and necessary for conceptual clarity.
+
+## Chromosome Counting
+
+“It’s a scientific fact that humans come in two varieties: XX for female and XY for male.” Except:
+
+* You can be born appearing female, but have a 5-alpha reductase deficiency and grow a penis at age 12.  This is known in the Dominican Republic as _guevedoces_.
+
+* You can be born legally male with an X and a Y chromosome, but your body is insensitive to androgens, and you appear female.
+
+* You can be born legally male with an X and a Y chromosome, and have a penis and testes, and a uterus and fallopian tubes.
+
+* You can be born legally male with an X and a Y chromosome, but your chromosome is missing the SRY gene, which gives you a female body.
+
+* You can be born legally female with two X chromosomes, but one of the Xs has an SRY gene, which gives you a male body.
+
+* You can be born legally female with two X chromosomes — and also a Y chromosome, which gives you a male body.
+
+* You can be born legally female with two X chromosomes, but your adrenal gland doesn’t produce enough cortisol, and your body develops as a male.
+
+* You can be born with XX chromosomes — and XY chromosomes (chimerism).
+
+So the next time you attempt to use science as justification for your bigotry, remember that God created humans in many variations, and maybe stop trying to stuff everyone into little “male or female” checkboxes.
+

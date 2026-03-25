@@ -76,6 +76,51 @@ When you enter the ice cream store, and pick Cherry Garcia, rest assure that tha
 
 Some people worry that if their choices are determined, that it means something else is running their bodies, and they have no choices.  It is the opposite.  You actually determine your choices as fully as you might if you had a free floating soul.  There is nobody else making those choices for you.  Sure, you always choose the course that fits your needs and desires, and so that is somewhat predictable, however it is exactly what you **want** to do.
 
+## Concise Explanation
+
+Free will _by definition_ can not exist in a determined world.  The "free" in free will means _undetermined_.
+
+We don't actually want our wills to be undetermined, that would be randomness.  Instead, we want them to be determined by us.  I want my will to be entirely determined by my needs and desires.  The last thing I want is a completely free will.  We want **self will**.
+
+The confusion exists because of thinking that "thinking" is outside the universe, and there for any will determined by thinking would need to be free of constraints within the universe.  But that is a mistake. Thinking is a process that goes on WITHIN the universe, and we want our will to follow our thinking.  Therefor we actually want a will that is determined by our thinking, and thoughts are part of the universe.
+
+Yet the universe itself is not entirely determined: there exists quantum indeterminism.  That gives the universe enough freedom (randomness) that our thoughts actually determine our will.  We actually do make decisions, but we do so precisely because will is _not_ free.
+
+## Background Randomness
+
+Our self will is enabled by another aspect of the universe: quantum indeterminism also known as quantum randomness.
+
+Each of us has physical needs and desires which operate completely deterministically. The quantum indeterminism creates a random background UPON which our deterministic needs and desires then dominate. 
+
+If I desire to go to the store today, there will be millions of little barriers I will have to overcome (I have to open the door, I have to start the car, etc). But my desire to go to the store dominates what actually happens to me, because I **resist** the background opposing things I find in nature. My consciousness actively fights against the things that would prevent me from going to the store.
+
+Quantum randomness also prevents (in most cases) my actions from determining your actions. It acts like a lubrication allows each of us to determine our own course.  Without quantum indetermination, we would all be locked together and rigidly determined by every action that happened before us.  A small breeze might cause us to do what we don't want.
+
+## Where is the Self?
+
+Some people imbue some special magical meaning to their concept of "self". The Buddhist "anatman" is denying something that I don't understand why anyone would believe exists. There clearly is a concept of self that is just as elusive as that of free will.
+
+My concept of self is quite a bit more pragmatic: The self is your skin and everything within it. There is a locus of control. I can talk to people and am convinced they are conscious entities. (Actually the self is a little more extended than that, but lets not digress.) This concept of self is certainly pointing at something that exists.
+
+
+
+## Questions
+
+> Your "self will" simply steals the "job" of "free will" by making a mockery of "free will" and trying to claim it's something other than what it is according to the Stanford Encyclopedia of Philosophy.  
+
+A couple things, I appreciate your comment, you are NOT wrong, but it is a little more complicated -- and I am taking some shortcuts. You should read and understand that Stanford page in the fullest.
+
+Yes, traditionally it has been dualists who see a separation between the universe and the soul that argue specifically that the will is determined by the soul, but NOT by anything in the universe. They then say that the soul is not determined by anything in the universe either. It is free of the universe, which means it would be free of material needs like hunger, air, not bleeding out, etc. I am not exaggerating this: they believe that everything you do is a sheer force of will that is not determined by anything in the universe.
+
+I am not mocking free will, I am trying to show the logical consequences of the above mentioned beliefs which are incoherent. You can't have it both ways at the same time.
+There is no evidence that the soul lives outside the universe. If you believe the soul is separate from the universe than we have politely agree to disagree, because nothing else I say will make sense.
+
+Once you accept that the mind is actually part of the universe, you recognize that it must be determined, and it is determined in a way that keeps you alive. If it didn't, you would have died long ago. It is actually a very good thing that it is determined. You learn that lions are scary, and you avoid going anywhere near them. These are not arbitrary acts unrelated to the universe, but in fact the well operating determined machine of the mind.
+
+To insist then that the soul is not determined by the universe, by what you have learned about the universe, would leave you -- if you draw the logic to the conclusion -- that your soul would make choices unrelated to your situation, and possibly quite deadly, random ones.
+
+If you go back to the Stanford page, you will see that they cover all possible meanings of free will, including the position take here, but also including all the competing positions.
+
 ## References
 
 See more on Free Will:
@@ -83,3 +128,13 @@ See more on Free Will:
 * [Self Will is Determined](self-determined.md) - a page explaining how _self will_ is compatible with determinism.
 * [Determinism and Free Will](../Consciousness/you-cant-feel-brain#determinism-and-free-will) - how you can't feel your brain work, and that adds to the illusion that your will is free.
 * [A Tale of Two Riddles](../Philosophy/tale-of-two-riddles) - a longer poetic view of the topic
+
+
+## Extras
+
+
+Then as for "will" these are simply the thoughts that drive your actions. Thoughts are real physical things, they are processes that happen in the brain. So in that sense the will is just as real as the brain is.
+The causal chain is all the interactions that involve conservation of energy and momentum. You swing the bat, it hits the ball, the ball flies away. The original swinging was caused by thoughts in your brain. The causal chain should be clear -- except it includes everything that interacts with anything, NOT just the thing people identify as being "the cause". That is basic determinism.
+At the same time, you have completely random events happening. The interrupt the flow of determinism by injecting non-deterministic energy and momentum into a part of the system.
+Pay attention to how this affects the world. If a lonely atom is whizzing by, it's course might be altered completely. However, an atom in a emergent structure, such as a solid, would NOT be greatly effected, because the emergent properties of the solid RESIST these incidental random events.
+You (your brain, your body, your memories) are emergent structures which resist the quantum indeterminism, but the quantum indeterminism does interfere with the sea of material we are floating in. Without the indeterminism, my decision to move my little finger might ultimately affect your choice to go out for dinner because everything thing is lock-step tied together. The quantum indeterminism breaks that lock step, allowing the separate emergent structures to function INDEPENDENTLY.

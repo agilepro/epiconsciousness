@@ -26,7 +26,10 @@ Let me define love thus:
 
 Love is a verb. There is a feeling that goes along with it, that possibly motivates people to commit loving acts, but that feeling is not love, the act is love.
 
+The psychologist [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm) argued in "_[The Art of Loving](https://www.goodreads.com/book/show/14142.The_Art_of_Loving)_" that love is not primarily a feeling but an act of will — a practiced skill involving care, responsibility, respect, and knowledge of another person. On this view, love is something you do, not just something that happens to you.
+
 This definition is perfectly accessible to theists and atheists alike. Clearly the greater disparity between the act and the reward, the greater the love. A mother toils for 18 years caring for a child, never really needing any promise of getting anything back. A community group builds a monument for fallen soldiers, never expecting to be paid back for their work in this. A rich man like Carnegie builds libraries across America because of his love of the country and the people, not expecting to get paid back. And, not the least, leaders get together to make a church to help others in their community learn what they believe to be the truth, and to help them live good lives — this too is love. Even the story of Jesus giving a life for the benefit of others is a loving act as well by this definition.
+
 
 ## That Lovin’ Feeling?
 

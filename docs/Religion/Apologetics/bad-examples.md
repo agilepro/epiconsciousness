@@ -23,7 +23,7 @@ Of course paper clips don't evolve. They are completely unlike life, which repro
 
 Why do Christians use this ridiculous example of a paper clip being designed? There are millions of things that don't evolve, but that says nothing about life evolving. Is everyone here so blind as to be unable to see how things that don't reproduce don't evolve?
 
-# Mechanical Arm
+## Mechanical Arm
 
 ![Mechanical Arm](./mechanical-arm.jpg)
 
@@ -75,6 +75,13 @@ There is a false equivalency: robots and humans are both complex, and all comple
 ![](./ginger-cookie.jpg)
 
 Another silly example.  Ginger bread "men" are being compared to real humans because they have lobes that represent legs and arms.
+
+## Light Bulb vs. Sun
+
+
+![](./bad-example-lightbulb.png)
+
+Another silly example.  The only similarity between a light bulb and the sin is that they both produce light.  A light bulb does it by flowing electricity heating up a filament, while the sun is fusing hydrogen to make helium, as well as a few other nuclear reactions.  This is truly a case of some aspect of these objects are similar: therefor it is silly to claim they were made through different means.
 
 ## Not All Complexity is the Same
 
