@@ -1,6 +1,6 @@
 # Living Things
 
-Living organizms are such an obvious example of self-organization it seems unnecessary to mention it.  After all, the word 'organism' is based on the root of 'organization'.  Here is a depiction of a single cell:
+Living organisms are such an obvious example of self-organization it seems unnecessary to mention it.  After all, the word 'organism' is based on the root of 'organization'.  Here is a depiction of a single cell:
 
 ![](living-things.jpg)
 

@@ -61,9 +61,13 @@ All good scientists know that you can not trust your intuition.  Therefor you mu
 
 For phenomena found outside our scale of living and timescales, we absolutely must ignore whatever intuition you might feel you have.  Even within the scale of everyday life, we still need to ignore intuition, and seek an actual demonstration to show what is and is not true.
 
-## Resources
+## Making Sense
 
+When debating about evolution, "making sense" to a Christian means "I have seen it happen in my day-to-day experience" as they go about their life.  They also limit their experience to scales that they can experience: chemical changes happen on the molecular scale and only sensed if the result is somehow big enough;  things that happen to fast to see are not part of that experience, as well as things that are too slow to see.
 
+Christians believe that everything in the universe should be intuitive.  However intuition is based on your daily experiences.  We don't experience the kinds of change of evolution on a day-to-day life.
+
+So, because they don't experience it day-to-day, they say "it doesn't make sense".
 
 ## Questions and Answers
 

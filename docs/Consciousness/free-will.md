@@ -102,7 +102,20 @@ Some people imbue some special magical meaning to their concept of "self". The B
 
 My concept of self is quite a bit more pragmatic: The self is your skin and everything within it. There is a locus of control. I can talk to people and am convinced they are conscious entities. (Actually the self is a little more extended than that, but lets not digress.) This concept of self is certainly pointing at something that exists.
 
+Just because your reflective consciousness doesn't know it until a fraction of a second later, does not mean that YOU didn't make the choice.
+That would be like saying "you don't sweat" because you didn't know you were sweating.
 
+## Rewinding the Universe
+
+> You don't make decisions because if we rewind the universe without changing the situation you would _always_ make the same choice.
+
+You seem to be saying that you are expecting the choice to be different if you rewind the universe back.  But that is exactly the opposite of making a decision.
+
+_You_ make the decision based on your needs, desires and the situation. You make the choice that way _because_ you make the choice. That is what we mean by "decide"
+
+If you roll the universe back with the exact same situation, needs, and desires, _of course_ you make the same decision.  Why would you think if would/could be different?
+
+If rolling the universe back meant that you would/could make a different choice in a particular situation, _that_ would mean that _you_ are not making the decision. _That_ would mean that your decisions are **random**, and _not_ based on your needs, desires, and situation.  If you don't make the same choice, it means that _something else_ is making the choice
 
 ## Questions
 
@@ -121,6 +134,14 @@ To insist then that the soul is not determined by the universe, by what you have
 
 If you go back to the Stanford page, you will see that they cover all possible meanings of free will, including the position take here, but also including all the competing positions.
 
+
+>  I would agree that 'you' made the choice, because it was made by your brain. But isn't the point that 'you' didn't consciously make the choice?
+
+You have a mind which is both conscious and subconscious. The subconscious acts in ways that are for the most part trained by the conscious. I don't know which muscles I activate in order to walk, but it is clear that walking is something that I learn consciously and is now run by the subconscious.
+
+Just because your reflective consciousness doesn't know it until a fraction of a second later, does not mean that YOU didn't make the choice.
+That would be like saying "you don't sweat" because you didn't know you were sweating.  You do many things that you are not aware of, but that doesn't mean that something else is doing those things.
+
 ## References
 
 See more on Free Will:
@@ -130,7 +151,9 @@ See more on Free Will:
 * [A Tale of Two Riddles](../Philosophy/tale-of-two-riddles) - a longer poetic view of the topic
 
 
+
 ## Extras
+
 
 
 Then as for "will" these are simply the thoughts that drive your actions. Thoughts are real physical things, they are processes that happen in the brain. So in that sense the will is just as real as the brain is.

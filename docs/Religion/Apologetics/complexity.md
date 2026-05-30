@@ -2,6 +2,8 @@
 
 An online discussion.  Indented comments are the other person.
 
+![](./complexity-false-comparison.png)
+
 ## Complexity Implies God
 
 > One of the things that convinced me that God exists is the order, design, and complexity of the human body. In my experience, where I find order, design, and complexity there is typically an intelligent mind at the origin of the object.

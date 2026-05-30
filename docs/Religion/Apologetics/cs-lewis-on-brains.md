@@ -4,7 +4,7 @@ Here I respond to C.S. Lewis and his twisted logic where he concludes that athei
 
 :::tip [Key Takeaway]
 
-You can trust you brain to work because survival has made it a requirement.  The brains that did not work, led to death and were weeded out long ago.  This is a much stronger reason to believe that brains function, than merely thinking that some entity "made them work".
+You can trust your brain to work because survival has made it a requirement.  The brains that did not work, led to death and were weeded out long ago.  This is a much stronger reason to believe that brains function, than merely thinking that some entity "made them work".
 
 :::
 

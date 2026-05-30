@@ -81,7 +81,13 @@ Another silly example.  Ginger bread "men" are being compared to real humans bec
 
 ![](./bad-example-lightbulb.png)
 
-Another silly example.  The only similarity between a light bulb and the sin is that they both produce light.  A light bulb does it by flowing electricity heating up a filament, while the sun is fusing hydrogen to make helium, as well as a few other nuclear reactions.  This is truly a case of some aspect of these objects are similar: therefor it is silly to claim they were made through different means.
+Another silly example.  The only similarity between a light bulb and the sun is that they both produce light.  A light bulb does it by flowing electricity heating up a filament, while the sun runs on nuclear fusion.  This is truly a case of some aspect of these objects are similar: therefor it is silly to claim that if one id designed, they both must be designed.
+
+## Helicopter and Dragonfly
+
+![](./helicopter-designed.jpg)
+
+Once again, the helicopter has a shape somewhat like a dragon fly, and both the helicopter and the dragonfly "hover", so the logic is that if one was designed, they both must be designed.  Here we also see evolution being described as "chance".
 
 ## Not All Complexity is the Same
 
@@ -90,6 +96,8 @@ Another silly example.  The only similarity between a light bulb and the sin is 
 The deception depends on the false idea that everything that is _complex_ must be made the same way.  That is, if one complex thing was designed, then all complex things must be designed.  If one complex thing was assembled from completed parts, all complex things must be as well.
 
 :::
+
+![](./complexity-false-comparison.png)
 
 This is based on the fundamental belief that anything complex must have been created by a human style intelligence.  A snowflake, for instance, because it is complex in form can not happen naturally but instead the hand of God must be involved in the formation of snowflakes.  The Grand Canyon is a complex network of valleys and waterways that all flow together must have been designed by God.  A bee's honey comb because of its complexity is a miracle of God's making.  Plants obviously grow on their own and grow in incredibly complex forms, but once again this is a miracle from the hand of God and not a natural process.
 

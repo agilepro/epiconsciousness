@@ -86,6 +86,20 @@ I think there are tides in the affairs of people, and it is impossible to unrave
 
 Each generation divides up the world into parts according to their own logic. Some are born into a wealthy family and have many advantages, particularly rent-free living on property owned by parents. Others are born in quite different circumstances without even a place to reliably sleep at night. Nobody has ever said this was fair by any means. Each life builds on what it can.
 
+## Blaming Culture, Imaginary Histories
+
+Cultures don't do anything and bear no responsibility for actions.  Instead individuals do the actions, and may be persuaded by their contemporaries, but at the end of the day, their actions can only be blamed on the actors.
+
+People have claimed that this is telling people to "just get over it." What really is it that we are getting over?  The Greek invaded Egypt and that changed history.  The Romans invaded Greece and that changed history.  The Carthaginians invaded Italy.  The Mongols invaded across Asia to Europe.  
+
+If those had not happened, my fate would be different.  I might in fact be head of a kingdom.  Who is going to pay me for my lost kingdom?
+
+What we are getting over is a theory of what might have been.  Now, you should know that everyone always thinks that things might have been better, and they ignore the possibility that things might have been worse. 
+
+What we are "getting over" is a story about what "might have been" in some imaginary history.
+
+Pursuing such stories are the enemy of solving problems today.  We absolutely know who the actors are today.  Netanyahu and Trump are both guilty of war crimes -- let's see if we can focus on that and actually address problems that have real victims, instead of problems where the victims simply imagine that they might have been harmed relative to a world they imagined.
+
 ## Forward
 
 We have many people today who are harmed by many things. We need to focus on those things. Redlining was a real problem that cheated many people, but it was long ago. Yes, this practice was the cause of many blacks being poor today, but causality after 50 years is tenuous. There are so many other factors. Let focus on the problems of today. People are being cheated today, so let’s end that. Let’s try to make the world fair today. People who are born poor today, lets help them, whether their ancestors were affected by redlining or not. There are still echoes of racism in America today which was almost surely caused by actions 100 and 150 years ago. Let’s address the racism today, whether it was “caused” or not.
