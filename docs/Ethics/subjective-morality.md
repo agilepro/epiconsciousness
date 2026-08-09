@@ -16,7 +16,7 @@ I say instead there is an objective measure of all actions that is independent o
 
 ## Including context
 
-> but there are plenty of such examples where individuals believe same right dont belong to over races for example. I disagree with them. prime example of morality not being universal.
+> but there are plenty of such examples where individuals believe same right don't belong to over races for example. I disagree with them. prime example of morality not being universal.
 
 A lot of times people have a hard time recognizing what is and is not an "action".  We want nice simple guidelines like "lighting fires is bad".  There is a simple, clearly defined action: lighting fires.
 
@@ -26,7 +26,7 @@ Lighting a fire in a fireplace in a cold house with people suffering from hypoth
 
 Lighting a fire on a full airplane while flying is probably a very bad thing.
 
-We can't just talk about the morality of "lighting a fire" without including the CONTEXT.  To make this universal, we have to include all the conditions:  "lighting a fire is good when people need warmth and it is done in a safe way that will not harm people, or when you need to cook food in a safe way, but not when in a pressurized airplane in flight with limited air for people to breath, in a submerged submarine, or in a house with a gas leak, or when close to a car being refueled, etc."
+We can't just talk about the morality of "lighting a fire" without including the **context**.  To make this universal, we have to include all the conditions:  "lighting a fire is good when people need warmth and it is done in a safe way that will not harm people, or when you need to cook food in a safe way, but not when in a pressurized airplane in flight with limited air for people to breath, in a submerged submarine, or in a house with a gas leak, or when close to a car being refueled, etc."
 
 The real moral has to include all the context to become universal, because the simplistic form is just too simple.
 

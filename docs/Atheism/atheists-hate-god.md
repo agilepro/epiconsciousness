@@ -9,7 +9,7 @@ It is illogical to wish away something you don't believe exists.
 
 :::
 
-It is strange but even though the term atheist is clear -- no belief in god -- Christians still get this mixed up and someone think that atheist do believe in god.
+It is strange but even though the term atheist is clear -- no belief in god -- Christians still get this mixed up and think that atheist do believe in god.
 
 ## You Can't Hate Something that Does Not Exist
 

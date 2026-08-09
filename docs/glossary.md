@@ -30,6 +30,8 @@ Something is subjective when it depends upon the mind that is encountering it.  
 
 ## morality
 
+Morality is simply behaviors that are learned that enable us to live together in tribes. Both theists and atheists agree that we are born with some sense of those behaviors.  We are further taught more behaviors while growing up.
+
 ## goodness
 
 ## magic

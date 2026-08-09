@@ -51,11 +51,11 @@ This response accomplished three things which depend on a fourth:
 
 ## Trivialize Evil
 
-For example, the analogy a lot of Christians use is that of the dentist: it may hurt to drill a cavity in a tooth, but the filling will actually save a lot of pain in the long run.  God allows a little pain now, saves a lot of pain later.  Furthmore, it would be stupid to cite avoidance of the drilling pain as a good reason to skip getting a filling.
+For example, the analogy a lot of Christians use is that of the dentist: it may hurt to drill a cavity in a tooth, but the filling will actually save a lot of pain in the long run.  God allows a little pain now, saves a lot of pain later.  It would be stupid to cite avoidance of the drilling pain as a good reason to skip getting a filling.
 
 Similarly, there is the work-out analogy: you might find the exercise painful today, but you will be healthier tomorrow for it.  no pain no gain.  Short term avoidance of pain would prevent longer term healthy life.
 
-Putting the example in this way trivializes the meaning of evil.  It is a put down to imply that anyone who can't put up with a little pain for a better purpose is weak or lazy.  It implies that the people looking for an evil-free life are selfish babies we can make fun of.
+Putting the example in this way trivializes the meaning of evil.  It is a put down to imply that anyone who can't put up with a little pain for a better purpose is weak or lazy.  It implies that the people looking for an evil-free life are selfish babies we can justly criticize.
 
 However, there are forms of harm that can not be trivialized.  
 
@@ -88,7 +88,7 @@ Not mentioned explicitly in this particular response, but underlying it, is the 
 
 In short: God loves mankind to have free will and that is more important than death or being raped.  Evil is then a sign of the love that God has for us, because God could prevent evil, but we would then be mindless robots.
 
-Love means acting beyond to the fullest of your power to benefit someone.  It means stopping someone, even when they _will_ to do harm to themselves.  
+Love means acting beyond to the fullest of your power to benefit someone.  It means stopping someone, even when they _will_ to do harm to themselves.  A mother who stops a child about to walk into a busy street does not mean the child is a robot for the rest of the child's life.  Selective use to prevent extreme situations does **not** eliminate free will.
 
 This is not a matter of free will causing the problem.  No amount of God loving humans to have free will, will ever compensate for the harm done to one raped little girl.  So if God has any love, there would be no rape.  There would be no parasites to blind and mutilate people.
 
@@ -98,6 +98,14 @@ The reasonable person recognizes that the universe is somewhat arbitrary.  Nobod
 
 Our value as individuals lies only in what we can accomplish during our lifetimes.  Random and unfair things happen.  We must work together to help each other to avoid these random acts of God, or to help each other recover when they do occur.
 
-Epicurus lays out in simple terms why an omniscient, omnipotent, and all-loving God is simply not apparent in the world.  The key is the all-loving part.  If it was my daughter lined up as the potential rape victim, I might even give my life to prevent it.  For God to actually love a person, it would have to be willing to use all its power to prevent such things.  Rape would simply not exist in the world.
+Epicurus lays out in simple terms why an omniscient, omnipotent, and all-loving God is simply not apparent in the world.  The key is the all-loving part.  If it was my daughter lined up as the potential rape victim, I might even give my life to prevent it -- the absolute most I could do.  For God to actually love a person, it would have to be willing to use all its power to prevent such things.  Rape would simply not exist in the world.
 
-In simple terms: God knows about the rape because it is all knowing.  God can stop the rape because it is all powerful.  But God decides to let the rape proceed, demonstrating that it is not all-loving.
+Epicurus was not under the delusion that there is a heaven and that all will be made right AFTER we die. These delusions are the result of a long line of books and writing around wish fulfillment: wow, wouldn't it be great if there was a big father figure in the sky, and after death I spend eternity in a wonderful heaven. Without these delusions, your response that it is temporary and that there is a higher moral purpose can not stand up.
+
+The realist sees the universe as it is: capricious and arbitrary, but that goodness comes from humans working together, because of real love, by either making living situations that avoid the worst evils, or by coming together and helping those afflicted by bad events. Frankly, I find the Christian argument that evil is fine because God is going to make it all better as a cop-out that ultimately allows more humans to be harmed out of inaction and blind faith that things are not the way they seem.
+
+:::tip [In Short] 
+
+God knows about the rape because it is all-knowing.  God could stop the rape because it is all-powerful.  But God decides to let the rape proceed, demonstrating that it is not all-loving.
+
+:::

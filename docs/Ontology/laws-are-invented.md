@@ -40,7 +40,25 @@ To find the law, there is a search.  Take a number of measurements, plot the res
 
 If we had access to what nature is actually doing, then we might look at that, write it down, and call it a discovery.  There is certainly a way that nature works.  The problem is that we can't really discover that directly.
 
-## Example: Gravity
+## Example: Law of Asphyxiation 
+
+This law states that if anyone is prevented from breathing for a period of time (5 minutes or greater) they will probably die from permanent damage to critical parts of the body.
+
+This law describes a regularity we observe: drowning is when someone is under water for the period of time it takes to asphyxiate.  Hopefully you can see that this "law" is not _commanded_ by any entity.  We don't asphyxiate _because_ this law was commanded.  The body is not aware of such a law, and it does not comply out of a sense of following laws. The body dies because of a build up of toxins that cause permanent damage.
+
+Did this law exist before people discovered it?  Not really.  People certainly died from drowning, and so did animals for millions of years before that.  But until someone recognized the pattern, and formulated a statement about it, the "law" did not exist in any form.
+
+## Example: Spherical Planets
+
+This law states that all planets are spheres.
+
+This law describes a regularity that we observe: all planets assume a spherical shape.  Hopefully you can see that this "law" is not _commanded_ by any entity.  Planets don't become spherical _because_ this law was commanded.  Instead gravity causes anything that is sticking up to fall down.  The sphere is just the shape that results when everything falls down as much as it can.
+
+The Earth fails to be a perfect sphere because it has mountains and deep oceans.  The Earth is a closer to a sphere than any sphere made by humans.  Those amount to far less than 1% the size of the Earth, but still that means the law is just an approximate model for reality.  So the law is not actually obeyed by anything.
+
+Did this law exist before people discovered it?  Not really.  Planets tended to have a shape that was approximately a sphere.  But until someone recognized the pattern, and formulated a statement about it, the "law" did not exist in any form.
+
+## Example: Law of Gravity
 
 Take for instance the law of gravity: f = Gmm/rr 
 

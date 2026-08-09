@@ -2,9 +2,9 @@
 
 Some Christian have this odd belief that atheists have no meaning in their lives.  I don't really understand the source of this belief, except of course the Christians tell each other this over and over until they believe it.  I was wondering, well is that true?
 
-So I asked some atheists:  What gives you life meaning?
+So I asked some atheists:  What gives your life meaning?
 
-Did I get a bunch of responses saying that life has no meaning, that it is empty, devoid of joy.  No I most certainly didn't.  Here is a list of different responses I got from people who self proclaimed to be atheists:
+Did I get a bunch of responses saying that __life has no meaning__?  That it is __empty, devoid of joy__?  No I most certainly didn't.  Here is a list of different responses I got from people who self proclaimed to be atheists:
 
 **Fellow atheists: what would you say gives your life meaning?**
 

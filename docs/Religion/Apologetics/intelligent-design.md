@@ -63,6 +63,8 @@ Take our anatomy, which is riddles with design flaws, many of which are the resu
 * Descent of testes to external posturing increases risk of cryptorchidism, inguinal hernia and testicular injury.
 * Yolk sac no longer serves its original purpose but still exists, leading to risk of Meckel’s diverticulum which can cause fistula, perforation and bleeding.
 
+![](./body_design_flaws.jpg)
+
 ## Simpler to Understand 
 
 The whole point about the creation debate, is that if you are willing to accept "magic" (that is making something appear through supernatural means) then in that case creationism is far easier to understand and believe than evolution. You can stop asking questions, because asking "how" the magic was done is not an allowed question to ask. You don't need to worry about any messy details, like how did genders differentiate over time, because it is just "BAM it is all created".

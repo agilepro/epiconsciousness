@@ -1,6 +1,6 @@
 # Evolution Never Observed Trick
 
-Evolution deniers will say that evolution has never been observed.  They will claim that "micro evolution" exist to explain how lines of animals tend to adapt to situation and to see the kinds of change that we have seen in animals in a couple thousand years (or less).  But "macro evolution" has never been observed to produce a new species.
+Evolution deniers will say that evolution has never been observed.  They will claim that "micro evolution" exists to explain how lines of animals tend to adapt to situation and to see the kinds of change that we have seen in animals in a couple thousand years (or less).  But "macro evolution" has never been observed to produce a new species.
 
 To accomplish this trick they need the listener to accept a very narrow view of what "observe" means.  Sometimes they say observed in the lab.  It means that a person saw the line of animals before it changed into a new species, and a person saw it after.
 

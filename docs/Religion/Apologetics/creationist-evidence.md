@@ -14,7 +14,7 @@ Hearsay written in a book -- any book -- is not evidence.
 
 The problem is that when you present something that is NOT demonstratable and not objectively accessible by everyone, then it is not evidence.
 
-The millions of fossils that support evolution are all accessible to anyone.  There a museums where you can go see them yourself, or you can go dig in the rocks and verify that everything about them is the way the paleontologist says.  That is evidence.
+The millions of fossils that support evolution are all accessible to anyone.  There are museums where you can go see them yourself, or you can go dig in the rocks and verify that everything about them is the way the paleontologist says.  That is evidence.
 
 But none of the fossils support the theory of Genesis.  Genesis can't explain why there are distinct layers with distinct fossils in them.  That is a big problem.
 
