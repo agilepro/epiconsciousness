@@ -10,27 +10,48 @@ As life is a process that runs on chemistry on top of lifeless atoms and molecul
 
 ## Types of Panpsychism
 
-* **Essential Substance** - one type see consciousness as the fundamental substance of the universe.  Human consciousness exists as a part of the overall thing.  As we attempt to interact with each other, we fabricate the material world as a communications medium.  Atoms are then made from consciousness as a kind fo agreement between conscious entities.
+* **Essential Substance** - one type see consciousness as the fundamental substance of the universe.  Human consciousness exists as a part of the overall thing.  As we attempt to interact with each other, we fabricate the material world as a communications medium.  Atoms are then made from consciousness as a kind of agreement between conscious entities.
 
 * **Universal Property** - another type says that material is fundamental, but that consciousness is a property of all matter.
 
-The biggest reason for either kind is that the feeling of consciousness (the hard problem) is so hard to explain.  How is it that matter runs a process in such a way that things _feel_ like something?  The feeling oc consciousness is on one hand natural and familiar to us, and other the other hand hard to understand how material can bring this about.  This lack of understanding leads the panpsychist to the conclusion that affectation (feeling) must be something beyond material in one of the two ways listed above.
+The biggest reason for either kind is that the feeling of consciousness (the hard problem) is so hard to explain.  How is it that matter runs a process in such a way that things _feel_ like something?  The feeling of consciousness is on one hand natural and familiar to us, and other the other hand hard to understand how material can bring this about.  This lack of understanding leads the panpsychist to the conclusion that affectation (feeling) must be something beyond material in one of the two ways listed above.
 
 This conclusion is then supported by **mystical experiences** which are experiences of feeling like there is something greater than yourself: a cosmic consciousness that one can tap into either by use of mind altering drugs, or by very serious meditation.  What is never explained is how one comes to know what a cosmic consciousness would feel like, given that you have no other referent to base such a judgement on.  How do you recognize something you have never seen?
 
-A number of religions (e.g. Hinduism, Jainism, and others) also talk about a cosmic consciousness.  According to Jianism we become separated at birth from that, we forget everything that we knew about it, live our lives, and then rejoin after death.  Some see an equivalence between god and that cosmic consciousness, and in that view we are all little parts of god, separated from god for our lives, and then ultimately returning to god.  So panpsychism is essentially a form of pantheism.
+A number of religions (e.g. Hinduism, Jainism, and others) also talk about a cosmic consciousness.  According to Jainism we become separated at birth from that, we forget everything that we knew about it, live our lives, and then rejoin after death.  Some see an equivalence between god and that cosmic consciousness, and in that view we are all little parts of god, separated from god for our lives, and then ultimately returning to god.  So panpsychism is essentially a form of pantheism.
 
 ## Critique of Panpsychism
 
-I am sympathetic to panspychism in at least I agree that we don't know exactly how consciousness works, and we need to keep a number of options open until we finally have proof.  Yet I am doubtful for the following reasons:
+I am sympathetic to panpsychism in at least I agree that we don't know exactly how consciousness works, and we need to keep a number of options open until we finally have proof.  Yet I am doubtful for the following reasons:
 
-* **causality** if there was a special property for consciousness that was on every atom, and which had causal effect on anything, we would have seen evidence of this.  In uncountable numbers of particle experiments all the movements of the various particles are fully explained by the current theories.  There are no cases where there is unexplained motion that would require a new causal force to explain.  Ultimately, the thought to raise an arm would need to cause an electrical discharge in a nerve, but we don't konw of any cases where an unknown force suddenly causes such a discharge.  You can if you wish imagine all the invisible undiscovered extra parts of the universe you want, but if those invisible things actually interact with matter, we would see evidence of it.  Christians have the same problem with the immaterial soul: if it affects matter, we would see evidence of it affecting matter.
+* **causality** if there was a special property for consciousness that was on every atom, and which had causal effect on anything, we would have seen evidence of this.  In uncountable numbers of particle experiments all the movements of the various particles are fully explained by the current theories.  There are no cases where there is unexplained motion that would require a new causal force to explain.  Ultimately, the thought to raise an arm would need to cause an electrical discharge in a nerve, but we don't know of any cases where an unknown force suddenly causes such a discharge.  You can if you wish imagine all the invisible undiscovered extra parts of the universe you want, but if those invisible things actually interact with matter, we would see evidence of it.  Christians have the same problem with the immaterial soul: if it affects matter, we would see evidence of it affecting matter.
 
-* **embodiment** we think about thing in the work because our conscious processes are embedded in a body which interacts with the world.  We can talk about things because we interact with things.  I don't know what a disembodiece cosmic consciousness would actually think about.  If such a consciousness can affect the world directly, then why do we need bodies?
+* **embodiment** we think about thing in the work because our conscious processes are embedded in a body which interacts with the world.  We can talk about things because we interact with things.  I don't know what a disembodied cosmic consciousness would actually think about.  If such a consciousness can affect the world directly, then why do we need bodies?
 
-* **anesthetics** if your consciousness is really just the collective consciousness of all the atoms in your body, then why does counsciousness stop when the right chemicals are applied.  How is the consciousness that is a part of that calcium atom affected by a complex hydrocarbon that knocks you out.  We know that anesthetics work by disrupting nerve traffic.  Nerves are processes that run in the body, and their running can be changed or interrupted.  This suggests that consciousness depends on those processe running, and not simply being part of the atoms in your body.
+* **anesthetics** if your consciousness is really just the collective consciousness of all the atoms in your body, then why does consciousness stop when the right chemicals are applied.  How is the consciousness that is a part of that calcium atom affected by a complex hydrocarbon that knocks you out.  We know that anesthetics work by disrupting nerve traffic.  Nerves are processes that run in the body, and their running can be changed or interrupted.  This suggests that consciousness depends on those processes running, and not simply being part of the atoms in your body.
 
-* **incredulity** Using the lack of knowledge about how something works is a poor reason to invent a new substance.  A few hundred years ago, people could not believe that chemical processes could explain all the things that are needed to support life, so they invented a "life substance" (elan vitale) to explain that.  We know today that elan vitale is just something made up from lack of konwledge.  It is quite likely that this panpsychist new substance is simply that.
+* **incredulity** Using the lack of knowledge about how something works is a poor reason to invent a new substance.  A few hundred years ago, people could not believe that chemical processes could explain all the things that are needed to support life, so they invented a "life substance" (elan vitale) to explain that.  We know today that _elan vitale_ is just something made up from lack of knowledge.  It is quite likely that this panpsychist new substance is simply that.
+
+## Hard Problem of Panpsychism
+
+Also known as panpsychism’s objectivity problem: while it might solve the problem of why we have consciousness, it fails to guarantee objective independent reality.  People who look at atoms, and state they can not see any mind-stuff in the atoms will have to also admit that when mind is fundamental, there is no atom stuff in the mind.  The is the inversion of the hard problem.
+
+If matter is made out of mind stuff, then why is it that a mind can not, say, will a plane to stop flying.  Why does Newton's law of motion (F = ma) exist so consistently everywhere?  If atoms are built out of minds, it is not clear why that would be so perfectly enforced.
+
+If everything is made from consciousness, then everything, even the smallest particle must have some consciousness.  This implies subjective experience everywhere.  Fundamental consciousness has a will.   Why do those tiny particles not exert their will?  Consciousness is the fundamental layer but physics becomes unstable.
+
+On the other hand if fundamental consciousness does not have a will, then how do you explain will?  Making consciousness regular and predictable enough to produce predictable material interactions defeats the case that it also supports freedom and spontaneity.  Physics is stable but consciousness becomes inert.
+
+The inversion is not perfect:  the material world is known quite well to 14 digits of precision.  Consciousness on the other hand is not well understood at all, and people have large disagreements on the fundamentals.  Building an uncertain, complex, chaotic phenomenon on well known basis is not the same at all of building a well known phenomena on chaotic fundamentals.
+
+Some panpsychists argue that the very minimal consciousness of a small particle would be extremely basic, without will or agency.  What is not clear is how this still allows will and agency to appear on top of that.  Does it emerge? If so, how is this different from the emergence of consciousness from unconscious matter?
+
+Some panpsychist deny objective reality altogether.  AS such, all such sensory knowledge that would lead to the conclusion about material reality are just metaphorical interpretations of other thoughts.  But why do those thoughts (which we normally think of as being free) produce the extreme regularity that QM can make predictions to 14 digits of precision?
+
+## Reference
+
+* "[Panpsychism does not solve the hard problem of consciousness](https://iai.tv/articles/panpsychism-does-not-solve-the-hard-problem-of-consciousness-auid-3630)", Tony Sobrado, Writer and Contributing Editor at The Montréal Review, 
+
 
 
 ## Discussion with a Panpsychist
@@ -76,7 +97,7 @@ Ok, so consciousness is the base substance of the universe, and there exist cons
 
 My biggest problem is the anesthetic: why would the application of drugs cause the consciousness to disappear for a period of time?  If conscious entities exist in a level below that of space-time, I would think that they would persist no matter what our representations do.
 
-> If everything is a process in consciousness then an anaesthetic is too.  When that interacts with my body which is also a process in consciousness then they impinge upon one another.
+> If everything is a process in consciousness then an anesthetic is too.  When that interacts with my body which is also a process in consciousness then they impinge upon one another.
 > When you think of your own private conscious inner mentation, can you identify that which causes or impacts other mental activity therein?
 > I mean an observation sparking a thought, which brings on a feeling, invoking a memory that leads to a further thought, causing a change in focus to another perception, that stirs an emotion and the memory of an idea...  Interactivity is just there, even in the conscious part of mental processing, never mind what's going on in the also mental but subconscious space.
 
@@ -84,5 +105,5 @@ I am familiar with the concept of interaction.  Between us we are fabricating a 
 
 That works for all sensations except for consciousness itself, because consciousness is fundamental.  An electron can cancel the electric field of a proton, but it can't cancel the entire proton itself.
 
-You seem to be implying that there are two distinct things:  consciousness as substance, and mind enabled "inner dialogs".  Is that how you see it:  the inner dialog (sometimes referred to as metaconsciousness) as distinct from consciousness?
+You seem to be implying that there are two distinct things:  consciousness as substance, and mind enabled "inner dialogs".  Is that how you see it:  the inner dialog (sometimes referred to as meta-consciousness) as distinct from consciousness?
 
