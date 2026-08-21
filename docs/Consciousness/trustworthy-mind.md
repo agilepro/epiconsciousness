@@ -30,11 +30,11 @@ As evidence for this I turn to various “optical illusions”.  They are optica
 
 The first is a pattern that appears to be spinning wheels, but this is actually a completely static image.  We know that the wheels are not turning, but we nevertheless have the experience that they are turning.  It is worth reflecting on the fact that even if we know the wheels are not turning, we have a very real experience of them turning.  We might describe the spinning as an epiphenomenon — that is an illusion that appears different than reality — but notice that even as an epiphenomenon the experience is very **real**.   We **really do experience** spinning that is not there.
 
-![](illusions/spinners.jpg)
+![](Illusions/spinners.jpg)
 
 Here is a second pattern just to experience it a different way.
 
-![](illusions/ball-spindle.jpg)
+![](Illusions/ball-spindle.jpg)
 
 The anti-materialist says: materialism can not explain this spinning or motion that I experience, and that experience of motion is real, while the atoms are clearly not moving, **_therefor there must be a non-material source of that motion._**  This experience is used as evidence that there is more to the universe than just materialism.
 

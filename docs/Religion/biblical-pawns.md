@@ -81,3 +81,4 @@ Who am I to say what God should or should not do?  Christians try to respond an 
 The point I am trying to make is not that God is or is not moral, but that the stories in the bible are written like myths where characters play roles without actually considering the full consequences of the part they play.  The story is about David, and therefor bad things that happen to David, such as the raping of his wives, or the death of a child.  It is a very superficial view that is typical for storyteller to communicate an idea, but not that fits a God of any magnitude.
 
 If the stories were true, it would mean god made an entirely unfair universe where he "plays God" all the time arbitrarily killing people just to make other people sad.  It would mean that life and death is meaning for the vast majority of people in order to serve as props in the background of the myths of the bible. 
+

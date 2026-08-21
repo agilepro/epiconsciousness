@@ -1,6 +1,6 @@
 # Michael Huemer
 
-Michael Humor is a professor of moral philosophy at the University of Colorado and one of the leading proponents of moral realism: the thesis that there are true, objective moral facts.
+Michael Huemer is a professor of moral philosophy at the University of Colorado and one of the leading proponents of moral realism: the thesis that there are true, objective moral facts.
 
 ## Video 1
 
