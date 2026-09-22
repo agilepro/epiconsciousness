@@ -1,10 +1,17 @@
 # Too Complex For Nature?
 
-An online discussion.  Indented comments are the other person.
+## Complexity Implies a Designer
+
+A designer has to imagine all the parts, and to do so it must make a simplified representation for a working intelligence to imagine.
+
+Evolution has no such limitation. It can work with trillions of interconnecting parts and it does not need to make a simplified representation because there is no intelligence required. If the trillions of interacting parts works (survives) then it is copied (reproduced) without any need for intelligence.
+
 
 ![](./complexity-false-comparison.png)
 
 ## Complexity Implies God
+
+An online discussion.  Indented comments are the other person.
 
 > One of the things that convinced me that God exists is the order, design, and complexity of the human body. In my experience, where I find order, design, and complexity there is typically an intelligent mind at the origin of the object.
 
@@ -40,6 +47,7 @@ So you believe that "intelligence" can make a "process" that creates a Grand Can
 > A snowflake would be a byproduct of the hydronic cycle which is another process that seems orderly and consistent, signs of an intelligent mind at the origin.
 > In your third example, you are the intelligent mind at the origin of the robots. You created them.
 
+![](./complexity-false-comparison-2.png)
 
 How is it that this intelligence infects the rain water? What is this intelligence stuff that is not in a mind, and somehow spread across the process?
 

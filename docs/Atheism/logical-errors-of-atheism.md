@@ -95,3 +95,4 @@ No major world religion makes this claim.
 ## 15\. Atheists are locked into sense data with all of its flaws and limits. They are unaware of any methods for moving beyond their empirical limits.
 
 *   **Advice:** Argue instead that if god has an effect on the world, then that effect is empirical.  If there is absolutely not measurable effect on the world, then that is exactly like not existing.
+

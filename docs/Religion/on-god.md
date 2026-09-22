@@ -52,7 +52,7 @@ Everything that God does is done by growth.  That is, everything starts small, 
 
 **Babies** are not born with a fully adult mind, but start with very primitive capabilities but grow into an adult mind.  Everything is formed in the universe through processes of growth and interaction.  This is the way that god works in the universe and it is seen in everything.
 
-Such growth is also called “_self-organization_”.  It is a fact that things in the universe can self-organize.  Stars self organize.  Galaxies self-organize.  Apple trees self-organize.  All living things self-organize.  The mind self-organizes.  Even the christian church self-organizes, and so do communities and nations.
+Such growth is also called “_self-organization_”.  It is a fact that things in the universe can self-organize.  Stars self organize.  Galaxies self-organize.  Apple trees self-organize.  All living things self-organize.  The mind self-organizes.  Even the Christian church self-organizes, and so do communities and nations.
 
 Imagine for a moment that things did not create themselves.  Imagine visiting 100 billion galaxies, each with 100 billion stars, and cupping hydrogen-balls together and then lighting them to make a star.  Even an infinite being is insulted by this idea.  Instead, how much more powerful to create a universe that fills itself with creation?
 
@@ -62,7 +62,7 @@ As the universe forms and grows, it exhibits new levels of emergence.  Macro ph
 
 ## Does God Perform Miracles?
 
-The miracles in the bible seem more like parlour tricks that might impress a relatively ignorant bronze age person.  Walking on water, for instance, is a pointless thing for a God who could smash stars into each other, but water is a common thing in the world, and sometimes the ability to get across water without getting wet would be really nice.  In liquid form everyone knows that you can't stand on it.  So it is the kind of trick that would impress an ancient person as being "impossible" and only something a God could do.  It is the kind of supernatural action that someone who knows little about the world would think up.  God could have made a quad-copter appear, adn that would be much more impressive, but those ancient bible writers could not think of that.
+The miracles in the bible seem more like parlor tricks that might impress a relatively ignorant bronze age person.  Walking on water, for instance, is a pointless thing for a God who could smash stars into each other, but water is a common thing in the world, and sometimes the ability to get across water without getting wet would be really nice.  In liquid form everyone knows that you can't stand on it.  So it is the kind of trick that would impress an ancient person as being "impossible" and only something a God could do.  It is the kind of supernatural action that someone who knows little about the world would think up.  God could have made a quad-copter appear, and that would be much more impressive, but those ancient bible writers could not think of that.
 
 I don’t believe that God steps in to violate natural laws to impress ancient people.  I don’t believe that God parted the seas in such a way that Moses and his gang could walk across the Red Sea.  I don’t believe that God steps in to cure a cancer that would otherwise have killed someone.  The reason is clear, but complicated.
 
@@ -117,3 +117,4 @@ Theists believe (arrogantly) that the universe must work in a way that is intuit
 But when they were children, they had the experience of their parents providing everything they needed. The parent produced things without them having any idea how they were produced. This forms the basis of the idea that it is possible for someone to produce things as needed. They then apply this home learning to the world and conclude there must be SOMETHING that is acting like a parent, and making the world exist.
 
 To be fair, evolution is extremely complex and takes work to understand. Their mistake is thinking that the world SHOULD be intuitive and easy to understand. When they can't understand it, they give up and say that God did it. It is just easier.
+

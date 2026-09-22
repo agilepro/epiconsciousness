@@ -2,6 +2,16 @@
 
 How do we define what is morally good? What is morally bad or evil?  There is a long history of trying to determine this.
 
+## Beneficial
+
+A morally good action *must* be beneficial in general. No action that is found to be harmful in general can be considered a good moral action.
+
+Murdering a neighbor for no good reason harms everyone: not just the victim, not just the perp, but everyone in the community is hurt by this action. That makes murder objectively bad and you opinion about it simply does not matter. Maybe you "like" murder: it is still bad.
+
+Human interaction is very complex, so it is often hard to work out whether a given action in a given situation is beneficial or harmful. Because of that complexity, we simplify to rules and guidelines but those rules and guidelines are not merely "opinion" but in most cases they have been tried and shown that most of the time following the rule is "good".
+
+Not because of an opinion, but because the action is generally beneficial.
+
 ## Existence of the Universe is Good
 
 > I just don't buy that the universe can be absolutely good by itself. How do we know this?

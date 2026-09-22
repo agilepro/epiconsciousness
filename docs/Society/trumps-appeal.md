@@ -1,6 +1,6 @@
 # The Appeal of Donald Trump
 
-In short, Donald Trump never says "You should ...."  H never implies that his public should be behaving in any way other than they do.  He never admonishes them for doing the wrong thing.  There is no wrong behavior in his eyes, just do what you feel.
+In short, Donald Trump never says "You should . . . ."  He never implies that his public *should* be behaving in any way other than they do.  He never admonishes them for doing the wrong thing.  There is no wrong behavior in his eyes, just do what you feel.
 
 He never pretends to say what people should be doing.
 

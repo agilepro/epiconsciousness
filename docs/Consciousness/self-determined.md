@@ -142,7 +142,7 @@ Finally, we get around to the real reason that theists insist that your actions 
 
 ![](self-determined-img2.jpg)
 
-Self will agrees with this.  Your needs and desires, your experience with the world, put your mind into a state that caused you to do a particular action.  The fact that your needs and desired determine your actions is exactly _why you need to be punished_.  When a kid does the wrong thing, you punish them so they learn that it was wrong.  You do this because you expect their future behavior to be _determined by_ what they have learned about the world.  Think about it:  if a person had true libertarian free will, then punishing them would make no difference.
+Self will agrees with this.  Your needs and desires, your experience with the world, put your mind into a state that caused you to do a particular action.  The fact that your needs and desires determine your actions is exactly _why you need to be punished_.  When a kid does the wrong thing, you punish them so they learn that it was wrong.  You do this because you expect their future behavior to be _determined by_ what they have learned about the world.  Think about it:  if a person had true libertarian free will, then punishing them would make no difference.
 
 No my friend, if you do the crime, you have to do the time, precisely _because_ your actions are determined by your prior experience, by your self will.
 
@@ -152,7 +152,7 @@ You are responsible for what you do, because you determined them.  Again, self 
 
 ## Conclusion
 
-I hope I have persuaded you that the problem of self will is simply the way that the original problem is framed.  Free will comes from dualists who see the soul as separate from reality, and independent of it.  However, a more enlightened person sees that our choices are driven by our experiences, expressed as needs and desired, and that this is a good thing.  You experiences are recorded inside of you, but are just as much a part of the world as you are.  Self will is not about being able to make any arbitrary decision with no dependency upon the universe.  Self will is when your actions are completely determined by your own — and nobody else’s — needs and desires.
+I hope I have persuaded you that the problem of self will is simply the way that the original problem is framed.  Free will comes from dualists who see the soul as separate from reality, and independent of it.  However, a more enlightened person sees that our choices are driven by our experiences, expressed as needs and desires, and that this is a good thing.  You experiences are recorded inside of you, but are just as much a part of the world as you are.  Self will is not about being able to make any arbitrary decision with no dependency upon the universe.  Self will is when your actions are completely determined by your own — and nobody else’s — needs and desires.
 
 > “Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives – choice, not chance, determines your destiny.” – Aristotle
 
@@ -163,3 +163,5 @@ I originally wrote this with the idea that the colloquial use of the term free w
 But in the subsequent years I came to abhor the term free will for a couple of reasons.  First of course is that most of the formal academic discussion of free will clearly means libertarian free will — that I already knew.  But beyond this, I found that theists who believe in a soul — and that is a large segment of the population in America — believe that the soul is completely free of the universe.  I also found that anyone else who has not thought about it associated free will with the libertarian meaning without thinking through the consequences.  That is: if one could go back to a certain point in time, you could have made a different choice.  In the end, I felt that mostly I was getting the criticism that compatibilists get: you have simply redefined the term to confuse people.
 
 After some discussion, I settled on using the term “self will” because “will” by itself was too hard to use as a part of speech, but mainly because it accurately reflects the idea that it is you who determine your will.  Freedom is about nothing determining the will.  But that is incoherent.  Instead, it is **you** that determines the will, which is not only what I think really happens, but it also is what we desire to be the case.  The noodle has been thrown to the wall and we will see if it sticks.
+
+See a longer discussion of the problems in [Free Will](./free-will.md)

@@ -4,7 +4,7 @@ People talk about an "out of body experience" or OBE. Here we are expected to be
 
 There is another possibility: they simply *dreamed* it. Dreaming is a kind of imagination except that it is especially vivid and you have the impression that you are really there.
 
-::: tip [Key Takeaway]
+:::tip [Key Takeaway]
 
 An out of body experience is simply the mind imagining the experience, very much like a dream in the way that you feel like you are there.  Without the eyes there is no way to account for seeing things, and without the brain there is no way to account for remembering something that happened outside the body.
 
@@ -24,6 +24,8 @@ We see things because light bounces off them, reflected back end into our eyes. 
 What did the mind that travelled out of the body use to see with?
 The mind that somehow "drifted" through the universe, how did it collect the light and form an image of what it was seeing?
 
+Why would a free floating mind collect light rays into a single point?
+
 Some people claim to hear things, and the same problem occurs: how do yu hear without any ears?
 
 If the mind actually did an OBE, it would have no senses with which to experience the world that it is supposed to be traveling through.  It left all the senses, and all the sensory processing nerves behind back in the body.
@@ -42,9 +44,8 @@ Almost every morning, when I wake up, I have the lingering memory of a dream.  T
 
 Was I actually flying over Paris?  I dare say I was not.  It was merely a vivid dream.
 
- imagined that they floated around. That is about a million times more plausible.
-
-
-
-
 There is another possibility: they DREAMED it. That is, they just imagined that they floated around. That is about a million times more plausible.
+
+## Debunking
+
+Actually, serious research has been committed to whether OBEs exist.

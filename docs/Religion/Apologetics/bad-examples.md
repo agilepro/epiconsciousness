@@ -2,7 +2,7 @@
 
 One of the most common tricks is for creationists to point to two things: one made by man and another from life, and say that one was designed and therefor the other must have been designed.
 
-in all cases an inanimate object is held up and compared to living object, and the claim is that both must have the same construction method. Because the final product looks or acts somewhat similar, that means that both came into being the same way.  
+In all cases an inanimate object is held up and compared to living object, and the claim is that both must have the same construction method. Because the final product looks or acts somewhat similar, that means that both came into being the same way.  
 
 In all cases we know that life is constructed in an entirely different way than the man-made item.  Humans construct from the outside, creating smaller parts in a final form which are then assembled into the finished product.  Living things never develop this way. Instead they start from a single cell growing and differentiating into the final adult unit.  One would think this difference is obvious enough to see that once can not take conclusions from one and have them honestly apply to the other.
 

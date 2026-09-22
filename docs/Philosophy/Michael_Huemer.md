@@ -6,14 +6,14 @@ Michael Huemer is a professor of moral philosophy at the University of Colorado 
 
 [Michael Huemer explains his full argument for objective morality | Seeing Clearly Episode 8](https://www.youtube.com/watch?v=JGoif8lSU6s) with Christian Gonzalez.
 
-Ethics is right and wrong.  Metaethics is why we think things could be right or wrong.  Five metaethical theories
+Ethics is right and wrong. An evaluative statement is something like "murder is wrong."  Metaethics is why we think things could be right or wrong.  Five metaethical theories
 
-- Yes, **Moral Realists**, there are evaluative truths
-   - Reductionist/**Naturalists**: says that there is a reason that something is right/wrong without needing any person's feeling to be involved.  You can explain what is wrong with an act in objective terms.  Explained without evaluative arguments.  Empirical or scientific explanations.
-   - Not Reducible/**Intuitionists**:  Can not reduce to evaluative truths.  And so you must use evaluative language to define right and wrong.  Intuition just IS what there is.  Believe there are facts about things beyond the descriptive facts.  These are dualists.
-- No, **Antirealists**, there are no objective evaluative truths
-   - **Expressivists**.  **Non-cognitivists**: Statements are neither true nor false.  Such statements are not making assertions, they are just expressions of your feelings about things.  "booo murder"   .
-   - **Nihilist**:  Evaluative statement are always false.  There is no good/bad right/wrong.  You apply a property to something that can have no such property.  Positive statements false.
+- **Moral Realists**, there are objective evaluative truths
+   - Reductionist/**Naturalists**: says that there is a reason that something is right/wrong without needing any person's feeling to be involved.  You can explain what is wrong with an act in objective terms.  Explained without evaluative arguments.  Empirical or scientific explanations give us epistemic knowledge.
+   - Not Reducible/**Intuitionists**:  Can not reduce to evaluative truths.  And so you must use evaluative language to define right and wrong.  Intuition just IS what there is.  Believe there are facts about things beyond the descriptive facts, and there is no epistemic knowledge.  Standard religious dualists fall in this category along with divine command theory.
+- **Antirealists**, there are no objective evaluative truths
+   - **Expressivists** / **Non-cognitivists**: Statements are neither true nor false.  Such statements are not making assertions, they are just expressions of your feelings about things.  "booo murder".
+   - **Nihilist** / **Error Theorists**:  Evaluative statement are always false.  There is no good/bad right/wrong.  You apply a property to something that can have no such property.  Positive statements false.
    - **Subjectivists**: there are evaluative truths, but it depends on observer. Something is true because our culture believes it is good/bad.
 
 
@@ -21,8 +21,8 @@ Two issues: epistemological issue about "how we know about moral truths" and the
 
 Dualism vs Monism:  Monism is one kind of facts, Dualism is two kinds of facts.
 
-- Prescriptivism - when you make moral statements you are commanding people.  It is about influencing behavior
-- Emotivism - moral claims are expressions of attitudes, not beliefs.  "booo murder"  Expressing theorisms.
+- **Prescriptivism** - when you make moral statements you are commanding people.  It is about influencing behavior
+- **Emotivism** - moral claims are expressions of attitudes, not beliefs.  "booo murder"  Expressing theorisms.
 
 Students get confused between subjectivism (describing your feelings) and emotivism (expressing your feelings).  "I wonder whether murder is wrong" makes no sense for emotivist.
 
@@ -34,9 +34,13 @@ Quasi-Realism: you explain how you can make statements as if moral statements we
 
 Inconsistent beliefs are guaranteed to be false.  (Parfit's argument)
 
-Why are ethical naturalists wrong?  Evaluative language stating something is good or bad.  Naturalist says you can explain moral truth using non evaluative language.   Assume some kind of empirical knowledge of evaluative facts -- he feels this is a confusion.  e.g. goodness and pleasure are the same thing.  Problem: what experiment can be run to demonstrate the goodness of an evaluative statement?  (What about setting up two tribes with differing rules and see who survives?)  Take the explanation and see if it can be explained by someone with a different view of goodness.  Has to be something that is NOT explained by having a different view.  What can be explained by proposing that pleasure is bad.
+Why are ethical naturalists wrong?  Evaluative language stating something is good or bad.  Naturalist says you can explain moral truth using non evaluative language.   Assume some kind of empirical knowledge of evaluative facts -- he feels this is a confusion.  e.g. goodness and pleasure are the same thing.  Problem: what experiment can be run to demonstrate the goodness of an evaluative statement?  Take the explanation and see if it can be explained by someone with a different view of goodness.  Has to be something that is NOT explained by having a different view.  What can be explained by proposing that pleasure is bad.
 
-Moore's open question argument is a philosophical argument that challenges the idea that moral properties, like "goodness," can be equated with natural properties, such as pleasure. It asserts that the question "Is X good?" remains meaningful, indicating that moral properties cannot be reduced to natural ones.   The Open Question Argument, G.E. Moore's challenge to ethical naturalism, claims moral terms like 'good' cannot be analytically reduced to natural properties. Take a question about pleasure, and substitute good for pleasure, and notice the meaning changes.  (Pleasure is unrelated to good, but comes along for the ride)
+Rebuttal: _What about setting up two tribes with differing rules and see who survives?_
+
+Moore's open question argument is a philosophical argument that challenges the idea that moral properties, like "goodness," can be equated with natural properties, such as pleasure. It asserts that the question "Is X good?" remains meaningful, indicating that moral properties cannot be reduced to natural ones.   The Open Question Argument, G.E. Moore's challenge to ethical naturalism, claims moral terms like 'good' cannot be analytically reduced to natural properties. Take a question about pleasure, and substitute good for pleasure, and notice the meaning changes.  
+
+Rebuttal: _Pleasure is unrelated to good, but comes along for the ride._
 
 Rejecting naturalism rejects the is/ought gap. (@32:00)
 
@@ -56,11 +60,11 @@ Principle of Phenomenal Conservatism: things are the way they seem, unless there
 
 Ethical Nihilism: there is no good or bad.  the theory that Hitler never did anything wrong is nonsense.  They claim: if there were evaluative truths they would motivate you to act against your desires, but there are none, so there are no evaluative truths.  There do appear to be moral facts, and so we would need a good reason to propose that there are no such facts.
 
-What case do we have that "torturing children" is wrong?  How would you test for that?If you live in a society that supports torturing babies, should you torture babies?  This refutes cultural relativism.  
+What case do we have that "torturing children" is wrong?  How would you test for that?  If you live in a society that supports torturing babies, should you torture babies?  This refutes cultural relativism.  
 
 Some people feel moral realism is implausible.  But that is not necessarily intuition.  Seemings are all we have.  Not saying moral realism is intuitive.
 
-Psychopaths don't actually understand morality.  Does that give us reason to doubt morality.  Colorblind people do lead us to the conclusion that colors don't exist.
+Psychopaths don't actually understand morality.  Does that give us reason to doubt morality.  Colorblind people don't lead us to the conclusion that colors don't exist.
 
 Think about certain things, and some seem right, and some seem wrong.  That is all there is to it.
 

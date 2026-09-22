@@ -37,3 +37,28 @@ It is interesting that they seem to hold the scientific method in good regard.  
 Perhaps they are only interested in showing that science is not internally consistent.  Sort of like when Christians claim that God loves everyone, the non-Christians point out all the places where the bible has a story about God acting in an unloving manner.  You don't have to believe the bible in order to show that it is internally inconsistent.
 
 This latter would help explain why their concept of science is so wrong.  I suspect for most creationists we can go further;  They don't actually understand science at all.  They argue only as a parrot of what the apologists say, without really grasping the meaning of the phrases they repeat.
+
+## Scientific Validation
+
+> there is no valid, scientific way to measure the validity of evolution.
+
+That is simply not true, but it is a story that the Christian apologists like to spread for mendacious reasons.
+
+The founding principle of science is that every conclusion must be made on evidence anyone and everyone can observe. It is not good enough to simply declare "I know what happened" but you have to produce objective evidence that anyone else can inspect.
+
+There are many sciences that can not run "experiments" and they are still valid sciences. Geology: nobody has ever built a mountain in the lab. Oceanography, meteorology, cosmology, etc. Those are valid sciences that are based on actual measured observations.
+
+Evolution is based on actual observations of layers of rock. Each layer contains fossils of life, and the kinds of life in each layer are specific to that layer. Cambrian life is always found only with other Cambrian life. The consistency of the life in a given layer is remarkable and that same pattern is found all over the earth.
+
+This is not just somebody making something up. There are literally millions of fossils carefully archived in museums and you can go see them if you wish. You can also go to where they were dug up, and verify that there are more of the same there.
+
+A scientifically valid theory must be falsifiable, and evolution is no exception: if non-Cambrian life ever showed up in a rock layer that otherwise held Cambrian life, that would show the theory to be false. But that has NEVER happened. If a rabbit showed up Jurassic rock, then evolution would be false, but there is no case of that. This is valid science.
+
+Anyone who has gone and actually looked at the evidence comes away convinced that evolution MUST be true.
+
+And yet, unlike cosmology and geology, evolution has been demonstrated in the lab. We can show that genetic change can happen at a given rate over a period of years. Naturally, such an experiment can only be dozens of years, so the amount of change in a dozen years is much smaller than a million years, but the rate found is suitable to explain the change over millions of years.
+
+The question that remains: who told you that there was no way to measure the validity of evolution? Who told you this? And why? What were their motives? There is a group of people who feel that their cherished ideas are threatened by the idea that animals evolved slowly over long periods of time. So they literally spread lies and misinformation. Hate to say it, but it is Christian apologists who spread these lies. All of the web sites supporting this point of view are supported by fundamentalist Christian organizations (even though sometimes they try to hide this fact).
+
+So -- where were you told that evolution could not be scientifically validated?
+

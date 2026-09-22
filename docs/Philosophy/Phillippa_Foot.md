@@ -25,6 +25,57 @@ Consider an injury that prevents the use of some significant part of the body.  
 
 She argues that the virtues can be taken to be as essential to the fulfillment of our desires as are our limbs.  
 
+## Virtues and Vices
+
+This paper from 1978 is the title essay of the collection of her other writings.  The programmatic statement of modern virtue ethics: virtues as correctives to characteristic human temptations.  This is [discussed by Simon Cushing](https://www.youtube.com/watch?v=Gd5L_DWOx2M) on YouTube.
+
+A virtue is a property of character.  Focus on moral virtues since there can be other kinds.  Three kinds: beneficial, will/intention, corrective.  You can't be moral by accident, intention is key but that is not enough, but the disposition of the heart.  Corrective is about being prepared to act the right way.
+
+Utilitarianism can come into conflict with individual goods.  Justice sometimes appears to be against the common good.
+
+Intentionally spelling something wrong, does not mean you are a bad speller, because it could be done artistically, but intentionally violating a virtue can never mean anything except you don't have the virtue.  Virtues are only virtues because of human weakness, corrective to human foibles.
+
+Is the hero who was terrified more virtuous than the same act by someone who was not terrified?  But a better person might that who finds it easier.  It is possible to be courageous in doing evil, but in them courage is not a virtue.  Arsenic is a poison, but can be used to treat wood where it is not a poison.
+
+### Outline of Virtues and Vices
+
+I
+* Virtues and vices have been neglected.
+* Aristotle and Aquinas based morality on virtues/vices
+* Some disagreement on definition of virtue/vice
+* virtues are in some way beneficial to welfare.  (Just as good morals are beneficial)
+* a virtue is something a person *needs* for themselves and their fellows
+* only talking about intentional actions.  Accidents don't count.  Part of the will.
+* innermost desires and will power.
+* wisdom is an intellectual virtue.  Wisdom is how to act well to bring about good ends, and it presupposes good ends. 
+* wisdom is on generally available experience, not specialized training.
+* second part of wisdom is on values.
+* how are virtues different from arts or skills?  A virtue is not just a capacity, but also it must engage the will.
+II
+* Courage and Temperance.   Courage faces fear, Temperance faces irrational desire.  Virtues are correctives against these basic feelings.
+* Justice and Charity - don't fight against desire but fight against deficiency of motivation
+* must be about things that are difficult to do. Courage appreciated only when it is difficult to be brave.
+* avoiding stealing is more honorable in the person more tempted to steal
+* charity is best found in the person for whom charity it easy
+* courage can be about overcoming irrational fears, like claustrophobia or fear of heights
+* Kant argues that only actions done of a sense of duty have positive moral worth.  A philanthropist who enjoys sharing is not really acting morally.
+* Kant says self preservation is not worthy, except if out of duty
+* There is no virtue in self-love.
+* Rescuing Kant: charity is a virtue of attachment as well as action, so the sympathy that makes it easier to act with charity is part of the virtue itself.
+III
+* virtues are "a positively good action"
+* what about when an action confirms one virtu, but contradicts another?
+* Aquinas says a virtue can never be used for bad purpose (except when treated as objects)
+* What about courage of the villain? (Peter Geach)
+* Is charity stronger in a person who is willing to break the law for it.  (Robin Hood)
+* How about the murder of a evil person?  Does that take courage?
+* "we are inclined to say that it ‘took courage’; and yet it seems wrong to think of courage as equally connected with good actions and bad."
+* the power of virtue is related to the power of producing good action (seems circular)
+* " a disparity between the moral ideals that may seem to be implied in our talk about the virtues, and the moral judgements that we actually make"
+* " For while wisdom always operates as a virtue, its close relation prudence does not, and it is prudence rather than wisdom that inspires many a careful life."
+* "Nevertheless in some people temperance is not a virtue, but is rather connected with timidity or with a grudging attitude to the acceptance of good things. Of course what is best is to live boldly yet without imprudence or intemperance, but the fact is that rather few can manage that"
+
+
 ## Main References
 
   1. "Moral Beliefs" (1958–59) — Proceedings of the Aristotelian Society 59(1): 83–104
@@ -44,7 +95,7 @@ She argues that the virtues can be taken to be as essential to the fulfillment o
   The paper that invented the trolley problem (as a footnote to a larger argument about doing vs. allowing).
 
   5. "Virtues and Vices" (1978) — title essay of the collection
-  The programmatic statement of modern virtue ethics: virtues as correctives to characteristic human temptations.
+  The programmatic statement of modern virtue ethics: virtues as correctives to characteristic human temptations.  This is [discussed by Simon Cushing](https://www.youtube.com/watch?v=Gd5L_DWOx2M) on YouTube.
 
   6. "Euthanasia" (1977) — Philosophy and Public Affairs 6(2): 85–112
   Applies the killing/letting-die distinction and introduces her account of "life that is a good."

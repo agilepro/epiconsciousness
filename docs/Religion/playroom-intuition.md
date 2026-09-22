@@ -1,4 +1,16 @@
-Theists attack naturalism with an intuition formed in a playroom. That is, as a child from 2 to 5 years old, you learn how the physical world of your toys work, particularly how solid objects at the scale of centimeters work. This forms the basis of intuition for everyone. The science denier then applies this intuition to all scales of reality: molecules, particles, light, glaxies, quantum mechanics, etc. The problem is that what you learned in the playroom simply does not apply to the very small and the very large. This is where the naive concepts of naturalism come from.
+# Playroom Intuition
+
+You intuition about the physical world was primarily learned in a pre-school playroom, and that intuition largely forms the way you view the world the rest of your life.  This intuition is largely right, but there are significant areas where almost everyone gets it wrong.  What you don't learn in playschool is about self-organization, and so more common people on the street don't think self organization is possible, even though it can be readily demonstreated.
+
+## Play
+
+As a child from 2 to 5 years old, you learn how the physical world of your toys work.  You learn what a solid is, like your building blocks.  Solids don't pass through each other.  You can stack them.  You learn about fluids like water and air.
+
+Most importantly you learn that basic building blocks don't move on their own.  Dump a box full of blocks on the floor, and they will generally stay there until some person comes to manipulate them or to pick them up.  Your room never automatically cleans itself up.  Without some kind of effort to clean up the room, it will tend to get messier and messier.
+
+There are some toys that move, either wind up or battery powered, and those are like magic.  These toys were clearly designed with mechanisms that make them run.  
+
+Theists attack naturalism with an intuition formed in a playroom. That is, , particularly how solid objects at the scale of centimeters work. This forms the basis of intuition for everyone. The science denier then applies this intuition to all scales of reality: molecules, particles, light, galaxies, quantum mechanics, etc. The problem is that what you learned in the playroom simply does not apply to the very small and the very large. This is where the naive concepts of naturalism come from.
 
 I think this is basically right, with one adjustment.
 The problem is not uniquely “theists.” The problem is scale-projection.
