@@ -40,6 +40,7 @@ Is the hero who was terrified more virtuous than the same act by someone who was
 ### Outline of Virtues and Vices
 
 I
+
 * Virtues and vices have been neglected.
 * Aristotle and Aquinas based morality on virtues/vices
 * Some disagreement on definition of virtue/vice
@@ -51,7 +52,9 @@ I
 * wisdom is on generally available experience, not specialized training.
 * second part of wisdom is on values.
 * how are virtues different from arts or skills?  A virtue is not just a capacity, but also it must engage the will.
+
 II
+
 * Courage and Temperance.   Courage faces fear, Temperance faces irrational desire.  Virtues are correctives against these basic feelings.
 * Justice and Charity - don't fight against desire but fight against deficiency of motivation
 * must be about things that are difficult to do. Courage appreciated only when it is difficult to be brave.
@@ -62,7 +65,9 @@ II
 * Kant says self preservation is not worthy, except if out of duty
 * There is no virtue in self-love.
 * Rescuing Kant: charity is a virtue of attachment as well as action, so the sympathy that makes it easier to act with charity is part of the virtue itself.
+
 III
+
 * virtues are "a positively good action"
 * what about when an action confirms one virtu, but contradicts another?
 * Aquinas says a virtue can never be used for bad purpose (except when treated as objects)
@@ -74,6 +79,68 @@ III
 * " a disparity between the moral ideals that may seem to be implied in our talk about the virtues, and the moral judgements that we actually make"
 * " For while wisdom always operates as a virtue, its close relation prudence does not, and it is prudence rather than wisdom that inspires many a careful life."
 * "Nevertheless in some people temperance is not a virtue, but is rather connected with timidity or with a grudging attitude to the acceptance of good things. Of course what is best is to live boldly yet without imprudence or intemperance, but the fact is that rather few can manage that"
+
+## What is a Virtue
+
+This paragraph belings in a very general heading under ethics, however Phillippa Foot uses virtue so much, I need to assure there is a clear definition:
+
+- **virtue** - a trait of moral excellence, goodness, or high character that guides a person to do what is right.
+  - Good behavior: It means living a life that follows high moral standards and avoids wrong actions.
+  - A habit: Virtue grows stronger when a person chooses to do good things consistently, even when it is hard.
+- **vice** - opposite of virture, a bad or immoral habit.
+- **defect** - instad of vice, Foot uses the word defect to describe when someone fails to do what is good.
+- **conative** - mental processes related ot string, desire, volition, and purposeful goal directed action.  Thus, willing an action, as opposed to simply thinking about it.
+
+An action is on a scale from good to bad, and a virtue is the tendency to do good actions.  A virtue can be a virtue only if it encourages good behavior, however it seems backward to say that an action is good *because* it was encouraged by a virtue.  The virtue is a virtue only *because* the actions it encourages are good ones.  If an action is bad, then we conclude it must have been motivated by a vice.  We must then judge the goodness of an action independently.
+
+## Review of "Natural Goodness" book
+
+136 pages, published in 2001
+
+### Introduction
+
+- the subject is "moral judgement": right/wrong, virtue/vice
+- speak topics plainly (or crudely) to get idea out.  They can be cleaned up later.
+- G.E. Moore consider "goodness" to be a non-naturalistic property of an act.  Friendship is good.
+- Peter Geach says it is an "attributive adjective" like large or small.  A large mouse, might be a small rat.  So a good action mught be a bad different action.
+- "moral evaluation" is of concern, and this is a special logical type.  Moral evaluation has living things as objects.
+
+### 1. A Fresh Start
+
+- evil is a kind of natural defect.
+- rejects subjectivism, partisularly emotivism, prescriptivism, non-cognitivism as being based on a mistake
+- all these are based on "linguistic philosophy" of the "evaluation" langage, and what that language is doing that is different from descriptive language.
+- "courage" and "justice" describe but also carry moral meaning
+- these theories are radically subjective, allowing for moral evaluation of any trivial act -- and consequently contradictions to be resolved.
+- Instead something "conative" must be involved: the will to actually do the act that way.  The moral value of such a statement comes not from the evaluation statement, but instead the speaker's state of mind.
+- these theories are devised to take advantage of the "action guiding" character of morality.  Hume says morality must guide action.
+- The just person aims at keeping promises, but might not if something more relevant appears.  The claim about keeping promises by itself is not good enough to explain morality, because there are exceptions.  We need "practical rationality" to explain moral behavior.
+- "he may not kill an innocent person even for the sake of stopping someone else from killing a greater number" & "he may destroy someone's property to stop the spread of a fire."
+   - *How do we know what a person may or may not do?  Does this come from intuition?  both other cases involved a benefit to the group, so why do we think the first is no allowed?  Foot seems to be verifying these moreal rules on intuition of what is moral.  How do we know that is actually the case?*
+- "good in the area of aims such as the relief of poverty" - *How do we know that relief of poverty is good?  Or not?*
+- burgler who watched tv and was caught:  how can we say that this burgler should not have watched tv?  in what was was the watching of tv immoral?
+- "Human parents are defective if they do not teach their young the skills that they need to survive." - *the first reference connecting morality with survival.*
+- "here is something wrong with a free-riding wolfthat feeds but does not take part in the hunt," - *Morals are inherently cooperative.*
+- "bees who finds a source of nectar but whose behaviour does not let other bees know of its location" is defective as well.
+- "the thoroughly discredited doctrine of psychological egoism" - *morals are about cooperation*
+- theory must account of weakness of will, and shamelessness.  "I have lived bad, and I shall die bad."
+- morality should be "based on facts and concepts, not on some prior attitude, feeling, or goal."
+
+
+
+
+### 2. Natural Norms
+
+### 3. Transition to Human Beings
+
+### 4. Practical Rationality
+
+### 5. Human Goodness
+
+### 6. Happiness and Human Good
+
+### 7. Immoralism
+
 
 
 ## Main References

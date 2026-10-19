@@ -80,7 +80,7 @@ For example, Spiderman has a property of existence that is either true or false.
 The problem is that existence is not a flag that can be false.  If something does not exist, then there is nothing to put the flag on.  This is precisely the flaw that is used to make the ontological proof of God seem reasonable.  
 
 
-## An Imperfect God
+## God Discovers the World
 
 It is more reasonable to think of a god as an intelligent being on **a voyage of discovery**. The creator of the universe acted in this way _to see what would happen_. This God created a universe with a set of well-known initial conditions. What would not have been known to god is exactly how the universe will unfold.  Seeing it unfold is the very reason for creating the universe in the first place.
 
@@ -105,6 +105,12 @@ Caution: Maybe I’m being too anthropomorphic. After all, I’m using my intuit
 The idea of [Material Positivism](https://meta.purplehillsbooks.com/2020/11/28/material-positivism/) and [Poetic Naturalism](https://meta.purplehillsbooks.com/2021/12/30/meaning-of-life/) compel me to the idea that God is not done with the universe.  Omniscience would be a dead universe.  Our universe is very much alive.  It is forming new things every day.  God imbued the universe with this nature.  God is growing because the creation is not done creating.
 
 **_And . . . we are part of it._**
+
+## An Evil God
+
+The [Evil God Challenge](https://en.wikipedia.org/wiki/Evil_God_challenge) was developed at length by the philosopher Stephen Law.  The challenge is to explain why an all-good God is more likely than an all-evil God. Perhaps the presence of suffering in the world -- indeed an ecology that requires animals to eat other animals -- indicates that God simply loves suffering and created the universe for that purpose.  Those who advance this challenge assert that, unless there is a satisfactory answer to the challenge, there is no reason to accept that God is good or can provide moral guidance.
+
+Christian apologists argue that an evil god would be perfectly evil, and if there is any good in the world then there can't be an evil god, but this is clearly a alse dichotomy:  Who says the evil god needs to be perfectly evil?  I suppose this argument works for their sheep, where they already believe in a perfect god, so whatever it is must be perfectly whatever it is.  How about perfectly ambiguous?
 
 ## References
 
