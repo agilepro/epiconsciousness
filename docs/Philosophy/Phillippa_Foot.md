@@ -107,6 +107,8 @@ An action is on a scale from good to bad, and a virtue is the tendency to do goo
 
 ### 1. A Fresh Start
 
+This first chapter is mainly a rejection of the non-cognitivist views that moral statements are not actually about good and evil, but in fact just a preference.  She shows that there is in fact a real meaning when we say something is good.
+
 - evil is a kind of natural defect.
 - rejects subjectivism, partisularly emotivism, prescriptivism, non-cognitivism as being based on a mistake
 - all these are based on "linguistic philosophy" of the "evaluation" langage, and what that language is doing that is different from descriptive language.
@@ -116,30 +118,138 @@ An action is on a scale from good to bad, and a virtue is the tendency to do goo
 - these theories are devised to take advantage of the "action guiding" character of morality.  Hume says morality must guide action.
 - The just person aims at keeping promises, but might not if something more relevant appears.  The claim about keeping promises by itself is not good enough to explain morality, because there are exceptions.  We need "practical rationality" to explain moral behavior.
 - "he may not kill an innocent person even for the sake of stopping someone else from killing a greater number" & "he may destroy someone's property to stop the spread of a fire."
-   - *How do we know what a person may or may not do?  Does this come from intuition?  both other cases involved a benefit to the group, so why do we think the first is no allowed?  Foot seems to be verifying these moreal rules on intuition of what is moral.  How do we know that is actually the case?*
+   - *How do we know what a person may or may not do?  Does this come from intuition?  both other cases involved a benefit to the group, so why do we think the first is no allowed?  Foot seems to be verifying these moral rules on intuition of what is moral.  How do we know that is actually the case?*
 - "good in the area of aims such as the relief of poverty" - *How do we know that relief of poverty is good?  Or not?*
-- burgler who watched tv and was caught:  how can we say that this burgler should not have watched tv?  in what was was the watching of tv immoral?
+- burglar who watched tv and was caught:  how can we say that this burglar should not have watched tv?  in what was was the watching of tv immoral?
 - "Human parents are defective if they do not teach their young the skills that they need to survive." - *the first reference connecting morality with survival.*
-- "here is something wrong with a free-riding wolfthat feeds but does not take part in the hunt," - *Morals are inherently cooperative.*
+- "here is something wrong with a free-riding wolf that feeds but does not take part in the hunt," - *Morals are inherently cooperative.*
 - "bees who finds a source of nectar but whose behaviour does not let other bees know of its location" is defective as well.
 - "the thoroughly discredited doctrine of psychological egoism" - *morals are about cooperation*
 - theory must account of weakness of will, and shamelessness.  "I have lived bad, and I shall die bad."
 - morality should be "based on facts and concepts, not on some prior attitude, feeling, or goal."
 
-
-
-
 ### 2. Natural Norms
+
+In this second chapter, she introduces the idea of goodness and defect.  What you _should_ do is related to how you exist as a species.  This explanation of goodness is intended to cover all living things.
+
+- How can we talk abut the "good" of fangs and roots of nettles?
+- goodness or defect of plants may have nothing to do with other species.  Any goodness to another species is secondary goodness
+- Comparison of these good/defective plants and animals follows the same structure of talking about moral goodness in humans
+- Michael Thompson: ‘The Representation of Life’
+- we speak about life in terms of the species, unquantified.  "Aristotelian categoricals" speak of
+the life cycle of individuals of a given species. 
+- we must ask what we mean by ‘playing a part in the life’ of a living thing.  A peacock's tail is important for life, but the color of a blue tit is not.
+- these things all have to do, directly or indirectly, with self-maintenance, as by defence and the obtaining of nourishment, or with the reproduction of the individual, as by the building of nests.
+- "purposive language" does not mean that the animal knows of this purpose and does it "on purpose" but still there is a purpose to it.  Plants grow upward, but they don't want/seek to grow upward.  Teleology of the species, not the individual.
+- "The way an individual should be is determined by what is needed for development, self-maintenance, and reproduction: in most species involving defence, and in some the rearing of the young."
+- (1) from life cycle, (2) how this is achieved, (3) norm around this description, (4) apply the norm to an individual
+- when we are describing the life form of certain animals, is that they live cooperatively. The dance of a honey bee.  Hunting of wolves.  Things that sustain the member of the species.
+- Intelligent Martians would see good and evil based on whether the action is generally beneficial.
 
 ### 3. Transition to Human Beings
 
+However humans are not exactly like plants and animals, because we are able through language to form relationships.  Things like promises, and the virtue of keeping a promise are uniquely human. Across humanity as a whole, we can identify norms of behavior which are readily identified as good.
+
+- "there is no change in the meaning of ‘good’ between the word as it appears in ‘good roots’ and as it appears in ‘good dispositions of the human will’."
+- "But the **belief that the word ‘good’ must mean something different in the former and the latter is, I think, simply a prejudice coming from the type of ethical theory that has dominated analytic philosophy in the past half-century.**"
+- "we shall want to discover what goodness in performance of these and other activities may have to do with the manner of living and the good of our own species."
+- goodness or defect is conceptually determined by the interaction of natural habitat and natural (species-general) ‘strategies’ for survival and reproduction. 
+- the idea of a good life for a human being, and the question of its relation to happiness, is each deeply
+problematic.
+- Beyond survival: "Men and women need to be industrious and tenacious of purpose not only so as to be able to house, clothe, and feed themselves, but also to pursue human ends having to do with love and friendship. They need the ability to form family ties, friendships, and special relations with neighbours. They also need codes of conduct."
+- Elizabeth Anscombe: 'On Promising and its Justice'
+- Humans need the possibility of one person being able to bind another's will by something in the nature of a promise or other contract.
+- to break a promise is, in the absence of special circumstances, to act badly.
+- 'Aristotelian necessity' is the necessity of that on which good hangs,
+- Story about the native being photographed as an example of the wrongness of breaking a promise.  There is no "harm" in it, but it is bad anyway.   So why should he have kept his promise?
+- utilitarianism never gets off the ground here.   It would be ludicrous to suppose that the description of good roots drew on the idea of botanical flourishing, I committed myself to the proposition that it was ‘a good thing’ if plants lived and ‘a bad thing’ if they died!
+- natural goodness in humans requires dispositions and attitudes as well as particular actions.
+
 ### 4. Practical Rationality
+
+We can't judge each action in isolation, or use a norm to the exclusion of others.  We need to logic to consider the "all things considered" point of view to come up with our best guess as to the final right thing to do in a given situation.  
+
+- ‘natural normativity’ does govern our evaluations of human beings as human beings. 
+- skeptic: ‘But what if I do not care about being a good human being?’
+- ‘all things considered’ (‘a.t.c.’)
+- considers a case where one should go out, but also should not go out.  How to resolve?  Those shoulds are not the final (a.t.c.) should.  What if he has a fever?
+- Many of us are willing to reject a ‘present desire’ theory of reasons for action because we think that someone who knowingly puts his future health at risk for a trivial pleasure is behaving foolishly, and therefore not well. 
+- If the sceptic goes on saying that he has not been shown that there is reason for acting as a good person would act, it is no longer clear what he is asking for. To ask for a reason for acting rationally is to ask for a reason where reasons must a priori have come to an end. And if he goes on saying ‘But why
+should I?’, we may query the meaning of this ‘should’.
 
 ### 5. Human Goodness
 
+Here she gets to the heart of what goodness really is in humans, based on the foundation of natural goodness.  We must consider no only what was done, but what reasonable expectations we have about the knowledge of the person who does it, as well as their attitude in approaching the act. 
+
+- The phrase "a good person" is different than the kinds of good we saw in plants and animals.  (I don't agree, we can say "a good dog" and mean that it is well behaved just like a human)
+- moral evaluations follow the same pattern as other kinds of more practical evaluations, not a special formulation.
+- The use of ‘should’ in such practical contexts tells us of a possible defect in action, but does not itself tell us whether or not anything of importance is involved. 
+- the words  ‘wicked’ and ‘evil’ are applied to conduct whose defect lies in what is done against other
+individuals or against the public good.  ‘wicked’ and ‘evil’ also mark the seriousness of the subject,
+and the extreme reactions evoked by horrifying and revolting actions of murderers, child abusers, or torturers.
+- the judgement is about voluntary action and purpose
+- story of a doctor who climbs a cliff to save a person but accidentally gives them a drug they are allergic to.  The accidental outcome does not make the doctor a bad person.   Our doctor acted in an emergency, so that discovery of the allergy was ruled out.
+- that lack of knowledge does not always excuse. 
+- Suppose that an infant had been left on the doorstep of her house and had perished during the night because she had not known that it was there. It is not that she could not have known, but that one can not be normally expected to know what is on your doorstep every hour.
+- What about people who fail to learn elementary first aid?  is that ignorance evil?
+- (What about a person with a speech defect and can not deliver a critical message?  Clearly it is not their fault, but also in the case of a flower unable to grow upward is a defect.  If a defect is anything that prevent acting as you should, then wouldn't that also include involuntary defects?)
+- Firstly, goodness can come from the nature of the action itself—from what it is that is done. So, in general, an act of saving life is good in this respect, while an act of killing is bad.
+- Secondly, the end for which an action is done is an independent source of goodness or badness in it.  Example: destroying someone's house to stop the spread of a fire endangering all houses.
+- Thirdly, a source of goodness or badness in an action lies in its relation to the agent's judgement of whether they are acting badly or well.
+- Story of the Norwegian family who gave the Jewish child to the Nazis believing it was good and their duty, but ultimately resulted in the child's death.  On Aquinas's reckoning they would have acted badly whether they had or had not given up the Jewish child.
+- here are generally bad acts, such as self-mutilation or suicide, whose badness need not depend on harm likely to come to anyone else.
+- One can never act well in doing what, rightly or even wrongly, one seriously thinks that one should not do.
+- a single defect is enough for badness, while goodness must be goodness in all respects.
+- Aquinas says that if an act is no way bad then it is good.
+- Consider a person in bed with flu that had promised to go to help a friend that day. He will be able to break the promise and say in exoneration, ‘I am sorry, but I was not able to get out that day.’ 
+- it is not at all generally believed that, for example, one should incur the certainty of losing a limb even to save another from injury more serious than that.
+- we tend to speak in moral philosophy only of volitional faults that impinge particularly on others.  if we speak of ‘a moral context’ this usually simply indicates the presence of a reason for acting that has to do with others rather than oneself.
+
+
 ### 6. Happiness and Human Good
 
+Having put in place a foundation for morality, she then talks about the problems of considering happiness as the end of all good actions.  There are many problems with using happiness as the measure, and this for the most part is a refutation of utilitarianism and consequentialism.
+
+- Is not happiness humanity's good?
+- Separate from the once influential, now largely discredited, idea that no one ever does (can) pursue anything except his or her own happiness.   Happiness is not the universal aim of action.
+- happiness may be successfully pursued through evil action. 
+- ‘happy φ-ing’ we may signify nothing more than an absence of restlessness.  ‘Happy φ-ing’ is, however, more likely to tell of enjoyment, or pleasure, or liking-to-do.
+- what seems to be important to the enjoyment is the perception of something seen as
+good.  the thought of good, plays a part in happiness, but it is not the only
+way.
+- note the expression ‘a happy frame of mind’,  a happy mood is something so much on the surface that it can cover up actual knowledge that things are not well at all.
+- Contentment is not only not necessary but also not sufficient for a happiness that could convincingly be called humanity's good
+- What, then, is the elusive concept of happiness that could rightly be given a central role in moral philosophy? 
+- objects of deep happiness seem to be things that are basic in human life, such as home, and family, and
+work, and friendship.
+- we must go beyond the description of a life of pleasure and contentment in looking
+into the concept of human happiness. 
+- we must allow that a wicked character could have an extremely happy life.
+- To flourish is here to instantiate the life form of that species
+- happiness is a protean concept, appearing now in one way and now in another
+- ‘happiness’ is here understood as the enjoyment of good things, meaning enjoyment in attaining, and in pursuing, right ends.
+- there is a way in which a good person must not only see his or her good as bound up with goodness of desire and action, but also feel that it is, with sentiments such as pleasure, pride, and honour.
+
+
 ### 7. Immoralism
+
+Finally, she addresses Nietzsche who is generally identified as the only philosopher who spend a great deal of time talking about morals, and who gets a lot of things wrong, and she tries to clarify exactly why they are wrong.  It is an excellent take down of Nietzsche.
+
+- Nietzsche called himself an immoralist and said that he was attacking morality itself
+- What friendship requires a friend to do for a friend may indeed be onerous, involving even life itself. But what is done in friendship is done gladly, _con amore_: perhaps with regret but without resentment about the way the chips have fallen. 
+- We ourselves know perfectly well that it is not true that the best life would consist in successfully pretending to friendship: having friends to serve one but without being a real friend oneself.
+- A loving parent would often be puzzled if told ‘You should just consider your own
+good’ if the good of the children were at stake. 
+- Nietzsche's insistence that free will is simply an illusion. Also that no distinction between voluntary and involuntary action.
+- Nietzsche spoke of ‘pity morality’ and ‘herd morality’ of ‘the weak and inferior’ 
+- He says that we do kindnesses to others so as to make them think well of us (no altruism). We torment others by displaying our virtues. 
+-  For what Nietzsche is denying of the supposed virtue of charity is exactly the connection with human good that was earlier said to give a character trait that status.
+- For we often find in his writings a claim that he is engaged on ‘the revaluation of values’, and this is a confusing idea. What could it mean to revalue values? By what values are the values to be revalued?
+-  increasingly, as time went on, he moved to a different and more sinister point of view, in that he went so far as to deny ‘intrinsic badness’ in the doing of any kind of act.  The reason given here as to why no action can be intrinsically wrong is **not** one that we can take very seriously.
+- It was that right and wrong in action could not be determined by what was done except in so far as that stood in a certain relation to the particular nature of the person who performed it. 
+- no sound basis in psychology for the Nietzschean denial that descriptions of what was done, such as ‘injury’, ‘oppression’, or ‘annihilation’, mark out examples of acts contrary to the virtue of justice -- unjust actions -- that in themselves are morally wrong
+-  there is nothing human beings need more than protection from those who would harm and oppress them.
+-  In human life it is an Aristotelian necessity (something on which our way of life depends) that if, for instance, a stranger should come on us when we are sleeping he will not think it all right to kill us or appropriate the tools that we need for the next day's work.
 
 
 
