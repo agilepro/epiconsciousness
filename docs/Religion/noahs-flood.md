@@ -6,6 +6,13 @@ Given this background, in a world imagined to be animated by god, the question i
 
 Noah's flood was based on an earlier story, but very much exaggerated.  That is all there is to it.
 
+## Floods Don't Make Layers
+
+![](./Apologetics/fossil-layers-noah.jpg)
+
+
+![](./Apologetics/fossil-layers.jpg)
+
 ## Resources
 
 * [The Impossible Voyage of Noah's Ark](https://ncse.ngo/impossible-voyage-noahs-ark?fbclid=IwZXh0bgNhZW0CMTAAAR2S4CIwp2GqI_0B_LYY-7H4rWYQGTZg7xMRHtnEm_SRIbIgniMlDkeg32Y_aem_QisXbsop3Ksm0DODq2X8kQ) - National Center for Science Education

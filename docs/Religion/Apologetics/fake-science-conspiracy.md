@@ -2,6 +2,16 @@
 
 The creationist will argue that scientific results are reported only to align with the funding they receive.  The people controlling the funding are only funding research that produces false results, in order to oppress Christians.  
 
+## Evolution Conspiracy
+
+99% of all biologists agree that evolution is the best explanation for the large variety of species on the planet. 
+
+That is some 100,000 scientists. For that many people to be purposefully falsifying their statements, would be a grand conspiracy, requiring some significant coordination. There would need to be documents, and videos, and lots of things to keep all 100,000 in line.
+
+But there is no evidence of any coordination materials.  There is no memo telling biologists to falsify their results.  There is no persuasion to support one or another theory.
+
+On the other hand, the Christians do have a document which tells them that if they don't believe what it says, they will all go to hell. That is motivation to lie. There is no such analog in the world of biology.
+
 
 ## Large Conspiracies Can Not Persist
 
