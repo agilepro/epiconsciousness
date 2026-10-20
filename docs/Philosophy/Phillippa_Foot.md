@@ -127,6 +127,7 @@ This first chapter is mainly a rejection of the non-cognitivist views that moral
 - "the thoroughly discredited doctrine of psychological egoism" - *morals are about cooperation*
 - theory must account of weakness of will, and shamelessness.  "I have lived bad, and I shall die bad."
 - morality should be "based on facts and concepts, not on some prior attitude, feeling, or goal."
+- "there is something wrong with the hearing of a gull that cannot distinguish the cry of its own chick"
 
 ### 2. Natural Norms
 
